@@ -1,0 +1,4 @@
+- pkg:nuget/Serilog.Enrichers.Metrics.Stopwatch@0.1.1-main.1
+- pkg:nuget/Serilog.Enrichers.Metrics.Stopwatch@0.1.1-stopwatch-enricher.1
+- pkg:nuget/Serilog.Enrichers.Metrics.Stopwatch@0.1.1-stopwatch-enricher.3
+- pkg:nuget/Serilog.Enrichers.Metrics.Stopwatch@0.2.0
