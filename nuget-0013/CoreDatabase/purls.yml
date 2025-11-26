@@ -65,6 +65,7 @@
 - pkg:nuget/CoreDatabase@2025.1.31
 - pkg:nuget/CoreDatabase@2025.1.7
 - pkg:nuget/CoreDatabase@2025.11.11
+- pkg:nuget/CoreDatabase@2025.11.26
 - pkg:nuget/CoreDatabase@2025.2.1
 - pkg:nuget/CoreDatabase@2025.2.16
 - pkg:nuget/CoreDatabase@2025.2.2
