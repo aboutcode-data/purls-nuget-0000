@@ -442,6 +442,7 @@
 - pkg:nuget/JetBrains.ReSharper.CommandLineTools@2025.2.0.1
 - pkg:nuget/JetBrains.ReSharper.CommandLineTools@2025.2.1
 - pkg:nuget/JetBrains.ReSharper.CommandLineTools@2025.2.2.1
+- pkg:nuget/JetBrains.ReSharper.CommandLineTools@2025.2.5
 - pkg:nuget/JetBrains.ReSharper.CommandLineTools@9.1.20150408.154812
 - pkg:nuget/JetBrains.ReSharper.CommandLineTools@9.1.20150521.130914
 - pkg:nuget/JetBrains.ReSharper.CommandLineTools@9.1.20150721.133523
