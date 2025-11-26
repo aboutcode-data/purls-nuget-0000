@@ -1,2 +1,3 @@
 - pkg:nuget/Zafiro.FileSystem.Mutable@42.0.0
+- pkg:nuget/Zafiro.FileSystem.Mutable@42.0.3
 - pkg:nuget/Zafiro.FileSystem.Mutable@6.0.4
