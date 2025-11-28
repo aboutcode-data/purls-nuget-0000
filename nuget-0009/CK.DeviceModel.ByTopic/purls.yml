@@ -6,6 +6,7 @@
 - pkg:nuget/CK.DeviceModel.ByTopic@12.0.0
 - pkg:nuget/CK.DeviceModel.ByTopic@13.0.0
 - pkg:nuget/CK.DeviceModel.ByTopic@13.0.1
+- pkg:nuget/CK.DeviceModel.ByTopic@14.2.1
 - pkg:nuget/CK.DeviceModel.ByTopic@7.0.1
 - pkg:nuget/CK.DeviceModel.ByTopic@7.0.2
 - pkg:nuget/CK.DeviceModel.ByTopic@8.0.0
