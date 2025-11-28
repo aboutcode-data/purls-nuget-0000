@@ -8,6 +8,7 @@
 - pkg:nuget/CK.Observable.SignalRWatcher@15.0.0
 - pkg:nuget/CK.Observable.SignalRWatcher@15.0.1
 - pkg:nuget/CK.Observable.SignalRWatcher@15.1.0
+- pkg:nuget/CK.Observable.SignalRWatcher@17.1.1
 - pkg:nuget/CK.Observable.SignalRWatcher@7.0.1
 - pkg:nuget/CK.Observable.SignalRWatcher@7.0.2
 - pkg:nuget/CK.Observable.SignalRWatcher@7.1.0
