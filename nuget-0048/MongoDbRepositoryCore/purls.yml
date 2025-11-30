@@ -11,3 +11,4 @@
 - pkg:nuget/MongoDbRepositoryCore@2.0.6
 - pkg:nuget/MongoDbRepositoryCore@2.0.7
 - pkg:nuget/MongoDbRepositoryCore@2.0.8
+- pkg:nuget/MongoDbRepositoryCore@2.2.3
