@@ -132,3 +132,4 @@
 - pkg:nuget/ZhileTime.Hope.PermissionManagement.MongoDB@5.5.1
 - pkg:nuget/ZhileTime.Hope.PermissionManagement.MongoDB@5.8.2
 - pkg:nuget/ZhileTime.Hope.PermissionManagement.MongoDB@6.0.2
+- pkg:nuget/ZhileTime.Hope.PermissionManagement.MongoDB@6.0.5

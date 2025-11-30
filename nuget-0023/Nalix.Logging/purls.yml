@@ -44,3 +44,4 @@
 - pkg:nuget/Nalix.Logging@6.0.0
 - pkg:nuget/Nalix.Logging@6.2.5
 - pkg:nuget/Nalix.Logging@7.1.2
+- pkg:nuget/Nalix.Logging@8.9.0

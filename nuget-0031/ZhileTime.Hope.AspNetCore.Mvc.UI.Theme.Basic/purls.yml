@@ -132,3 +132,4 @@
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Theme.Basic@5.8.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Theme.Basic@5.8.2
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Theme.Basic@6.0.2
+- pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Theme.Basic@6.0.5
