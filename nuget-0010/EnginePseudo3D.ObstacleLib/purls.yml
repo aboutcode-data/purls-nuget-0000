@@ -202,3 +202,5 @@
 - pkg:nuget/EnginePseudo3D.ObstacleLib@3.1.7
 - pkg:nuget/EnginePseudo3D.ObstacleLib@3.3.6
 - pkg:nuget/EnginePseudo3D.ObstacleLib@3.4.2
+- pkg:nuget/EnginePseudo3D.ObstacleLib@3.4.8
+- pkg:nuget/EnginePseudo3D.ObstacleLib@3.4.9
