@@ -79,6 +79,7 @@
 - pkg:nuget/UnifiedBlazor.Shared.Core@0.0.186
 - pkg:nuget/UnifiedBlazor.Shared.Core@0.0.189
 - pkg:nuget/UnifiedBlazor.Shared.Core@0.0.190
+- pkg:nuget/UnifiedBlazor.Shared.Core@0.0.194
 - pkg:nuget/UnifiedBlazor.Shared.Core@0.0.39
 - pkg:nuget/UnifiedBlazor.Shared.Core@0.0.40
 - pkg:nuget/UnifiedBlazor.Shared.Core@0.0.41
