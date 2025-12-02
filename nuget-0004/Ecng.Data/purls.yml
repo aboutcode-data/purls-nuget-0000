@@ -258,6 +258,7 @@
 - pkg:nuget/Ecng.Data@1.0.34
 - pkg:nuget/Ecng.Data@1.0.35
 - pkg:nuget/Ecng.Data@1.0.352
+- pkg:nuget/Ecng.Data@1.0.356
 - pkg:nuget/Ecng.Data@1.0.36
 - pkg:nuget/Ecng.Data@1.0.37
 - pkg:nuget/Ecng.Data@1.0.38
