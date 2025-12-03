@@ -1049,6 +1049,7 @@
 - pkg:nuget/AWSSDK.CodeBuild@3.7.503.9
 - pkg:nuget/AWSSDK.CodeBuild@3.7.504.10
 - pkg:nuget/AWSSDK.CodeBuild@3.7.504.12
+- pkg:nuget/AWSSDK.CodeBuild@3.7.504.14
 - pkg:nuget/AWSSDK.CodeBuild@3.7.6
 - pkg:nuget/AWSSDK.CodeBuild@3.7.6.1
 - pkg:nuget/AWSSDK.CodeBuild@3.7.6.10
