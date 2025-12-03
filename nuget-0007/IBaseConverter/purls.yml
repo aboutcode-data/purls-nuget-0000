@@ -1,3 +1,4 @@
+- pkg:nuget/IBaseConverter@25.12.1
 - pkg:nuget/IBaseConverter@25.4.1
 - pkg:nuget/IBaseConverter@25.4.2
 - pkg:nuget/IBaseConverter@25.4.3
