@@ -532,6 +532,7 @@
 - pkg:nuget/Pulumi.Pagerduty@4.3.0-alpha.1702360421%2B6c230dae
 - pkg:nuget/Pulumi.Pagerduty@4.3.0-alpha.1702369469%2Bdfa81755
 - pkg:nuget/Pulumi.Pagerduty@4.3.1
+- pkg:nuget/Pulumi.Pagerduty@4.30.0-alpha.1765261766
 - pkg:nuget/Pulumi.Pagerduty@4.4.0
 - pkg:nuget/Pulumi.Pagerduty@4.4.0-alpha.1702406203%2B627197e3
 - pkg:nuget/Pulumi.Pagerduty@4.4.0-alpha.1702435267%2B51498b4d
