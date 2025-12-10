@@ -43,3 +43,4 @@
 - pkg:nuget/Rescope.Commerce.Shipping.SendCloud@15.0.0-alpha
 - pkg:nuget/Rescope.Commerce.Shipping.SendCloud@15.0.1-alpha
 - pkg:nuget/Rescope.Commerce.Shipping.SendCloud@16.0.0-alpha
+- pkg:nuget/Rescope.Commerce.Shipping.SendCloud@16.1.0-alpha
