@@ -78,6 +78,7 @@
 - pkg:nuget/Paramore.Brighter.Outbox.PostgreSql@9.9.10
 - pkg:nuget/Paramore.Brighter.Outbox.PostgreSql@9.9.11
 - pkg:nuget/Paramore.Brighter.Outbox.PostgreSql@9.9.12
+- pkg:nuget/Paramore.Brighter.Outbox.PostgreSql@9.9.13
 - pkg:nuget/Paramore.Brighter.Outbox.PostgreSql@9.9.2
 - pkg:nuget/Paramore.Brighter.Outbox.PostgreSql@9.9.3
 - pkg:nuget/Paramore.Brighter.Outbox.PostgreSql@9.9.4
