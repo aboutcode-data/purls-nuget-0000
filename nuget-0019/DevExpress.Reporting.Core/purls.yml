@@ -1,1 +1,2 @@
 - pkg:nuget/DevExpress.Reporting.Core@18.1.2-beta
+- pkg:nuget/DevExpress.Reporting.Core@25.1.6
