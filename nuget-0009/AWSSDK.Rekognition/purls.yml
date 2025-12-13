@@ -1109,6 +1109,7 @@
 - pkg:nuget/AWSSDK.Rekognition@3.7.501.9
 - pkg:nuget/AWSSDK.Rekognition@3.7.502.1
 - pkg:nuget/AWSSDK.Rekognition@3.7.502.10
+- pkg:nuget/AWSSDK.Rekognition@3.7.502.16
 - pkg:nuget/AWSSDK.Rekognition@3.7.502.8
 - pkg:nuget/AWSSDK.Rekognition@3.7.6
 - pkg:nuget/AWSSDK.Rekognition@3.7.6.1
