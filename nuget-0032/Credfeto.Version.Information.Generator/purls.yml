@@ -229,6 +229,10 @@
 - pkg:nuget/Credfeto.Version.Information.Generator@1.0.116.875-main
 - pkg:nuget/Credfeto.Version.Information.Generator@1.0.116.896-main
 - pkg:nuget/Credfeto.Version.Information.Generator@1.0.117.912
+- pkg:nuget/Credfeto.Version.Information.Generator@1.0.118.956-main
+- pkg:nuget/Credfeto.Version.Information.Generator@1.0.118.957-dotnet-sdk-10-0
+- pkg:nuget/Credfeto.Version.Information.Generator@1.0.118.958-main
+- pkg:nuget/Credfeto.Version.Information.Generator@1.0.118.959-main
 - pkg:nuget/Credfeto.Version.Information.Generator@1.0.12.112-main
 - pkg:nuget/Credfeto.Version.Information.Generator@1.0.12.113-main
 - pkg:nuget/Credfeto.Version.Information.Generator@1.0.12.114-main
