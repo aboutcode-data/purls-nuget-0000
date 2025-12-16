@@ -29,3 +29,5 @@
 - pkg:nuget/SayehBanTools@1.7.5
 - pkg:nuget/SayehBanTools@1.7.6
 - pkg:nuget/SayehBanTools@1.8.4
+- pkg:nuget/SayehBanTools@2.0.3
+- pkg:nuget/SayehBanTools@2.0.4
