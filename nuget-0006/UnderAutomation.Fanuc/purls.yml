@@ -18,3 +18,4 @@
 - pkg:nuget/UnderAutomation.Fanuc@1.8.0
 - pkg:nuget/UnderAutomation.Fanuc@1.8.1
 - pkg:nuget/UnderAutomation.Fanuc@1.9.0
+- pkg:nuget/UnderAutomation.Fanuc@3.1.1
