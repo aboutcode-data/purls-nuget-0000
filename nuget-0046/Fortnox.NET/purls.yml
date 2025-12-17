@@ -16,3 +16,6 @@
 - pkg:nuget/Fortnox.NET@3.2.0
 - pkg:nuget/Fortnox.NET@3.3.0
 - pkg:nuget/Fortnox.NET@3.4.0
+- pkg:nuget/Fortnox.NET@3.5.1
+- pkg:nuget/Fortnox.NET@3.5.2
+- pkg:nuget/Fortnox.NET@3.5.3
