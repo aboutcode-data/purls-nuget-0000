@@ -327,6 +327,7 @@
 - pkg:nuget/AWSSDK.CloudFrontKeyValueStore@3.7.500.9
 - pkg:nuget/AWSSDK.CloudFrontKeyValueStore@3.7.501
 - pkg:nuget/AWSSDK.CloudFrontKeyValueStore@3.7.501.16
+- pkg:nuget/AWSSDK.CloudFrontKeyValueStore@3.7.501.21
 - pkg:nuget/AWSSDK.CloudFrontKeyValueStore@4.0.0
 - pkg:nuget/AWSSDK.CloudFrontKeyValueStore@4.0.0-preview
 - pkg:nuget/AWSSDK.CloudFrontKeyValueStore@4.0.0-preview.10

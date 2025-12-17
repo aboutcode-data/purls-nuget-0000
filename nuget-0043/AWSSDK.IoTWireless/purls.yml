@@ -719,6 +719,7 @@
 - pkg:nuget/AWSSDK.IoTWireless@3.7.501.8
 - pkg:nuget/AWSSDK.IoTWireless@3.7.501.9
 - pkg:nuget/AWSSDK.IoTWireless@3.7.502.2
+- pkg:nuget/AWSSDK.IoTWireless@3.7.503.12
 - pkg:nuget/AWSSDK.IoTWireless@3.7.503.3
 - pkg:nuget/AWSSDK.IoTWireless@3.7.503.5
 - pkg:nuget/AWSSDK.IoTWireless@3.7.503.7
