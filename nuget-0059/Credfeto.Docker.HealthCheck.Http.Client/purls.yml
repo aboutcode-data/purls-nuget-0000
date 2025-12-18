@@ -374,6 +374,7 @@
 - pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.6.67-main
 - pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.6.68-main
 - pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.6.69
+- pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.60.634-main
 - pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.7.70-main
 - pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.7.71-main
 - pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.7.72-main
