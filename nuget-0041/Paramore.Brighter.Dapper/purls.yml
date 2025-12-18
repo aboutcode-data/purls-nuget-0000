@@ -8,6 +8,7 @@
 - pkg:nuget/Paramore.Brighter.Dapper@10.0.0-preview.8
 - pkg:nuget/Paramore.Brighter.Dapper@10.0.0-preview.9
 - pkg:nuget/Paramore.Brighter.Dapper@10.0.1
+- pkg:nuget/Paramore.Brighter.Dapper@10.0.5
 - pkg:nuget/Paramore.Brighter.Dapper@9.1.15
 - pkg:nuget/Paramore.Brighter.Dapper@9.1.16
 - pkg:nuget/Paramore.Brighter.Dapper@9.1.18

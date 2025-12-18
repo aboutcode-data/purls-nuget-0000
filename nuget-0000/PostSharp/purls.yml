@@ -94,6 +94,7 @@
 - pkg:nuget/PostSharp@2025.1.7
 - pkg:nuget/PostSharp@2025.1.8
 - pkg:nuget/PostSharp@2025.1.9
+- pkg:nuget/PostSharp@2026.0.4-rc
 - pkg:nuget/PostSharp@3.0.11-beta
 - pkg:nuget/PostSharp@3.0.12-beta
 - pkg:nuget/PostSharp@3.0.13-beta
