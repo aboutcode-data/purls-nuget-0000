@@ -151,3 +151,4 @@
 - pkg:nuget/JetBrains.dotMemory.Console.linux-arm@2025.3.0-eap01
 - pkg:nuget/JetBrains.dotMemory.Console.linux-arm@2025.3.0-eap02
 - pkg:nuget/JetBrains.dotMemory.Console.linux-arm@2025.3.0-eap03
+- pkg:nuget/JetBrains.dotMemory.Console.linux-arm@2025.3.1
