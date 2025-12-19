@@ -318,3 +318,5 @@
 - pkg:nuget/Reo.Core.BaseDomainModels.MediatorGenerator@8.0.740
 - pkg:nuget/Reo.Core.BaseDomainModels.MediatorGenerator@8.0.746
 - pkg:nuget/Reo.Core.BaseDomainModels.MediatorGenerator@8.0.747
+- pkg:nuget/Reo.Core.BaseDomainModels.MediatorGenerator@8.0.763
+- pkg:nuget/Reo.Core.BaseDomainModels.MediatorGenerator@8.0.764

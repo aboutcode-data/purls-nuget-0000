@@ -60,6 +60,7 @@
 - pkg:nuget/AlibabaCloud.SDK.AiMiaoBi20230801@1.36.1
 - pkg:nuget/AlibabaCloud.SDK.AiMiaoBi20230801@1.36.2
 - pkg:nuget/AlibabaCloud.SDK.AiMiaoBi20230801@1.36.4
+- pkg:nuget/AlibabaCloud.SDK.AiMiaoBi20230801@1.38.0
 - pkg:nuget/AlibabaCloud.SDK.AiMiaoBi20230801@1.4.0
 - pkg:nuget/AlibabaCloud.SDK.AiMiaoBi20230801@1.5.0
 - pkg:nuget/AlibabaCloud.SDK.AiMiaoBi20230801@1.6.0
