@@ -36,3 +36,4 @@
 - pkg:nuget/MyJetWallet.Service.GasStationEmbedded.Client@2.3.6
 - pkg:nuget/MyJetWallet.Service.GasStationEmbedded.Client@2.3.7
 - pkg:nuget/MyJetWallet.Service.GasStationEmbedded.Client@2.4.3
+- pkg:nuget/MyJetWallet.Service.GasStationEmbedded.Client@2.4.6

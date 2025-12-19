@@ -77,3 +77,4 @@
 - pkg:nuget/Orc.CsvTextEditor@5.0.0-alpha0304
 - pkg:nuget/Orc.CsvTextEditor@5.0.0-alpha0330
 - pkg:nuget/Orc.CsvTextEditor@5.0.0-alpha0367
+- pkg:nuget/Orc.CsvTextEditor@5.1.0
