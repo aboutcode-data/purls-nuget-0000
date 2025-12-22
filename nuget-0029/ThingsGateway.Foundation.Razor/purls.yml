@@ -355,6 +355,7 @@
 - pkg:nuget/ThingsGateway.Foundation.Razor@10.9.98
 - pkg:nuget/ThingsGateway.Foundation.Razor@10.9.99
 - pkg:nuget/ThingsGateway.Foundation.Razor@12.4.14
+- pkg:nuget/ThingsGateway.Foundation.Razor@12.4.30
 - pkg:nuget/ThingsGateway.Foundation.Razor@12.4.5
 - pkg:nuget/ThingsGateway.Foundation.Razor@6.0.4.10
 - pkg:nuget/ThingsGateway.Foundation.Razor@6.0.4.11
