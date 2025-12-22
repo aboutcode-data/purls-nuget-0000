@@ -3,4 +3,5 @@
 - pkg:nuget/PanoramicData.HealthChecks.Versions@1.1.13
 - pkg:nuget/PanoramicData.HealthChecks.Versions@1.1.14
 - pkg:nuget/PanoramicData.HealthChecks.Versions@1.1.21
+- pkg:nuget/PanoramicData.HealthChecks.Versions@10.0.3
 - pkg:nuget/PanoramicData.HealthChecks.Versions@9.0.1
