@@ -690,6 +690,7 @@
 - pkg:nuget/Org.Cdk8s.Grafana@0.1.725
 - pkg:nuget/Org.Cdk8s.Grafana@0.1.727
 - pkg:nuget/Org.Cdk8s.Grafana@0.1.73
+- pkg:nuget/Org.Cdk8s.Grafana@0.1.735
 - pkg:nuget/Org.Cdk8s.Grafana@0.1.74
 - pkg:nuget/Org.Cdk8s.Grafana@0.1.75
 - pkg:nuget/Org.Cdk8s.Grafana@0.1.76
