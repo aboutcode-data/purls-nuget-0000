@@ -1118,6 +1118,7 @@
 - pkg:nuget/AWSSDK.RDSDataService@3.7.501.9
 - pkg:nuget/AWSSDK.RDSDataService@3.7.502.10
 - pkg:nuget/AWSSDK.RDSDataService@3.7.502.17
+- pkg:nuget/AWSSDK.RDSDataService@3.7.502.21
 - pkg:nuget/AWSSDK.RDSDataService@3.7.502.8
 - pkg:nuget/AWSSDK.RDSDataService@4.0.0
 - pkg:nuget/AWSSDK.RDSDataService@4.0.0-preview

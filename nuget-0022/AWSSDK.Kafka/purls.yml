@@ -1013,6 +1013,7 @@
 - pkg:nuget/AWSSDK.Kafka@3.7.502.1
 - pkg:nuget/AWSSDK.Kafka@3.7.502.6
 - pkg:nuget/AWSSDK.Kafka@3.7.504.1
+- pkg:nuget/AWSSDK.Kafka@3.7.504.14
 - pkg:nuget/AWSSDK.Kafka@3.7.504.3
 - pkg:nuget/AWSSDK.Kafka@3.7.504.5
 - pkg:nuget/AWSSDK.Kafka@3.7.6

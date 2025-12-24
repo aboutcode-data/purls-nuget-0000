@@ -1090,6 +1090,7 @@
 - pkg:nuget/AWSSDK.DatabaseMigrationService@3.7.501.9
 - pkg:nuget/AWSSDK.DatabaseMigrationService@3.7.504.2
 - pkg:nuget/AWSSDK.DatabaseMigrationService@3.7.505.1
+- pkg:nuget/AWSSDK.DatabaseMigrationService@3.7.505.12
 - pkg:nuget/AWSSDK.DatabaseMigrationService@3.7.505.3
 - pkg:nuget/AWSSDK.DatabaseMigrationService@3.7.505.8
 - pkg:nuget/AWSSDK.DatabaseMigrationService@3.7.6
