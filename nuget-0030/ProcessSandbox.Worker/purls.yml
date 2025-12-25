@@ -1,1 +1,2 @@
 - pkg:nuget/ProcessSandbox.Worker@0.17.0
+- pkg:nuget/ProcessSandbox.Worker@1.0.2
