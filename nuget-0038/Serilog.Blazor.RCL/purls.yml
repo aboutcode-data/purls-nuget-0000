@@ -8,6 +8,7 @@
 - pkg:nuget/Serilog.Blazor.RCL@0.9.7-alpha
 - pkg:nuget/Serilog.Blazor.RCL@1.0.0
 - pkg:nuget/Serilog.Blazor.RCL@1.0.1
+- pkg:nuget/Serilog.Blazor.RCL@1.0.10
 - pkg:nuget/Serilog.Blazor.RCL@1.0.2
 - pkg:nuget/Serilog.Blazor.RCL@1.0.3
 - pkg:nuget/Serilog.Blazor.RCL@1.0.4
