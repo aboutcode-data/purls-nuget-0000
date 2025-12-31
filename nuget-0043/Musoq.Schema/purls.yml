@@ -10,6 +10,7 @@
 - pkg:nuget/Musoq.Schema@1.0.0
 - pkg:nuget/Musoq.Schema@1.0.1
 - pkg:nuget/Musoq.Schema@1.1.0
+- pkg:nuget/Musoq.Schema@10.2.0
 - pkg:nuget/Musoq.Schema@2.0.0
 - pkg:nuget/Musoq.Schema@2.1.0
 - pkg:nuget/Musoq.Schema@3.0.0

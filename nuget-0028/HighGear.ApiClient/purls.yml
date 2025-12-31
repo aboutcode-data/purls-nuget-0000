@@ -7,6 +7,7 @@
 - pkg:nuget/HighGear.ApiClient@10.2.0.226
 - pkg:nuget/HighGear.ApiClient@10.2.1.234
 - pkg:nuget/HighGear.ApiClient@10.2.1.236
+- pkg:nuget/HighGear.ApiClient@10.3.0.244
 - pkg:nuget/HighGear.ApiClient@8.9.0.129
 - pkg:nuget/HighGear.ApiClient@8.9.0.132
 - pkg:nuget/HighGear.ApiClient@8.9.0.144
