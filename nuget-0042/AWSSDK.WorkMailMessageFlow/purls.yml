@@ -1016,6 +1016,7 @@
 - pkg:nuget/AWSSDK.WorkMailMessageFlow@3.7.501.9
 - pkg:nuget/AWSSDK.WorkMailMessageFlow@3.7.502.17
 - pkg:nuget/AWSSDK.WorkMailMessageFlow@3.7.502.21
+- pkg:nuget/AWSSDK.WorkMailMessageFlow@3.7.502.23
 - pkg:nuget/AWSSDK.WorkMailMessageFlow@3.7.502.8
 - pkg:nuget/AWSSDK.WorkMailMessageFlow@4.0.0
 - pkg:nuget/AWSSDK.WorkMailMessageFlow@4.0.0-preview
