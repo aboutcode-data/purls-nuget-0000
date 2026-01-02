@@ -40,6 +40,7 @@
 - pkg:nuget/Splat.SimpleInjector@16.1.1
 - pkg:nuget/Splat.SimpleInjector@16.2.1
 - pkg:nuget/Splat.SimpleInjector@17.0.1
+- pkg:nuget/Splat.SimpleInjector@19.1.1
 - pkg:nuget/Splat.SimpleInjector@6.1.7
 - pkg:nuget/Splat.SimpleInjector@7.0.1
 - pkg:nuget/Splat.SimpleInjector@7.0.8

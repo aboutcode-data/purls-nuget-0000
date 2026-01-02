@@ -46,6 +46,7 @@
 - pkg:nuget/Splat.Serilog@16.1.1
 - pkg:nuget/Splat.Serilog@16.2.1
 - pkg:nuget/Splat.Serilog@17.0.1
+- pkg:nuget/Splat.Serilog@19.1.1
 - pkg:nuget/Splat.Serilog@2.0.0
 - pkg:nuget/Splat.Serilog@3.0.0
 - pkg:nuget/Splat.Serilog@7.0.1
