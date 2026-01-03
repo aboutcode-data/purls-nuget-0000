@@ -670,3 +670,5 @@
 - pkg:nuget/Redpoint.ThirdParty.Microsoft.Extensions.Logging.Console@2025.1317.1416
 - pkg:nuget/Redpoint.ThirdParty.Microsoft.Extensions.Logging.Console@2025.1351.813
 - pkg:nuget/Redpoint.ThirdParty.Microsoft.Extensions.Logging.Console@2025.1355.582
+- pkg:nuget/Redpoint.ThirdParty.Microsoft.Extensions.Logging.Console@2026.1002.1147
+- pkg:nuget/Redpoint.ThirdParty.Microsoft.Extensions.Logging.Console@2026.1002.1153
