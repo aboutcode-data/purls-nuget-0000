@@ -2,3 +2,4 @@
 - pkg:nuget/AWSSDK.NovaAct@3.7.500.10
 - pkg:nuget/AWSSDK.NovaAct@3.7.500.5
 - pkg:nuget/AWSSDK.NovaAct@3.7.500.9
+- pkg:nuget/AWSSDK.NovaAct@4.0.0.4
