@@ -327,6 +327,7 @@
 - pkg:nuget/AWSSDK.EKSAuth@3.7.501.10
 - pkg:nuget/AWSSDK.EKSAuth@3.7.501.15
 - pkg:nuget/AWSSDK.EKSAuth@3.7.501.19
+- pkg:nuget/AWSSDK.EKSAuth@3.7.501.22
 - pkg:nuget/AWSSDK.EKSAuth@3.7.501.8
 - pkg:nuget/AWSSDK.EKSAuth@4.0.0
 - pkg:nuget/AWSSDK.EKSAuth@4.0.0-preview
@@ -366,3 +367,4 @@
 - pkg:nuget/AWSSDK.EKSAuth@4.0.0.7
 - pkg:nuget/AWSSDK.EKSAuth@4.0.0.8
 - pkg:nuget/AWSSDK.EKSAuth@4.0.0.9
+- pkg:nuget/AWSSDK.EKSAuth@4.0.1.9
