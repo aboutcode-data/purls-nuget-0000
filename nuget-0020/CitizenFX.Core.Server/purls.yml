@@ -707,6 +707,7 @@
 - pkg:nuget/CitizenFX.Core.Server@1.0.2405
 - pkg:nuget/CitizenFX.Core.Server@1.0.2406
 - pkg:nuget/CitizenFX.Core.Server@1.0.2407
+- pkg:nuget/CitizenFX.Core.Server@1.0.24079
 - pkg:nuget/CitizenFX.Core.Server@1.0.2409
 - pkg:nuget/CitizenFX.Core.Server@1.0.2410
 - pkg:nuget/CitizenFX.Core.Server@1.0.2417
