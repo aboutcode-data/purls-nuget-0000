@@ -32,3 +32,4 @@
 - pkg:nuget/ZYC.CoreToolkit.Abstractions@3.4.4
 - pkg:nuget/ZYC.CoreToolkit.Abstractions@3.4.5
 - pkg:nuget/ZYC.CoreToolkit.Abstractions@3.5.1
+- pkg:nuget/ZYC.CoreToolkit.Abstractions@3.7.0

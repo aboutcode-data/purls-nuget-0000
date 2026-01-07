@@ -32,3 +32,4 @@
 - pkg:nuget/ZYC.CoreToolkit.Extensions.Settings@3.4.4
 - pkg:nuget/ZYC.CoreToolkit.Extensions.Settings@3.4.5
 - pkg:nuget/ZYC.CoreToolkit.Extensions.Settings@3.5.1
+- pkg:nuget/ZYC.CoreToolkit.Extensions.Settings@3.7.0
