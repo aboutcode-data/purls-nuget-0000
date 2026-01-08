@@ -13,6 +13,7 @@
 - pkg:nuget/Skippy@0.0.9
 - pkg:nuget/Skippy@0.1.0
 - pkg:nuget/Skippy@0.1.1
+- pkg:nuget/Skippy@0.1.13
 - pkg:nuget/Skippy@0.1.2
 - pkg:nuget/Skippy@0.1.3
 - pkg:nuget/Skippy@0.1.4
