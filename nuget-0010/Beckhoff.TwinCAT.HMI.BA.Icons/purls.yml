@@ -5,6 +5,7 @@
 - pkg:nuget/Beckhoff.TwinCAT.HMI.BA.Icons@2.10.1
 - pkg:nuget/Beckhoff.TwinCAT.HMI.BA.Icons@2.11.1
 - pkg:nuget/Beckhoff.TwinCAT.HMI.BA.Icons@2.12.5
+- pkg:nuget/Beckhoff.TwinCAT.HMI.BA.Icons@2.14.2
 - pkg:nuget/Beckhoff.TwinCAT.HMI.BA.Icons@2.2.1
 - pkg:nuget/Beckhoff.TwinCAT.HMI.BA.Icons@2.4.0
 - pkg:nuget/Beckhoff.TwinCAT.HMI.BA.Icons@2.5.5
