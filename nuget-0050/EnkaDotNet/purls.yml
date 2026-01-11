@@ -32,3 +32,4 @@
 - pkg:nuget/EnkaDotNet@1.5.0.1
 - pkg:nuget/EnkaDotNet@1.5.0.2
 - pkg:nuget/EnkaDotNet@1.5.0.3
+- pkg:nuget/EnkaDotNet@1.6.3
