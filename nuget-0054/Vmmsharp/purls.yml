@@ -13,3 +13,4 @@
 - pkg:nuget/Vmmsharp@5.14.9
 - pkg:nuget/Vmmsharp@5.15.3
 - pkg:nuget/Vmmsharp@5.16.0
+- pkg:nuget/Vmmsharp@5.16.10
