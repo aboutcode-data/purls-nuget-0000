@@ -1,3 +1,5 @@
 - pkg:nuget/Microi.Job@1.0.0
 - pkg:nuget/Microi.Job@1.0.1
 - pkg:nuget/Microi.Job@4.4.0
+- pkg:nuget/Microi.Job@4.6.0
+- pkg:nuget/Microi.Job@4.6.1
