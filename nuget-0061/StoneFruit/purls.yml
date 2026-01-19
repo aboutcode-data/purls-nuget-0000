@@ -30,3 +30,4 @@
 - pkg:nuget/StoneFruit@3.0.0-beta1
 - pkg:nuget/StoneFruit@3.0.1
 - pkg:nuget/StoneFruit@3.1.0
+- pkg:nuget/StoneFruit@4.0.0
