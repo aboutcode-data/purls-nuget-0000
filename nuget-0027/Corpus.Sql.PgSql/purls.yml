@@ -20,6 +20,7 @@
 - pkg:nuget/Corpus.Sql.PgSql@10.1.0
 - pkg:nuget/Corpus.Sql.PgSql@10.1.2
 - pkg:nuget/Corpus.Sql.PgSql@10.1.5
+- pkg:nuget/Corpus.Sql.PgSql@11.0.2
 - pkg:nuget/Corpus.Sql.PgSql@2.0.0
 - pkg:nuget/Corpus.Sql.PgSql@2.0.1
 - pkg:nuget/Corpus.Sql.PgSql@2.0.2
