@@ -20,6 +20,7 @@
 - pkg:nuget/PDFTron.NETCore.Windows.x64@10.9.0
 - pkg:nuget/PDFTron.NETCore.Windows.x64@11.0.0
 - pkg:nuget/PDFTron.NETCore.Windows.x64@11.1.0
+- pkg:nuget/PDFTron.NETCore.Windows.x64@11.10.0
 - pkg:nuget/PDFTron.NETCore.Windows.x64@11.2.0
 - pkg:nuget/PDFTron.NETCore.Windows.x64@11.3.0
 - pkg:nuget/PDFTron.NETCore.Windows.x64@11.4.0
