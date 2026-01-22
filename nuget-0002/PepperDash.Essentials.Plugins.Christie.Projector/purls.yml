@@ -1,1 +1,2 @@
 - pkg:nuget/PepperDash.Essentials.Plugins.Christie.Projector@1.0.1-fix-package-name.1
+- pkg:nuget/PepperDash.Essentials.Plugins.Christie.Projector@1.1.0-feature-implement-IBasicVideoMuteWithFeedback.1
