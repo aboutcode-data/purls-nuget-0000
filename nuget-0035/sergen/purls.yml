@@ -1,4 +1,5 @@
 - pkg:nuget/sergen@10.1.0
+- pkg:nuget/sergen@10.1.5
 - pkg:nuget/sergen@3.11.0
 - pkg:nuget/sergen@3.12.0
 - pkg:nuget/sergen@3.12.1
@@ -222,3 +223,4 @@
 - pkg:nuget/sergen@8.8.9
 - pkg:nuget/sergen@9.0.0
 - pkg:nuget/sergen@9.1.1
+- pkg:nuget/sergen@9.2.2
