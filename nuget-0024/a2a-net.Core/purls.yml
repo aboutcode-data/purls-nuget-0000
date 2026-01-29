@@ -1,6 +1,8 @@
 - pkg:nuget/a2a-net.Core@0.1.0
 - pkg:nuget/a2a-net.Core@0.10.0
+- pkg:nuget/a2a-net.Core@0.19.0
 - pkg:nuget/a2a-net.Core@0.2.0
+- pkg:nuget/a2a-net.Core@0.20.0
 - pkg:nuget/a2a-net.Core@0.3.0
 - pkg:nuget/a2a-net.Core@0.4.0
 - pkg:nuget/a2a-net.Core@0.4.1
