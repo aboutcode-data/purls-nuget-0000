@@ -27,6 +27,7 @@
 - pkg:nuget/xStatic.Git@15.1.0-beta1
 - pkg:nuget/xStatic.Git@16.0.0-alpha1
 - pkg:nuget/xStatic.Git@16.0.0-alpha2
+- pkg:nuget/xStatic.Git@17.0.0-beta5
 - pkg:nuget/xStatic.Git@2.0.1-alpha
 - pkg:nuget/xStatic.Git@2.0.3-beta
 - pkg:nuget/xStatic.Git@3.0.0
