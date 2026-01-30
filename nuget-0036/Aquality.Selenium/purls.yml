@@ -74,6 +74,7 @@
 - pkg:nuget/Aquality.Selenium@4.25.0
 - pkg:nuget/Aquality.Selenium@4.26.0
 - pkg:nuget/Aquality.Selenium@4.3.0
+- pkg:nuget/Aquality.Selenium@4.31.0
 - pkg:nuget/Aquality.Selenium@4.5.2
 - pkg:nuget/Aquality.Selenium@4.6.0
 - pkg:nuget/Aquality.Selenium@4.7.0
