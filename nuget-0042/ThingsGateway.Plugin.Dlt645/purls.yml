@@ -355,6 +355,7 @@
 - pkg:nuget/ThingsGateway.Plugin.Dlt645@12.4.12
 - pkg:nuget/ThingsGateway.Plugin.Dlt645@12.4.22
 - pkg:nuget/ThingsGateway.Plugin.Dlt645@12.4.24
+- pkg:nuget/ThingsGateway.Plugin.Dlt645@12.4.43
 - pkg:nuget/ThingsGateway.Plugin.Dlt645@6.1.0.17
 - pkg:nuget/ThingsGateway.Plugin.Dlt645@6.1.0.18
 - pkg:nuget/ThingsGateway.Plugin.Dlt645@6.1.0.19
