@@ -693,3 +693,4 @@
 - pkg:nuget/Ekom.AspNetCore@0.1.922
 - pkg:nuget/Ekom.AspNetCore@0.2.11
 - pkg:nuget/Ekom.AspNetCore@0.2.3
+- pkg:nuget/Ekom.AspNetCore@0.2.32
