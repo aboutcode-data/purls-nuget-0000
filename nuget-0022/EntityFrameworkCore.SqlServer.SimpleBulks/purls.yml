@@ -29,3 +29,4 @@
 - pkg:nuget/EntityFrameworkCore.SqlServer.SimpleBulks@8.1.0
 - pkg:nuget/EntityFrameworkCore.SqlServer.SimpleBulks@8.14.0
 - pkg:nuget/EntityFrameworkCore.SqlServer.SimpleBulks@8.2.0
+- pkg:nuget/EntityFrameworkCore.SqlServer.SimpleBulks@8.21.0
