@@ -1,1 +1,2 @@
+- pkg:nuget/DotNetBrightener.NotificationService.Persistent.PostgreSQL@2026.0.1-preview-731
 - pkg:nuget/DotNetBrightener.NotificationService.Persistent.PostgreSQL@2026.0.1-preview-notification-service-698
