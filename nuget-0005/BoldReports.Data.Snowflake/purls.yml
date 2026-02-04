@@ -13,6 +13,7 @@
 - pkg:nuget/BoldReports.Data.Snowflake@11.1.10
 - pkg:nuget/BoldReports.Data.Snowflake@11.1.11
 - pkg:nuget/BoldReports.Data.Snowflake@11.1.15
+- pkg:nuget/BoldReports.Data.Snowflake@12.2.9
 - pkg:nuget/BoldReports.Data.Snowflake@3.3.41
 - pkg:nuget/BoldReports.Data.Snowflake@3.3.42
 - pkg:nuget/BoldReports.Data.Snowflake@3.3.46

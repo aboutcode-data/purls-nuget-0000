@@ -24,3 +24,4 @@
 - pkg:nuget/Rebex.Common.Validator@7.0.9209
 - pkg:nuget/Rebex.Common.Validator@7.0.9313
 - pkg:nuget/Rebex.Common.Validator@7.0.9391
+- pkg:nuget/Rebex.Common.Validator@8.0.9531-rc.3
