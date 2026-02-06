@@ -686,6 +686,7 @@
 - pkg:nuget/AWSSDK.CloudWatchRUM@3.7.503.13
 - pkg:nuget/AWSSDK.CloudWatchRUM@3.7.503.16
 - pkg:nuget/AWSSDK.CloudWatchRUM@3.7.503.2
+- pkg:nuget/AWSSDK.CloudWatchRUM@3.7.503.30
 - pkg:nuget/AWSSDK.CloudWatchRUM@3.7.503.6
 - pkg:nuget/AWSSDK.CloudWatchRUM@3.7.503.9
 - pkg:nuget/AWSSDK.CloudWatchRUM@4.0.0
