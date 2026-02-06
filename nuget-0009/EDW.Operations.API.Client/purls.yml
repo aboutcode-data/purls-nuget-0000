@@ -3,6 +3,7 @@
 - pkg:nuget/EDW.Operations.API.Client@1.2.1.1042
 - pkg:nuget/EDW.Operations.API.Client@1.2.1.1046
 - pkg:nuget/EDW.Operations.API.Client@1.2.1.1050
+- pkg:nuget/EDW.Operations.API.Client@1.2.1.1076
 - pkg:nuget/EDW.Operations.API.Client@1.2.1.126
 - pkg:nuget/EDW.Operations.API.Client@1.2.1.173
 - pkg:nuget/EDW.Operations.API.Client@1.2.1.174
