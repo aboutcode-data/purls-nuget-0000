@@ -17,3 +17,5 @@
 - pkg:nuget/AutoMapperAnalyzer.Analyzers@1.5.724.2155
 - pkg:nuget/AutoMapperAnalyzer.Analyzers@1.5.805.1514
 - pkg:nuget/AutoMapperAnalyzer.Analyzers@1.5.805.1834
+- pkg:nuget/AutoMapperAnalyzer.Analyzers@2.10.0
+- pkg:nuget/AutoMapperAnalyzer.Analyzers@2.9.0
