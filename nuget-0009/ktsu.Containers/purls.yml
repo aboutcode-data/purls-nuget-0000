@@ -1,5 +1,6 @@
 - pkg:nuget/ktsu.Containers@1.0.0
 - pkg:nuget/ktsu.Containers@1.0.1
+- pkg:nuget/ktsu.Containers@1.0.10-pre.6
 - pkg:nuget/ktsu.Containers@1.0.2
 - pkg:nuget/ktsu.Containers@1.0.2-pre.1
 - pkg:nuget/ktsu.Containers@1.0.2-pre.2
