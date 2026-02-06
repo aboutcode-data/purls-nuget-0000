@@ -52,6 +52,7 @@
 - pkg:nuget/AWSSDK.MPA@3.7.502.14
 - pkg:nuget/AWSSDK.MPA@3.7.502.23
 - pkg:nuget/AWSSDK.MPA@3.7.502.26
+- pkg:nuget/AWSSDK.MPA@3.7.503.1
 - pkg:nuget/AWSSDK.MPA@4.0.0
 - pkg:nuget/AWSSDK.MPA@4.0.0.1
 - pkg:nuget/AWSSDK.MPA@4.0.0.2
