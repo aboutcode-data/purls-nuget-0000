@@ -1125,6 +1125,7 @@
 - pkg:nuget/AWSSDK.RAM@3.7.502.7
 - pkg:nuget/AWSSDK.RAM@3.7.502.9
 - pkg:nuget/AWSSDK.RAM@3.7.503
+- pkg:nuget/AWSSDK.RAM@3.7.503.5
 - pkg:nuget/AWSSDK.RAM@4.0.0
 - pkg:nuget/AWSSDK.RAM@4.0.0-preview
 - pkg:nuget/AWSSDK.RAM@4.0.0-preview.10

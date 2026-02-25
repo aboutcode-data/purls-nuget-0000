@@ -1153,6 +1153,7 @@
 - pkg:nuget/AWSSDK.AppStream@3.7.505.19
 - pkg:nuget/AWSSDK.AppStream@3.7.505.2
 - pkg:nuget/AWSSDK.AppStream@3.7.505.5
+- pkg:nuget/AWSSDK.AppStream@3.7.506
 - pkg:nuget/AWSSDK.AppStream@3.7.6
 - pkg:nuget/AWSSDK.AppStream@3.7.6.1
 - pkg:nuget/AWSSDK.AppStream@3.7.6.10

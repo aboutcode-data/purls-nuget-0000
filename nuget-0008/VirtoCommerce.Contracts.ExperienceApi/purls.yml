@@ -1,3 +1,4 @@
+- pkg:nuget/VirtoCommerce.Contracts.ExperienceApi@3.1000.0
 - pkg:nuget/VirtoCommerce.Contracts.ExperienceApi@3.402.0
 - pkg:nuget/VirtoCommerce.Contracts.ExperienceApi@3.402.0-alpha.71
 - pkg:nuget/VirtoCommerce.Contracts.ExperienceApi@3.403.0

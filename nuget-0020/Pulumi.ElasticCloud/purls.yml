@@ -381,3 +381,5 @@
 - pkg:nuget/Pulumi.ElasticCloud@1.0.0-alpha.1760594067
 - pkg:nuget/Pulumi.ElasticCloud@1.0.0-alpha.1767139887
 - pkg:nuget/Pulumi.ElasticCloud@1.0.0-alpha.1770098284
+- pkg:nuget/Pulumi.ElasticCloud@1.0.0-alpha.1771481074
+- pkg:nuget/Pulumi.ElasticCloud@1.0.0-alpha.1771913091

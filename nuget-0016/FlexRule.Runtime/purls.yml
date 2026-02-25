@@ -5,6 +5,7 @@
 - pkg:nuget/FlexRule.Runtime@10.1.611
 - pkg:nuget/FlexRule.Runtime@10.1.615
 - pkg:nuget/FlexRule.Runtime@10.1.616
+- pkg:nuget/FlexRule.Runtime@11.0.1652
 - pkg:nuget/FlexRule.Runtime@7.4.717
 - pkg:nuget/FlexRule.Runtime@7.4.727
 - pkg:nuget/FlexRule.Runtime@7.4.729

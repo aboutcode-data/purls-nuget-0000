@@ -573,3 +573,5 @@
 - pkg:nuget/Soenneker.GitHub.Repositories.Tags@4.0.685
 - pkg:nuget/Soenneker.GitHub.Repositories.Tags@4.0.693
 - pkg:nuget/Soenneker.GitHub.Repositories.Tags@4.0.700
+- pkg:nuget/Soenneker.GitHub.Repositories.Tags@4.0.706
+- pkg:nuget/Soenneker.GitHub.Repositories.Tags@4.0.713
