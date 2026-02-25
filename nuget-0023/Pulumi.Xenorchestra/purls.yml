@@ -26,3 +26,4 @@
 - pkg:nuget/Pulumi.Xenorchestra@2.3.0-alpha.1758337943
 - pkg:nuget/Pulumi.Xenorchestra@2.3.0-alpha.1758639464
 - pkg:nuget/Pulumi.Xenorchestra@2.3.0-alpha.1758640455
+- pkg:nuget/Pulumi.Xenorchestra@2.4.0-alpha.1772028769
