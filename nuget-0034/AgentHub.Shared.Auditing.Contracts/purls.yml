@@ -6,6 +6,7 @@
 - pkg:nuget/AgentHub.Shared.Auditing.Contracts@1.1.105
 - pkg:nuget/AgentHub.Shared.Auditing.Contracts@1.1.106
 - pkg:nuget/AgentHub.Shared.Auditing.Contracts@1.1.107
+- pkg:nuget/AgentHub.Shared.Auditing.Contracts@1.1.108
 - pkg:nuget/AgentHub.Shared.Auditing.Contracts@1.1.24
 - pkg:nuget/AgentHub.Shared.Auditing.Contracts@1.1.25
 - pkg:nuget/AgentHub.Shared.Auditing.Contracts@1.1.26

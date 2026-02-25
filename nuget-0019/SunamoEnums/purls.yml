@@ -33,4 +33,5 @@
 - pkg:nuget/SunamoEnums@24.9.20.1
 - pkg:nuget/SunamoEnums@25.12.31.1
 - pkg:nuget/SunamoEnums@25.3.29.1
+- pkg:nuget/SunamoEnums@26.2.23.3
 - pkg:nuget/SunamoEnums@26.2.4.1

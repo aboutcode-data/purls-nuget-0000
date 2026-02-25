@@ -34,3 +34,4 @@
 - pkg:nuget/Nodinite.Serilog.EventHubSink@2.0.7
 - pkg:nuget/Nodinite.Serilog.EventHubSink@2.0.8
 - pkg:nuget/Nodinite.Serilog.EventHubSink@2.0.9
+- pkg:nuget/Nodinite.Serilog.EventHubSink@7.3.0
