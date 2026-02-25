@@ -106,3 +106,6 @@
 - pkg:nuget/Px.Utils.Accounting@3.1.7
 - pkg:nuget/Px.Utils.Accounting@3.1.8
 - pkg:nuget/Px.Utils.Accounting@3.1.9
+- pkg:nuget/Px.Utils.Accounting@3.2.41
+- pkg:nuget/Px.Utils.Accounting@3.2.58
+- pkg:nuget/Px.Utils.Accounting@3.2.61

@@ -23,6 +23,7 @@
 - pkg:nuget/Amazon.CodeBuild@0.31.1
 - pkg:nuget/Amazon.CodeBuild@0.33.0
 - pkg:nuget/Amazon.CodeBuild@0.34.0
+- pkg:nuget/Amazon.CodeBuild@0.35.0
 - pkg:nuget/Amazon.CodeBuild@0.5.0
 - pkg:nuget/Amazon.CodeBuild@0.5.1
 - pkg:nuget/Amazon.CodeBuild@0.5.2

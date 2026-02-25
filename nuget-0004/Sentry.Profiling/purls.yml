@@ -73,3 +73,4 @@
 - pkg:nuget/Sentry.Profiling@5.8.1
 - pkg:nuget/Sentry.Profiling@5.8.2-beta.1
 - pkg:nuget/Sentry.Profiling@5.9.0
+- pkg:nuget/Sentry.Profiling@6.2.0-alpha.0

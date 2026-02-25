@@ -185,3 +185,5 @@
 - pkg:nuget/Soenneker.Email.Mime@4.0.249
 - pkg:nuget/Soenneker.Email.Mime@4.0.250
 - pkg:nuget/Soenneker.Email.Mime@4.0.254
+- pkg:nuget/Soenneker.Email.Mime@4.0.274
+- pkg:nuget/Soenneker.Email.Mime@4.0.275

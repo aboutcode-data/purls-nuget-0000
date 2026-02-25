@@ -1,4 +1,5 @@
 - pkg:nuget/ThePensionsRegulator.GovUk.Frontend.Umbraco@1.0.0
+- pkg:nuget/ThePensionsRegulator.GovUk.Frontend.Umbraco@10.0.0-beta001
 - pkg:nuget/ThePensionsRegulator.GovUk.Frontend.Umbraco@2.0.0
 - pkg:nuget/ThePensionsRegulator.GovUk.Frontend.Umbraco@3.0.0
 - pkg:nuget/ThePensionsRegulator.GovUk.Frontend.Umbraco@3.0.1
