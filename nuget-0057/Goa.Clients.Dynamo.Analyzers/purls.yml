@@ -1,1 +1,2 @@
 - pkg:nuget/Goa.Clients.Dynamo.Analyzers@0.1.4-preview
+- pkg:nuget/Goa.Clients.Dynamo.Analyzers@0.7.2-preview
