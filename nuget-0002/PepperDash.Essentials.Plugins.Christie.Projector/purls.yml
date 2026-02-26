@@ -1,4 +1,5 @@
 - pkg:nuget/PepperDash.Essentials.Plugins.Christie.Projector@1.0.1-fix-package-name.1
+- pkg:nuget/PepperDash.Essentials.Plugins.Christie.Projector@1.1.0-feature-add-model-4K35rgb.3
 - pkg:nuget/PepperDash.Essentials.Plugins.Christie.Projector@1.1.0-feature-command-queue.2
 - pkg:nuget/PepperDash.Essentials.Plugins.Christie.Projector@1.1.0-feature-command-queue.3
 - pkg:nuget/PepperDash.Essentials.Plugins.Christie.Projector@1.1.0-feature-implement-IBasicVideoMuteWithFeedback.1
