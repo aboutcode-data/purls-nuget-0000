@@ -1,4 +1,5 @@
 - pkg:nuget/ECS.PrimeNGTable@0.0.1
+- pkg:nuget/ECS.PrimeNGTable@10.0.3
 - pkg:nuget/ECS.PrimeNGTable@8.0.0
 - pkg:nuget/ECS.PrimeNGTable@8.0.1
 - pkg:nuget/ECS.PrimeNGTable@8.0.2
