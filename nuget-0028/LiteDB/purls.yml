@@ -67,6 +67,7 @@
 - pkg:nuget/LiteDB@6.0.0-prerelease.50
 - pkg:nuget/LiteDB@6.0.0-prerelease.51
 - pkg:nuget/LiteDB@6.0.0-prerelease.52
+- pkg:nuget/LiteDB@6.0.0-prerelease.76
 - pkg:nuget/LiteDB@6.0.0-prerelease.9
 - pkg:nuget/LiteDB@6.0.0-prerelease.9.10
 - pkg:nuget/LiteDB@6.0.0-prerelease.9.10.5
