@@ -1877,3 +1877,4 @@
 - pkg:nuget/Soenneker.Extensions.DateTime.Day@3.0.999
 - pkg:nuget/Soenneker.Extensions.DateTime.Day@4.0.1890
 - pkg:nuget/Soenneker.Extensions.DateTime.Day@4.0.1893
+- pkg:nuget/Soenneker.Extensions.DateTime.Day@4.0.1912
