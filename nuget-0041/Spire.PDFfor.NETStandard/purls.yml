@@ -27,3 +27,4 @@
 - pkg:nuget/Spire.PDFfor.NETStandard@11.8.0
 - pkg:nuget/Spire.PDFfor.NETStandard@11.8.7
 - pkg:nuget/Spire.PDFfor.NETStandard@11.9.17
+- pkg:nuget/Spire.PDFfor.NETStandard@12.2.14
