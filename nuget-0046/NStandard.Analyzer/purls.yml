@@ -11,4 +11,6 @@
 - pkg:nuget/NStandard.Analyzer@0.100.2.2
 - pkg:nuget/NStandard.Analyzer@0.100.2.3
 - pkg:nuget/NStandard.Analyzer@0.100.3.1
+- pkg:nuget/NStandard.Analyzer@0.110.3
+- pkg:nuget/NStandard.Analyzer@0.110.3.1
 - pkg:nuget/NStandard.Analyzer@0.90.0

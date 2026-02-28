@@ -39,6 +39,7 @@
 - pkg:nuget/Spire.PDF@11.8.0
 - pkg:nuget/Spire.PDF@11.8.7
 - pkg:nuget/Spire.PDF@11.9.17
+- pkg:nuget/Spire.PDF@12.2.14
 - pkg:nuget/Spire.PDF@2.6.0
 - pkg:nuget/Spire.PDF@2.9.43
 - pkg:nuget/Spire.PDF@2.9.51
