@@ -1,2 +1,3 @@
 - pkg:nuget/CosmoSQLClient.Core@1.1.0
 - pkg:nuget/CosmoSQLClient.Core@1.3.1
+- pkg:nuget/CosmoSQLClient.Core@1.3.9
