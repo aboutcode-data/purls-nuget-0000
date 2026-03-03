@@ -909,6 +909,7 @@
 - pkg:nuget/Cdklabs.CdkDockerImageDeployment@0.0.946
 - pkg:nuget/Cdklabs.CdkDockerImageDeployment@0.0.95
 - pkg:nuget/Cdklabs.CdkDockerImageDeployment@0.0.96
+- pkg:nuget/Cdklabs.CdkDockerImageDeployment@0.0.963
 - pkg:nuget/Cdklabs.CdkDockerImageDeployment@0.0.97
 - pkg:nuget/Cdklabs.CdkDockerImageDeployment@0.0.98
 - pkg:nuget/Cdklabs.CdkDockerImageDeployment@0.0.99
