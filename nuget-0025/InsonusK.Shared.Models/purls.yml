@@ -1,2 +1,6 @@
+- pkg:nuget/InsonusK.Shared.Models@1.0.0
 - pkg:nuget/InsonusK.Shared.Models@10.0.0
 - pkg:nuget/InsonusK.Shared.Models@10.0.0-beta.16
+- pkg:nuget/InsonusK.Shared.Models@10.0.1
+- pkg:nuget/InsonusK.Shared.Models@10.1.1
+- pkg:nuget/InsonusK.Shared.Models@10.1.2
