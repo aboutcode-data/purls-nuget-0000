@@ -72,4 +72,5 @@
 - pkg:nuget/Soenneker.Blazor.Floating.Windows@4.0.190
 - pkg:nuget/Soenneker.Blazor.Floating.Windows@4.0.205
 - pkg:nuget/Soenneker.Blazor.Floating.Windows@4.0.211
+- pkg:nuget/Soenneker.Blazor.Floating.Windows@4.0.215
 - pkg:nuget/Soenneker.Blazor.Floating.Windows@4.0.99
