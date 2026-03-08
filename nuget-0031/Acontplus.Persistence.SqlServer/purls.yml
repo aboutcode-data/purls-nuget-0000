@@ -38,3 +38,4 @@
 - pkg:nuget/Acontplus.Persistence.SqlServer@1.5.8
 - pkg:nuget/Acontplus.Persistence.SqlServer@1.5.9
 - pkg:nuget/Acontplus.Persistence.SqlServer@1.6.6
+- pkg:nuget/Acontplus.Persistence.SqlServer@2.1.3
