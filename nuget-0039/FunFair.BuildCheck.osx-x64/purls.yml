@@ -19,3 +19,5 @@
 - pkg:nuget/FunFair.BuildCheck.osx-x64@474.2.2.1955-main
 - pkg:nuget/FunFair.BuildCheck.osx-x64@474.2.2.1956-main
 - pkg:nuget/FunFair.BuildCheck.osx-x64@474.2.2.1965-main
+- pkg:nuget/FunFair.BuildCheck.osx-x64@474.2.4.2013-main
+- pkg:nuget/FunFair.BuildCheck.osx-x64@474.2.4.2014-main
