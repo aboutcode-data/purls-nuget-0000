@@ -22,3 +22,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Seesaw@1.1.65
 - pkg:nuget/nanoFramework.Iot.Device.Seesaw@1.1.70
 - pkg:nuget/nanoFramework.Iot.Device.Seesaw@1.1.90
+- pkg:nuget/nanoFramework.Iot.Device.Seesaw@2.0.0-preview.16
