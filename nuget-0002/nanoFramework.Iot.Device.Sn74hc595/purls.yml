@@ -69,3 +69,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Sn74hc595@1.2.87
 - pkg:nuget/nanoFramework.Iot.Device.Sn74hc595@1.2.907
 - pkg:nuget/nanoFramework.Iot.Device.Sn74hc595@1.2.95
+- pkg:nuget/nanoFramework.Iot.Device.Sn74hc595@2.0.0-preview.16
