@@ -21,3 +21,4 @@
 - pkg:nuget/Intent.Modules.Application.Contracts@5.0.9-pre.0
 - pkg:nuget/Intent.Modules.Application.Contracts@5.1.0
 - pkg:nuget/Intent.Modules.Application.Contracts@5.1.1
+- pkg:nuget/Intent.Modules.Application.Contracts@5.1.3
