@@ -1,1 +1,2 @@
 - pkg:nuget/NArk.Storage.EfCore@1.0.153-beta
+- pkg:nuget/NArk.Storage.EfCore@1.0.202-beta
