@@ -289,3 +289,5 @@
 - pkg:nuget/Soenneker.Cosmos.Repositories.Audits@4.0.467
 - pkg:nuget/Soenneker.Cosmos.Repositories.Audits@4.0.474
 - pkg:nuget/Soenneker.Cosmos.Repositories.Audits@4.0.485
+- pkg:nuget/Soenneker.Cosmos.Repositories.Audits@4.0.509
+- pkg:nuget/Soenneker.Cosmos.Repositories.Audits@4.0.511
