@@ -29,3 +29,4 @@
 - pkg:nuget/Soenneker.Attributes.PublicOpenApiEndpoint@3.0.8
 - pkg:nuget/Soenneker.Attributes.PublicOpenApiEndpoint@3.0.9
 - pkg:nuget/Soenneker.Attributes.PublicOpenApiEndpoint@4.0.39
+- pkg:nuget/Soenneker.Attributes.PublicOpenApiEndpoint@4.0.41

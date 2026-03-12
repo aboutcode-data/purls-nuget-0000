@@ -122,3 +122,4 @@
 - pkg:nuget/KafkaFlow.Admin.Dashboard@4.0.0-beta4
 - pkg:nuget/KafkaFlow.Admin.Dashboard@4.0.1
 - pkg:nuget/KafkaFlow.Admin.Dashboard@4.1.0
+- pkg:nuget/KafkaFlow.Admin.Dashboard@4.2.0
