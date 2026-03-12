@@ -109,3 +109,4 @@
 - pkg:nuget/Soenneker.Hangfire.Util@4.0.126
 - pkg:nuget/Soenneker.Hangfire.Util@4.0.128
 - pkg:nuget/Soenneker.Hangfire.Util@4.0.133
+- pkg:nuget/Soenneker.Hangfire.Util@4.0.138
