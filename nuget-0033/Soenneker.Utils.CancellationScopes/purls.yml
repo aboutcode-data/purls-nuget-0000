@@ -9,3 +9,4 @@
 - pkg:nuget/Soenneker.Utils.CancellationScopes@3.0.9
 - pkg:nuget/Soenneker.Utils.CancellationScopes@4.0.13
 - pkg:nuget/Soenneker.Utils.CancellationScopes@4.0.15
+- pkg:nuget/Soenneker.Utils.CancellationScopes@4.0.36
