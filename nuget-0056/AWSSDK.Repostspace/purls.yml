@@ -334,6 +334,7 @@
 - pkg:nuget/AWSSDK.Repostspace@3.7.501.24
 - pkg:nuget/AWSSDK.Repostspace@3.7.501.38
 - pkg:nuget/AWSSDK.Repostspace@3.7.501.43
+- pkg:nuget/AWSSDK.Repostspace@3.7.501.50
 - pkg:nuget/AWSSDK.Repostspace@3.7.501.8
 - pkg:nuget/AWSSDK.Repostspace@4.0.0
 - pkg:nuget/AWSSDK.Repostspace@4.0.0-preview
