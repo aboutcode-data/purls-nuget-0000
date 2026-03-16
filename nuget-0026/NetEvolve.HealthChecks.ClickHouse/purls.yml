@@ -27,3 +27,4 @@
 - pkg:nuget/NetEvolve.HealthChecks.ClickHouse@4.15.1
 - pkg:nuget/NetEvolve.HealthChecks.ClickHouse@4.20.61
 - pkg:nuget/NetEvolve.HealthChecks.ClickHouse@4.3.0
+- pkg:nuget/NetEvolve.HealthChecks.ClickHouse@5.13.51

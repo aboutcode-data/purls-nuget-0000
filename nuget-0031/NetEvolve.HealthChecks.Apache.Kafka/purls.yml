@@ -31,3 +31,4 @@
 - pkg:nuget/NetEvolve.HealthChecks.Apache.Kafka@4.15.1
 - pkg:nuget/NetEvolve.HealthChecks.Apache.Kafka@4.20.61
 - pkg:nuget/NetEvolve.HealthChecks.Apache.Kafka@4.3.0
+- pkg:nuget/NetEvolve.HealthChecks.Apache.Kafka@5.13.51
