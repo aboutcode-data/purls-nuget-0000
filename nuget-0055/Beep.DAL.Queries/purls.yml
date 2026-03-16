@@ -10,6 +10,8 @@
 - pkg:nuget/Beep.DAL.Queries@1.1.0-build.177
 - pkg:nuget/Beep.DAL.Queries@1.1.0-build.181
 - pkg:nuget/Beep.DAL.Queries@1.1.0-build.191
+- pkg:nuget/Beep.DAL.Queries@1.1.0-build.208
+- pkg:nuget/Beep.DAL.Queries@1.1.0-build.209
 - pkg:nuget/Beep.DAL.Queries@1.1.0-build.56
 - pkg:nuget/Beep.DAL.Queries@1.1.0-build.76
 - pkg:nuget/Beep.DAL.Queries@1.1.0-build.77
