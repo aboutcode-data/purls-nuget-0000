@@ -1,3 +1,4 @@
 - pkg:nuget/Ecng.IO.Compression@1.0.15
+- pkg:nuget/Ecng.IO.Compression@1.0.25
 - pkg:nuget/Ecng.IO.Compression@1.0.5
 - pkg:nuget/Ecng.IO.Compression@1.0.9
