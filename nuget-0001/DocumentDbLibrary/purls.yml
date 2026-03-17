@@ -1,4 +1,5 @@
 - pkg:nuget/DocumentDbLibrary@1.0.1
+- pkg:nuget/DocumentDbLibrary@10.0.16
 - pkg:nuget/DocumentDbLibrary@2.0.1
 - pkg:nuget/DocumentDbLibrary@2.0.2
 - pkg:nuget/DocumentDbLibrary@3.0.1
