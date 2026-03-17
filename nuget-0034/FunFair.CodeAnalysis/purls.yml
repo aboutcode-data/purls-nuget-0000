@@ -1809,6 +1809,8 @@
 - pkg:nuget/FunFair.CodeAnalysis@7.1.33.1702-main
 - pkg:nuget/FunFair.CodeAnalysis@7.1.35.1734-main
 - pkg:nuget/FunFair.CodeAnalysis@7.1.35.1735-main
+- pkg:nuget/FunFair.CodeAnalysis@7.1.37.1762-main
+- pkg:nuget/FunFair.CodeAnalysis@7.1.37.1764-main
 - pkg:nuget/FunFair.CodeAnalysis@7.1.4.1235-main
 - pkg:nuget/FunFair.CodeAnalysis@7.1.4.1236-main
 - pkg:nuget/FunFair.CodeAnalysis@7.1.4.1237

@@ -42,3 +42,4 @@
 - pkg:nuget/DotNetWorkQueue@0.7.5
 - pkg:nuget/DotNetWorkQueue@0.7.6
 - pkg:nuget/DotNetWorkQueue@0.9.5
+- pkg:nuget/DotNetWorkQueue@0.9.8
