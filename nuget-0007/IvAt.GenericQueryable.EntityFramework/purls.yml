@@ -4,3 +4,4 @@
 - pkg:nuget/IvAt.GenericQueryable.EntityFramework@1.2.2.3
 - pkg:nuget/IvAt.GenericQueryable.EntityFramework@1.6.3
 - pkg:nuget/IvAt.GenericQueryable.EntityFramework@2.0.4
+- pkg:nuget/IvAt.GenericQueryable.EntityFramework@3.0.4
