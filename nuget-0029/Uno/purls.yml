@@ -1,4 +1,5 @@
 - pkg:nuget/Uno@1.0.1
+- pkg:nuget/Uno@10.0.5
 - pkg:nuget/Uno@2.0.1
 - pkg:nuget/Uno@2.0.2
 - pkg:nuget/Uno@7.0.1
