@@ -13,6 +13,8 @@
 - pkg:nuget/AutoMapper@14.0.0
 - pkg:nuget/AutoMapper@15.0.0
 - pkg:nuget/AutoMapper@15.0.1
+- pkg:nuget/AutoMapper@15.1.1
+- pkg:nuget/AutoMapper@15.1.2
 - pkg:nuget/AutoMapper@2.0.0
 - pkg:nuget/AutoMapper@2.1.1
 - pkg:nuget/AutoMapper@2.1.262
