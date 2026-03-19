@@ -1211,3 +1211,4 @@
 - pkg:nuget/AWSSDK.AppSync@4.0.1.8
 - pkg:nuget/AWSSDK.AppSync@4.0.1.9
 - pkg:nuget/AWSSDK.AppSync@4.0.3.10
+- pkg:nuget/AWSSDK.AppSync@4.0.3.11
