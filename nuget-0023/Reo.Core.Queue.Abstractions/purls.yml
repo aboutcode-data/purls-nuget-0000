@@ -57,6 +57,7 @@
 - pkg:nuget/Reo.Core.Queue.Abstractions@10.0.28
 - pkg:nuget/Reo.Core.Queue.Abstractions@10.0.33
 - pkg:nuget/Reo.Core.Queue.Abstractions@10.0.51
+- pkg:nuget/Reo.Core.Queue.Abstractions@10.0.73
 - pkg:nuget/Reo.Core.Queue.Abstractions@10.0.9
 - pkg:nuget/Reo.Core.Queue.Abstractions@3.1.10133
 - pkg:nuget/Reo.Core.Queue.Abstractions@3.1.10134
