@@ -1170,6 +1170,7 @@
 - pkg:nuget/AWSSDK.AppSync@3.7.502.29
 - pkg:nuget/AWSSDK.AppSync@3.7.502.3
 - pkg:nuget/AWSSDK.AppSync@3.7.502.36
+- pkg:nuget/AWSSDK.AppSync@3.7.502.39
 - pkg:nuget/AWSSDK.AppSync@3.7.502.7
 - pkg:nuget/AWSSDK.AppSync@4.0.0
 - pkg:nuget/AWSSDK.AppSync@4.0.0-preview
