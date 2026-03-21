@@ -27,3 +27,5 @@
 - pkg:nuget/Lacuna.RestPkiCore.Client@3.0.0
 - pkg:nuget/Lacuna.RestPkiCore.Client@3.3.0-rc02
 - pkg:nuget/Lacuna.RestPkiCore.Client@3.3.0-rc05
+- pkg:nuget/Lacuna.RestPkiCore.Client@3.7.1
+- pkg:nuget/Lacuna.RestPkiCore.Client@4.0.5
