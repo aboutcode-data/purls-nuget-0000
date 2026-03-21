@@ -31,5 +31,6 @@
 - pkg:nuget/Scalar.Aspire@0.8.56
 - pkg:nuget/Scalar.Aspire@0.8.60
 - pkg:nuget/Scalar.Aspire@0.9.1
+- pkg:nuget/Scalar.Aspire@0.9.13
 - pkg:nuget/Scalar.Aspire@0.9.2
 - pkg:nuget/Scalar.Aspire@0.9.3
