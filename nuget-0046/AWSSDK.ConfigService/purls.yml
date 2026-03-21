@@ -1195,6 +1195,7 @@
 - pkg:nuget/AWSSDK.ConfigService@3.7.505.18
 - pkg:nuget/AWSSDK.ConfigService@3.7.505.6
 - pkg:nuget/AWSSDK.ConfigService@3.7.506.2
+- pkg:nuget/AWSSDK.ConfigService@3.7.506.3
 - pkg:nuget/AWSSDK.ConfigService@3.7.6
 - pkg:nuget/AWSSDK.ConfigService@3.7.6.1
 - pkg:nuget/AWSSDK.ConfigService@3.7.6.10

@@ -333,6 +333,7 @@
 - pkg:nuget/AWSSDK.FreeTier@3.7.501.43
 - pkg:nuget/AWSSDK.FreeTier@3.7.501.55
 - pkg:nuget/AWSSDK.FreeTier@3.7.501.58
+- pkg:nuget/AWSSDK.FreeTier@3.7.501.59
 - pkg:nuget/AWSSDK.FreeTier@4.0.0
 - pkg:nuget/AWSSDK.FreeTier@4.0.0-preview
 - pkg:nuget/AWSSDK.FreeTier@4.0.0-preview.10
