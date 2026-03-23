@@ -386,6 +386,9 @@
 - pkg:nuget/VTEX@3.0.78
 - pkg:nuget/VTEX@3.0.798
 - pkg:nuget/VTEX@3.0.801
+- pkg:nuget/VTEX@3.0.813
+- pkg:nuget/VTEX@3.0.816
+- pkg:nuget/VTEX@3.0.819
 - pkg:nuget/VTEX@3.0.85
 - pkg:nuget/VTEX@3.0.88
 - pkg:nuget/VTEX@3.0.9
