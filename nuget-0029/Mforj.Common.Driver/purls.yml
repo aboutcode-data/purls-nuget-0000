@@ -38,4 +38,6 @@
 - pkg:nuget/Mforj.Common.Driver@1.5.7.6
 - pkg:nuget/Mforj.Common.Driver@1.5.7.7
 - pkg:nuget/Mforj.Common.Driver@1.5.8
+- pkg:nuget/Mforj.Common.Driver@1.5.8.10
 - pkg:nuget/Mforj.Common.Driver@1.5.8.2
+- pkg:nuget/Mforj.Common.Driver@1.5.8.9
