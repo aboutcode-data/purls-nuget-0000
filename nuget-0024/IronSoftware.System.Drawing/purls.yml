@@ -38,3 +38,4 @@
 - pkg:nuget/IronSoftware.System.Drawing@2025.7.12
 - pkg:nuget/IronSoftware.System.Drawing@2025.8.1
 - pkg:nuget/IronSoftware.System.Drawing@2025.9.3
+- pkg:nuget/IronSoftware.System.Drawing@2026.4.1
