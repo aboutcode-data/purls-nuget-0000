@@ -1,1 +1,2 @@
 - pkg:nuget/KeyCloak.ManagementApi@1.2.0
+- pkg:nuget/KeyCloak.ManagementApi@1.5.0
