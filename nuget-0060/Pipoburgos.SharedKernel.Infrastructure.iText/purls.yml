@@ -1,3 +1,4 @@
+- pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.iText@10.0.5.2
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.iText@7.3.11.3
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.iText@7.3.11.4
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.iText@7.3.13.1
