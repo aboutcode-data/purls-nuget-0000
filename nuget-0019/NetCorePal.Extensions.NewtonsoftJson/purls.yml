@@ -36,3 +36,4 @@
 - pkg:nuget/NetCorePal.Extensions.NewtonsoftJson@2.9.3
 - pkg:nuget/NetCorePal.Extensions.NewtonsoftJson@3.0.0-rc.2
 - pkg:nuget/NetCorePal.Extensions.NewtonsoftJson@3.0.1
+- pkg:nuget/NetCorePal.Extensions.NewtonsoftJson@3.3.0
