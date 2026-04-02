@@ -22,3 +22,5 @@
 - pkg:nuget/UkrGuru.Sql@1.4.8
 - pkg:nuget/UkrGuru.Sql@1.5.8
 - pkg:nuget/UkrGuru.Sql@1.5.9
+- pkg:nuget/UkrGuru.Sql@2.0.0
+- pkg:nuget/UkrGuru.Sql@2.1.0

@@ -1,1 +1,5 @@
 - pkg:nuget/Mythosia.VectorDb.InMemory@1.0.0
+- pkg:nuget/Mythosia.VectorDb.InMemory@2.2.0
+- pkg:nuget/Mythosia.VectorDb.InMemory@2.3.0
+- pkg:nuget/Mythosia.VectorDb.InMemory@3.0.0
+- pkg:nuget/Mythosia.VectorDb.InMemory@3.0.1
