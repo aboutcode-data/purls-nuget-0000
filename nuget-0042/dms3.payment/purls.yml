@@ -1,1 +1,4 @@
 - pkg:nuget/dms3.payment@1.3.0
+- pkg:nuget/dms3.payment@1.5.0
+- pkg:nuget/dms3.payment@1.6.0
+- pkg:nuget/dms3.payment@1.6.1

@@ -10,4 +10,5 @@
 - pkg:nuget/CG.Infrastructure.Calendar@3.10.0
 - pkg:nuget/CG.Infrastructure.Calendar@3.10.1
 - pkg:nuget/CG.Infrastructure.Calendar@3.10.2
+- pkg:nuget/CG.Infrastructure.Calendar@3.10.5
 - pkg:nuget/CG.Infrastructure.Calendar@3.9.0
