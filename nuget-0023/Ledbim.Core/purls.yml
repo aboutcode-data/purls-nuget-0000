@@ -12,3 +12,5 @@
 - pkg:nuget/Ledbim.Core@1.0.7
 - pkg:nuget/Ledbim.Core@1.0.8
 - pkg:nuget/Ledbim.Core@1.0.9
+- pkg:nuget/Ledbim.Core@1.1.3
+- pkg:nuget/Ledbim.Core@1.2.0

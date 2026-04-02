@@ -15,3 +15,4 @@
 - pkg:nuget/Becom.IBMi.SqlApiClient@0.1.6
 - pkg:nuget/Becom.IBMi.SqlApiClient@0.1.8
 - pkg:nuget/Becom.IBMi.SqlApiClient@0.1.9
+- pkg:nuget/Becom.IBMi.SqlApiClient@0.2.6

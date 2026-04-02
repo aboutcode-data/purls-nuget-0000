@@ -1,2 +1,9 @@
 - pkg:nuget/qckdev.Authentication.JwtBearer@0.1.0-alpha
 - pkg:nuget/qckdev.Authentication.JwtBearer@0.2.0-alpha.1
+- pkg:nuget/qckdev.Authentication.JwtBearer@0.3.0-net10.1521
+- pkg:nuget/qckdev.Authentication.JwtBearer@0.3.0-net10.1522
+- pkg:nuget/qckdev.Authentication.JwtBearer@0.3.0-net10.1534
+- pkg:nuget/qckdev.Authentication.JwtBearer@0.3.0-net10.1543
+- pkg:nuget/qckdev.Authentication.JwtBearer@0.3.0-net10.1562
+- pkg:nuget/qckdev.Authentication.JwtBearer@0.3.0-net10.1583
+- pkg:nuget/qckdev.Authentication.JwtBearer@0.3.0-net10.1667

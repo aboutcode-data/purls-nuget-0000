@@ -8,3 +8,5 @@
 - pkg:nuget/WireMock.Net.ProtoBuf@1.20.0
 - pkg:nuget/WireMock.Net.ProtoBuf@1.23.0
 - pkg:nuget/WireMock.Net.ProtoBuf@1.6.0-preview-00
+- pkg:nuget/WireMock.Net.ProtoBuf@2.1.0
+- pkg:nuget/WireMock.Net.ProtoBuf@2.2.0

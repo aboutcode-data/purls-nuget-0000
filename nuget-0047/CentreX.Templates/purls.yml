@@ -9,5 +9,8 @@
 - pkg:nuget/CentreX.Templates@1.1.9
 - pkg:nuget/CentreX.Templates@1.12.0
 - pkg:nuget/CentreX.Templates@1.14.0
+- pkg:nuget/CentreX.Templates@1.15.0
+- pkg:nuget/CentreX.Templates@1.15.1
+- pkg:nuget/CentreX.Templates@1.15.2
 - pkg:nuget/CentreX.Templates@1.2.0
 - pkg:nuget/CentreX.Templates@1.2.1

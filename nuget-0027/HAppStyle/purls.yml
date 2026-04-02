@@ -25,3 +25,7 @@
 - pkg:nuget/HAppStyle@2.7.3
 - pkg:nuget/HAppStyle@2.7.5
 - pkg:nuget/HAppStyle@2.7.6
+- pkg:nuget/HAppStyle@3.8.0
+- pkg:nuget/HAppStyle@3.8.1
+- pkg:nuget/HAppStyle@3.8.2
+- pkg:nuget/HAppStyle@3.8.3

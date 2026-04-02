@@ -1,1 +1,2 @@
 - pkg:nuget/CMSImport.DataProviders.TestData@16.0.0-alpha0001
+- pkg:nuget/CMSImport.DataProviders.TestData@17.0.1
