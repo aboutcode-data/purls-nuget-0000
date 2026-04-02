@@ -8,6 +8,7 @@
 - pkg:nuget/ChilkatNativeLib@10.1.3
 - pkg:nuget/ChilkatNativeLib@11.0.0
 - pkg:nuget/ChilkatNativeLib@11.1.0
+- pkg:nuget/ChilkatNativeLib@11.4.0
 - pkg:nuget/ChilkatNativeLib@9.5.0.58
 - pkg:nuget/ChilkatNativeLib@9.5.0.59
 - pkg:nuget/ChilkatNativeLib@9.5.0.62

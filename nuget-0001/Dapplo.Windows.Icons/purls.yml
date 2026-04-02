@@ -134,3 +134,5 @@
 - pkg:nuget/Dapplo.Windows.Icons@1.0.8
 - pkg:nuget/Dapplo.Windows.Icons@2.0.70
 - pkg:nuget/Dapplo.Windows.Icons@2.0.81
+- pkg:nuget/Dapplo.Windows.Icons@2.0.85
+- pkg:nuget/Dapplo.Windows.Icons@2.0.89

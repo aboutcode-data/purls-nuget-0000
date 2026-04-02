@@ -1001,6 +1001,7 @@
 - pkg:nuget/AWSSDK.AppConfig@3.7.502.48
 - pkg:nuget/AWSSDK.AppConfig@3.7.502.51
 - pkg:nuget/AWSSDK.AppConfig@3.7.502.52
+- pkg:nuget/AWSSDK.AppConfig@3.7.502.53
 - pkg:nuget/AWSSDK.AppConfig@3.7.502.6
 - pkg:nuget/AWSSDK.AppConfig@3.7.502.8
 - pkg:nuget/AWSSDK.AppConfig@4.0.0
@@ -1045,3 +1046,7 @@
 - pkg:nuget/AWSSDK.AppConfig@4.0.2.5
 - pkg:nuget/AWSSDK.AppConfig@4.0.2.8
 - pkg:nuget/AWSSDK.AppConfig@4.0.3.16
+- pkg:nuget/AWSSDK.AppConfig@4.0.3.18
+- pkg:nuget/AWSSDK.AppConfig@4.0.3.19
+- pkg:nuget/AWSSDK.AppConfig@4.0.3.20
+- pkg:nuget/AWSSDK.AppConfig@4.0.3.21

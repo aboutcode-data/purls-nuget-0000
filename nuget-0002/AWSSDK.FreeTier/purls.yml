@@ -334,6 +334,7 @@
 - pkg:nuget/AWSSDK.FreeTier@3.7.501.55
 - pkg:nuget/AWSSDK.FreeTier@3.7.501.58
 - pkg:nuget/AWSSDK.FreeTier@3.7.501.59
+- pkg:nuget/AWSSDK.FreeTier@3.7.501.60
 - pkg:nuget/AWSSDK.FreeTier@4.0.0
 - pkg:nuget/AWSSDK.FreeTier@4.0.0-preview
 - pkg:nuget/AWSSDK.FreeTier@4.0.0-preview.10
@@ -372,3 +373,7 @@
 - pkg:nuget/AWSSDK.FreeTier@4.0.1.7
 - pkg:nuget/AWSSDK.FreeTier@4.0.1.8
 - pkg:nuget/AWSSDK.FreeTier@4.0.1.9
+- pkg:nuget/AWSSDK.FreeTier@4.0.2.20
+- pkg:nuget/AWSSDK.FreeTier@4.0.2.21
+- pkg:nuget/AWSSDK.FreeTier@4.0.2.22
+- pkg:nuget/AWSSDK.FreeTier@4.0.2.23

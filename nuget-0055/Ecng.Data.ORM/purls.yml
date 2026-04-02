@@ -1,2 +1,5 @@
 - pkg:nuget/Ecng.Data.ORM@1.0.16
 - pkg:nuget/Ecng.Data.ORM@1.0.18
+- pkg:nuget/Ecng.Data.ORM@1.0.19
+- pkg:nuget/Ecng.Data.ORM@1.0.20
+- pkg:nuget/Ecng.Data.ORM@1.0.21

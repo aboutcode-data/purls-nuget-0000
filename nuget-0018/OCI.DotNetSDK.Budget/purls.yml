@@ -50,6 +50,7 @@
 - pkg:nuget/OCI.DotNetSDK.Budget@122.0.0
 - pkg:nuget/OCI.DotNetSDK.Budget@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Budget@13.0.0
+- pkg:nuget/OCI.DotNetSDK.Budget@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Budget@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Budget@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Budget@14.2.0

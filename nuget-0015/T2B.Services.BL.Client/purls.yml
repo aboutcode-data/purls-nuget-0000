@@ -63,6 +63,7 @@
 - pkg:nuget/T2B.Services.BL.Client@6.0.0.55
 - pkg:nuget/T2B.Services.BL.Client@6.0.0.59
 - pkg:nuget/T2B.Services.BL.Client@6.0.0.6
+- pkg:nuget/T2B.Services.BL.Client@6.0.0.61
 - pkg:nuget/T2B.Services.BL.Client@6.0.0.7
 - pkg:nuget/T2B.Services.BL.Client@6.0.0.8
 - pkg:nuget/T2B.Services.BL.Client@6.0.0.9

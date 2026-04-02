@@ -32,6 +32,10 @@
 - pkg:nuget/Sundial@2.2.3
 - pkg:nuget/Sundial@2.2.4
 - pkg:nuget/Sundial@2.20.0
+- pkg:nuget/Sundial@2.200.0
+- pkg:nuget/Sundial@2.201.0
+- pkg:nuget/Sundial@2.202.0
+- pkg:nuget/Sundial@2.203.0
 - pkg:nuget/Sundial@2.21.0
 - pkg:nuget/Sundial@2.22.0
 - pkg:nuget/Sundial@2.23.0

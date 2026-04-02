@@ -92,6 +92,7 @@
 - pkg:nuget/Chickensoft.GoDotTest@2.0.20
 - pkg:nuget/Chickensoft.GoDotTest@2.0.24
 - pkg:nuget/Chickensoft.GoDotTest@2.0.3
+- pkg:nuget/Chickensoft.GoDotTest@2.0.32
 - pkg:nuget/Chickensoft.GoDotTest@2.0.4
 - pkg:nuget/Chickensoft.GoDotTest@2.0.5
 - pkg:nuget/Chickensoft.GoDotTest@2.0.6

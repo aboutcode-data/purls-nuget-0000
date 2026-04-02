@@ -1,5 +1,12 @@
 - pkg:nuget/PixelsOnline.Client.SDK@1.4.0
 - pkg:nuget/PixelsOnline.Client.SDK@2.2.0
+- pkg:nuget/PixelsOnline.Client.SDK@3.14.0
+- pkg:nuget/PixelsOnline.Client.SDK@3.15.0
+- pkg:nuget/PixelsOnline.Client.SDK@3.16.0
+- pkg:nuget/PixelsOnline.Client.SDK@3.17.0
+- pkg:nuget/PixelsOnline.Client.SDK@3.18.0
+- pkg:nuget/PixelsOnline.Client.SDK@3.19.0
+- pkg:nuget/PixelsOnline.Client.SDK@3.20.0
 - pkg:nuget/PixelsOnline.Client.SDK@3.4.0
 - pkg:nuget/PixelsOnline.Client.SDK@3.5.0
 - pkg:nuget/PixelsOnline.Client.SDK@3.7.0

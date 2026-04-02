@@ -278,6 +278,7 @@
 - pkg:nuget/TencentCloudSDK.Cdb@3.0.1305
 - pkg:nuget/TencentCloudSDK.Cdb@3.0.1318
 - pkg:nuget/TencentCloudSDK.Cdb@3.0.1327
+- pkg:nuget/TencentCloudSDK.Cdb@3.0.1397
 - pkg:nuget/TencentCloudSDK.Cdb@3.0.168
 - pkg:nuget/TencentCloudSDK.Cdb@3.0.169
 - pkg:nuget/TencentCloudSDK.Cdb@3.0.170

@@ -158,6 +158,7 @@
 - pkg:nuget/Microting.eFormWorkflowBase@10.0.1
 - pkg:nuget/Microting.eFormWorkflowBase@10.0.11
 - pkg:nuget/Microting.eFormWorkflowBase@10.0.16
+- pkg:nuget/Microting.eFormWorkflowBase@10.0.17
 - pkg:nuget/Microting.eFormWorkflowBase@7.0.0
 - pkg:nuget/Microting.eFormWorkflowBase@7.0.1
 - pkg:nuget/Microting.eFormWorkflowBase@7.0.10

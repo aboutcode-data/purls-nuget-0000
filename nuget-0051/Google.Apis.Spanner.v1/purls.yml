@@ -234,3 +234,4 @@
 - pkg:nuget/Google.Apis.Spanner.v1@1.70.0.3828
 - pkg:nuget/Google.Apis.Spanner.v1@1.70.0.3841
 - pkg:nuget/Google.Apis.Spanner.v1@1.72.0.3939
+- pkg:nuget/Google.Apis.Spanner.v1@1.73.0.4095

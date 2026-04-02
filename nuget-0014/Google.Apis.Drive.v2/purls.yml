@@ -329,6 +329,7 @@
 - pkg:nuget/Google.Apis.Drive.v2@1.7.0.112-beta
 - pkg:nuget/Google.Apis.Drive.v2@1.70.0.3890
 - pkg:nuget/Google.Apis.Drive.v2@1.70.0.3893
+- pkg:nuget/Google.Apis.Drive.v2@1.73.0.4098
 - pkg:nuget/Google.Apis.Drive.v2@1.8.0.1130-rc
 - pkg:nuget/Google.Apis.Drive.v2@1.8.0.1140-rc
 - pkg:nuget/Google.Apis.Drive.v2@1.8.1.1160

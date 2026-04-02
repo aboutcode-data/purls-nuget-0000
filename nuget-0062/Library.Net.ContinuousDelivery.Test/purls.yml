@@ -5,3 +5,12 @@
 - pkg:nuget/Library.Net.ContinuousDelivery.Test@0.2.0
 - pkg:nuget/Library.Net.ContinuousDelivery.Test@0.2.0-pre-e74a35ad
 - pkg:nuget/Library.Net.ContinuousDelivery.Test@0.2.1-pre-cd7354d1
+- pkg:nuget/Library.Net.ContinuousDelivery.Test@0.2.2-pre-b0ff2e9c
+- pkg:nuget/Library.Net.ContinuousDelivery.Test@1.0.0
+- pkg:nuget/Library.Net.ContinuousDelivery.Test@1.0.0-pre-04d3cd70
+- pkg:nuget/Library.Net.ContinuousDelivery.Test@1.0.0-pre-5959ff26
+- pkg:nuget/Library.Net.ContinuousDelivery.Test@1.0.0-pre-fb8e79c4
+- pkg:nuget/Library.Net.ContinuousDelivery.Test@1.1.0
+- pkg:nuget/Library.Net.ContinuousDelivery.Test@1.1.0-pre-37caff1c
+- pkg:nuget/Library.Net.ContinuousDelivery.Test@1.1.0-pre-4054f93b
+- pkg:nuget/Library.Net.ContinuousDelivery.Test@1.1.0-pre-4f9ef7c4

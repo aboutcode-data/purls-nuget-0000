@@ -17,3 +17,4 @@
 - pkg:nuget/SunamoSerializer@25.3.29.1
 - pkg:nuget/SunamoSerializer@25.4.5.1
 - pkg:nuget/SunamoSerializer@25.6.7.1
+- pkg:nuget/SunamoSerializer@26.3.28.3

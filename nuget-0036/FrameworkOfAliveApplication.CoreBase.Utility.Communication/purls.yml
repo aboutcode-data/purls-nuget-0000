@@ -1,5 +1,10 @@
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase.Utility.Communication@5.2.0.160
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase.Utility.Communication@5.2.0.166
+- pkg:nuget/FrameworkOfAliveApplication.CoreBase.Utility.Communication@5.2.0.167
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase.Utility.Communication@8.1.0.53
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase.Utility.Communication@8.1.0.70
 - pkg:nuget/FrameworkOfAliveApplication.CoreBase.Utility.Communication@8.1.0.73
+- pkg:nuget/FrameworkOfAliveApplication.CoreBase.Utility.Communication@8.1.0.88
+- pkg:nuget/FrameworkOfAliveApplication.CoreBase.Utility.Communication@8.1.0.89
+- pkg:nuget/FrameworkOfAliveApplication.CoreBase.Utility.Communication@8.1.0.90
+- pkg:nuget/FrameworkOfAliveApplication.CoreBase.Utility.Communication@8.1.0.91

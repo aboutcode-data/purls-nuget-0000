@@ -1,6 +1,9 @@
 - pkg:nuget/Spillgebees.Blazor.Map@0.1.0
 - pkg:nuget/Spillgebees.Blazor.Map@0.1.1
 - pkg:nuget/Spillgebees.Blazor.Map@0.1.2
+- pkg:nuget/Spillgebees.Blazor.Map@0.10.1
+- pkg:nuget/Spillgebees.Blazor.Map@0.11.1
+- pkg:nuget/Spillgebees.Blazor.Map@0.12.0
 - pkg:nuget/Spillgebees.Blazor.Map@0.2.0
 - pkg:nuget/Spillgebees.Blazor.Map@0.3.0
 - pkg:nuget/Spillgebees.Blazor.Map@0.4.0

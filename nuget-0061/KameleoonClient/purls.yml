@@ -47,6 +47,7 @@
 - pkg:nuget/KameleoonClient@4.2.1
 - pkg:nuget/KameleoonClient@4.2.2
 - pkg:nuget/KameleoonClient@4.2.3
+- pkg:nuget/KameleoonClient@4.20.0
 - pkg:nuget/KameleoonClient@4.3.0
 - pkg:nuget/KameleoonClient@4.4.0
 - pkg:nuget/KameleoonClient@4.4.1
