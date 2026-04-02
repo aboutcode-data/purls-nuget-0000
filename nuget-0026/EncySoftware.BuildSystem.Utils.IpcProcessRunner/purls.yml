@@ -5,3 +5,4 @@
 - pkg:nuget/EncySoftware.BuildSystem.Utils.IpcProcessRunner@3.0.0
 - pkg:nuget/EncySoftware.BuildSystem.Utils.IpcProcessRunner@3.0.1
 - pkg:nuget/EncySoftware.BuildSystem.Utils.IpcProcessRunner@3.0.3
+- pkg:nuget/EncySoftware.BuildSystem.Utils.IpcProcessRunner@3.2.1

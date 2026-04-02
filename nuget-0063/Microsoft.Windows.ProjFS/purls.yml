@@ -8,3 +8,4 @@
 - pkg:nuget/Microsoft.Windows.ProjFS@1.2.21146.1
 - pkg:nuget/Microsoft.Windows.ProjFS@1.2.21147.3
 - pkg:nuget/Microsoft.Windows.ProjFS@1.2.21216.1
+- pkg:nuget/Microsoft.Windows.ProjFS@2.1.0
