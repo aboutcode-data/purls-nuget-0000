@@ -1,0 +1,4 @@
+- pkg:nuget/Mythosia.VectorDb.Qdrant@2.2.0
+- pkg:nuget/Mythosia.VectorDb.Qdrant@2.3.0
+- pkg:nuget/Mythosia.VectorDb.Qdrant@3.0.0
+- pkg:nuget/Mythosia.VectorDb.Qdrant@3.0.1

@@ -5,3 +5,5 @@
 - pkg:nuget/DeviceDescriptor.IoLink@1.1.0
 - pkg:nuget/DeviceDescriptor.IoLink@1.2.0
 - pkg:nuget/DeviceDescriptor.IoLink@1.2.1
+- pkg:nuget/DeviceDescriptor.IoLink@3.1.0
+- pkg:nuget/DeviceDescriptor.IoLink@3.2.0
