@@ -15,3 +15,4 @@
 - pkg:nuget/Kameleo.LocalApiClient@3.4.0
 - pkg:nuget/Kameleo.LocalApiClient@4.0.0
 - pkg:nuget/Kameleo.LocalApiClient@4.1.0
+- pkg:nuget/Kameleo.LocalApiClient@4.4.0

@@ -62,3 +62,4 @@
 - pkg:nuget/GodotSharp.SourceGenerators@2.7.0-250923-1943.Release
 - pkg:nuget/GodotSharp.SourceGenerators@2.7.0-250928-2100.Release
 - pkg:nuget/GodotSharp.SourceGenerators@2.7.0-251001-1820.Release
+- pkg:nuget/GodotSharp.SourceGenerators@2.7.0-260331-1947.Release
