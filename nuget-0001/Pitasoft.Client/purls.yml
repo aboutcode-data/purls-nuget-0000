@@ -25,3 +25,4 @@
 - pkg:nuget/Pitasoft.Client@6.5.3
 - pkg:nuget/Pitasoft.Client@6.5.4
 - pkg:nuget/Pitasoft.Client@6.5.5
+- pkg:nuget/Pitasoft.Client@8.1.1

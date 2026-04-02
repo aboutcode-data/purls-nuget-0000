@@ -27,3 +27,4 @@
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForSQLite@18.0.0
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForSQLite@18.1.0
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForSQLite@20.0.0
+- pkg:nuget/WorkflowEngine.NETCore-ProviderForSQLite@20.0.8

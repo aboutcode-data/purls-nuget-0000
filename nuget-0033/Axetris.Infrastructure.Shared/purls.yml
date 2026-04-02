@@ -43,3 +43,5 @@
 - pkg:nuget/Axetris.Infrastructure.Shared@1.2.7
 - pkg:nuget/Axetris.Infrastructure.Shared@1.2.8
 - pkg:nuget/Axetris.Infrastructure.Shared@1.2.9
+- pkg:nuget/Axetris.Infrastructure.Shared@1.4.3
+- pkg:nuget/Axetris.Infrastructure.Shared@1.4.4

@@ -75,6 +75,7 @@
 - pkg:nuget/SW-sdk@0.0.33.1-rc
 - pkg:nuget/SW-sdk@0.0.34.1
 - pkg:nuget/SW-sdk@0.0.34.1-rc
+- pkg:nuget/SW-sdk@0.0.36.1-rc
 - pkg:nuget/SW-sdk@0.0.4.1
 - pkg:nuget/SW-sdk@0.0.4.2
 - pkg:nuget/SW-sdk@0.0.5.1
