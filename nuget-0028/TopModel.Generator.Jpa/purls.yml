@@ -72,3 +72,4 @@
 - pkg:nuget/TopModel.Generator.Jpa@3.2.1
 - pkg:nuget/TopModel.Generator.Jpa@3.3.9
 - pkg:nuget/TopModel.Generator.Jpa@3.5.5
+- pkg:nuget/TopModel.Generator.Jpa@4.0.0-rc.6
