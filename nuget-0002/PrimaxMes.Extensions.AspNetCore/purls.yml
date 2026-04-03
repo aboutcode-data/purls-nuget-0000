@@ -22,3 +22,4 @@
 - pkg:nuget/PrimaxMes.Extensions.AspNetCore@2.24.2.23
 - pkg:nuget/PrimaxMes.Extensions.AspNetCore@2.24.3.8
 - pkg:nuget/PrimaxMes.Extensions.AspNetCore@5.25.3.10
+- pkg:nuget/PrimaxMes.Extensions.AspNetCore@8.26.4.3
