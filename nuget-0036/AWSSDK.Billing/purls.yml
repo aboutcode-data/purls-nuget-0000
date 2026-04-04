@@ -215,5 +215,6 @@
 - pkg:nuget/AWSSDK.Billing@4.0.3.5
 - pkg:nuget/AWSSDK.Billing@4.0.6.10
 - pkg:nuget/AWSSDK.Billing@4.0.6.11
+- pkg:nuget/AWSSDK.Billing@4.0.6.12
 - pkg:nuget/AWSSDK.Billing@4.0.6.8
 - pkg:nuget/AWSSDK.Billing@4.0.6.9

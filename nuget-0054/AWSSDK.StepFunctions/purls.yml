@@ -1233,3 +1233,4 @@
 - pkg:nuget/AWSSDK.StepFunctions@4.0.2.15
 - pkg:nuget/AWSSDK.StepFunctions@4.0.2.16
 - pkg:nuget/AWSSDK.StepFunctions@4.0.2.17
+- pkg:nuget/AWSSDK.StepFunctions@4.0.2.18
