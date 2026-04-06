@@ -200,3 +200,4 @@
 - pkg:nuget/nostify@3.8.0
 - pkg:nuget/nostify@3.8.1
 - pkg:nuget/nostify@3.9.0-rc
+- pkg:nuget/nostify@4.5.1

@@ -19,6 +19,7 @@
 - pkg:nuget/ControllerTech.Platform360.SharedKernel@144.0.0
 - pkg:nuget/ControllerTech.Platform360.SharedKernel@145.0.0
 - pkg:nuget/ControllerTech.Platform360.SharedKernel@146.0.0
+- pkg:nuget/ControllerTech.Platform360.SharedKernel@151.0.0
 - pkg:nuget/ControllerTech.Platform360.SharedKernel@41.0.0
 - pkg:nuget/ControllerTech.Platform360.SharedKernel@42.0.0
 - pkg:nuget/ControllerTech.Platform360.SharedKernel@43.0.0
