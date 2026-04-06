@@ -1,3 +1,4 @@
 - pkg:nuget/SiteMapDotNet@1.0.0
 - pkg:nuget/SiteMapDotNet@1.0.1
 - pkg:nuget/SiteMapDotNet@2.0.0
+- pkg:nuget/SiteMapDotNet@3.0.3
