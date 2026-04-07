@@ -74,6 +74,7 @@
 - pkg:nuget/nanoFramework.System.Net@1.11.41
 - pkg:nuget/nanoFramework.System.Net@1.11.42
 - pkg:nuget/nanoFramework.System.Net@1.11.43
+- pkg:nuget/nanoFramework.System.Net@1.11.50
 - pkg:nuget/nanoFramework.System.Net@1.2.0-preview.1
 - pkg:nuget/nanoFramework.System.Net@1.2.1-alpha.3
 - pkg:nuget/nanoFramework.System.Net@1.2.1-alpha.4
