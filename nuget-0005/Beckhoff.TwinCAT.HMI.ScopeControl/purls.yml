@@ -24,3 +24,4 @@
 - pkg:nuget/Beckhoff.TwinCAT.HMI.ScopeControl@14.3.154
 - pkg:nuget/Beckhoff.TwinCAT.HMI.ScopeControl@14.3.210
 - pkg:nuget/Beckhoff.TwinCAT.HMI.ScopeControl@14.3.229
+- pkg:nuget/Beckhoff.TwinCAT.HMI.ScopeControl@14.3.352
