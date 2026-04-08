@@ -42,6 +42,7 @@
 - pkg:nuget/DDB@12.1.0
 - pkg:nuget/DDB@12.1.1
 - pkg:nuget/DDB@12.1.2
+- pkg:nuget/DDB@12.2.0
 - pkg:nuget/DDB@2.0.0
 - pkg:nuget/DDB@2.0.1
 - pkg:nuget/DDB@2.0.10
