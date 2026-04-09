@@ -6,6 +6,7 @@
 - pkg:nuget/PepperDash.Essentials.Plugin.VideocodecCiscoextended@1.5.2-alpha-7
 - pkg:nuget/PepperDash.Essentials.Plugin.VideocodecCiscoextended@1.5.2-alpha-8
 - pkg:nuget/PepperDash.Essentials.Plugin.VideocodecCiscoextended@1.5.2-beta-1
+- pkg:nuget/PepperDash.Essentials.Plugin.VideocodecCiscoextended@1.5.2-hotfix-sip-uri-cloud-registration.2
 - pkg:nuget/PepperDash.Essentials.Plugin.VideocodecCiscoextended@1.6.0-essentials-1x-ms-teams.4
 - pkg:nuget/PepperDash.Essentials.Plugin.VideocodecCiscoextended@1.6.0-essentials-1x-ms-teams.5
 - pkg:nuget/PepperDash.Essentials.Plugin.VideocodecCiscoextended@1.6.0-essentials-1x-ms-teams.6
