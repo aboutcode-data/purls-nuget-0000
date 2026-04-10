@@ -44,6 +44,7 @@
 - pkg:nuget/Pluggy.SDK@0.32.6
 - pkg:nuget/Pluggy.SDK@0.32.7
 - pkg:nuget/Pluggy.SDK@0.33.0
+- pkg:nuget/Pluggy.SDK@0.34.0
 - pkg:nuget/Pluggy.SDK@0.4.0
 - pkg:nuget/Pluggy.SDK@0.4.1
 - pkg:nuget/Pluggy.SDK@0.5.0
