@@ -84,6 +84,7 @@
 - pkg:nuget/RESTworld.AspNetCore@31.0.1
 - pkg:nuget/RESTworld.AspNetCore@36.0.0
 - pkg:nuget/RESTworld.AspNetCore@36.2.0
+- pkg:nuget/RESTworld.AspNetCore@37.0.0-pre-1
 - pkg:nuget/RESTworld.AspNetCore@4.0.0
 - pkg:nuget/RESTworld.AspNetCore@4.1.0
 - pkg:nuget/RESTworld.AspNetCore@5.0.0
