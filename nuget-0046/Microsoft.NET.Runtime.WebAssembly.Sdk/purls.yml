@@ -10,6 +10,7 @@
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Sdk@10.0.1
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Sdk@10.0.3
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Sdk@11.0.0-preview.2.26159.112
+- pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Sdk@11.0.0-preview.3.26207.106
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Sdk@6.0.0
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Sdk@6.0.0-preview.2.21154.6
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Sdk@6.0.0-preview.3.21201.4
