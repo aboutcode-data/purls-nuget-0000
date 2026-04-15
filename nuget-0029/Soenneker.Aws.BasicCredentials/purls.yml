@@ -67,6 +67,7 @@
 - pkg:nuget/Soenneker.Aws.BasicCredentials@4.0.186
 - pkg:nuget/Soenneker.Aws.BasicCredentials@4.0.187
 - pkg:nuget/Soenneker.Aws.BasicCredentials@4.0.188
+- pkg:nuget/Soenneker.Aws.BasicCredentials@4.0.193
 - pkg:nuget/Soenneker.Aws.BasicCredentials@4.0.64
 - pkg:nuget/Soenneker.Aws.BasicCredentials@4.0.67
 - pkg:nuget/Soenneker.Aws.BasicCredentials@4.0.78
