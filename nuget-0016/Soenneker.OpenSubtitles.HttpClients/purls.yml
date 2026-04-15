@@ -1,2 +1,4 @@
 - pkg:nuget/Soenneker.OpenSubtitles.HttpClients@4.0.2
 - pkg:nuget/Soenneker.OpenSubtitles.HttpClients@4.0.3
+- pkg:nuget/Soenneker.OpenSubtitles.HttpClients@4.0.5
+- pkg:nuget/Soenneker.OpenSubtitles.HttpClients@4.0.7
