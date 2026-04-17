@@ -7,3 +7,4 @@
 - pkg:nuget/nanoFramework.Device.Can@1.3.26
 - pkg:nuget/nanoFramework.Device.Can@1.3.5
 - pkg:nuget/nanoFramework.Device.Can@1.3.9
+- pkg:nuget/nanoFramework.Device.Can@2.0.0-preview.7
