@@ -91,3 +91,4 @@
 - pkg:nuget/nanoFramework.System.Device.Spi@1.3.8
 - pkg:nuget/nanoFramework.System.Device.Spi@1.3.81
 - pkg:nuget/nanoFramework.System.Device.Spi@1.3.82
+- pkg:nuget/nanoFramework.System.Device.Spi@2.0.0-preview.11
