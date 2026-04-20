@@ -12,3 +12,5 @@
 - pkg:nuget/CacheUtility@1.0.9
 - pkg:nuget/CacheUtility@1.1.0
 - pkg:nuget/CacheUtility@1.2.0
+- pkg:nuget/CacheUtility@1.4.1
+- pkg:nuget/CacheUtility@1.4.2
