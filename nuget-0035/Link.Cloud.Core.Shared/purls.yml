@@ -152,6 +152,7 @@
 - pkg:nuget/Link.Cloud.Core.Shared@1.0.311
 - pkg:nuget/Link.Cloud.Core.Shared@1.0.313
 - pkg:nuget/Link.Cloud.Core.Shared@1.0.315
+- pkg:nuget/Link.Cloud.Core.Shared@1.0.318
 - pkg:nuget/Link.Cloud.Core.Shared@1.0.32
 - pkg:nuget/Link.Cloud.Core.Shared@1.0.33
 - pkg:nuget/Link.Cloud.Core.Shared@1.0.34
