@@ -50,6 +50,7 @@
 - pkg:nuget/CK.SqlServer.Transform@27.0.0
 - pkg:nuget/CK.SqlServer.Transform@28.0.0
 - pkg:nuget/CK.SqlServer.Transform@28.0.1
+- pkg:nuget/CK.SqlServer.Transform@29.0.0
 - pkg:nuget/CK.SqlServer.Transform@4.1.0-a02
 - pkg:nuget/CK.SqlServer.Transform@5.0.0
 - pkg:nuget/CK.SqlServer.Transform@5.0.0-a
