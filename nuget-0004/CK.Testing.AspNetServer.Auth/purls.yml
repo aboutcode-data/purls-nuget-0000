@@ -16,3 +16,4 @@
 - pkg:nuget/CK.Testing.AspNetServer.Auth@28.0.1
 - pkg:nuget/CK.Testing.AspNetServer.Auth@28.0.2
 - pkg:nuget/CK.Testing.AspNetServer.Auth@29.1.1
+- pkg:nuget/CK.Testing.AspNetServer.Auth@30.0.0
