@@ -305,3 +305,4 @@
 - pkg:nuget/Axioma.Public.Testing.xUnit@6.1.2
 - pkg:nuget/Axioma.Public.Testing.xUnit@6.1.22
 - pkg:nuget/Axioma.Public.Testing.xUnit@6.1.3
+- pkg:nuget/Axioma.Public.Testing.xUnit@7.0.25
