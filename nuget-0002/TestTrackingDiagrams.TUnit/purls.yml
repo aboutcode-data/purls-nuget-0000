@@ -15,4 +15,5 @@
 - pkg:nuget/TestTrackingDiagrams.TUnit@2.14.0
 - pkg:nuget/TestTrackingDiagrams.TUnit@2.15.0
 - pkg:nuget/TestTrackingDiagrams.TUnit@2.19.0
+- pkg:nuget/TestTrackingDiagrams.TUnit@2.20.0
 - pkg:nuget/TestTrackingDiagrams.TUnit@2.4.1
