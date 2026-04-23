@@ -1,5 +1,6 @@
 - pkg:nuget/Hex1b.Tool@0.123.0
 - pkg:nuget/Hex1b.Tool@0.124.0
+- pkg:nuget/Hex1b.Tool@0.133.0
 - pkg:nuget/Hex1b.Tool@0.76.0
 - pkg:nuget/Hex1b.Tool@0.87.0
 - pkg:nuget/Hex1b.Tool@0.95.0
