@@ -15,3 +15,4 @@
 - pkg:nuget/NosCore.Networking@4.0.4
 - pkg:nuget/NosCore.Networking@5.0.0
 - pkg:nuget/NosCore.Networking@6.0.0
+- pkg:nuget/NosCore.Networking@7.2.0
