@@ -35,6 +35,7 @@
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForOracle@18.1.0
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForOracle@20.0.0
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForOracle@20.0.8
+- pkg:nuget/WorkflowEngine.NETCore-ProviderForOracle@21.0.0
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForOracle@3.2.0
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForOracle@3.3.0
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForOracle@3.3.1
