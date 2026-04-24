@@ -17,6 +17,7 @@
 - pkg:nuget/Soenneker.Validators.BasicAuth@4.0.128
 - pkg:nuget/Soenneker.Validators.BasicAuth@4.0.129
 - pkg:nuget/Soenneker.Validators.BasicAuth@4.0.132
+- pkg:nuget/Soenneker.Validators.BasicAuth@4.0.137
 - pkg:nuget/Soenneker.Validators.BasicAuth@4.0.21
 - pkg:nuget/Soenneker.Validators.BasicAuth@4.0.28
 - pkg:nuget/Soenneker.Validators.BasicAuth@4.0.35
