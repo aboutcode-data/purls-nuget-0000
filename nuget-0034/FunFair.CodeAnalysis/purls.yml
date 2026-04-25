@@ -1833,6 +1833,11 @@
 - pkg:nuget/FunFair.CodeAnalysis@7.1.40.1859-main
 - pkg:nuget/FunFair.CodeAnalysis@7.1.40.1860-main
 - pkg:nuget/FunFair.CodeAnalysis@7.1.40.1874-main
+- pkg:nuget/FunFair.CodeAnalysis@7.1.40.1895-main
+- pkg:nuget/FunFair.CodeAnalysis@7.1.40.1896-main
+- pkg:nuget/FunFair.CodeAnalysis@7.1.40.1897-main
+- pkg:nuget/FunFair.CodeAnalysis@7.1.40.1898-main
+- pkg:nuget/FunFair.CodeAnalysis@7.1.40.1899-main
 - pkg:nuget/FunFair.CodeAnalysis@7.1.5.1238-main
 - pkg:nuget/FunFair.CodeAnalysis@7.1.5.1239-main
 - pkg:nuget/FunFair.CodeAnalysis@7.1.5.1240
