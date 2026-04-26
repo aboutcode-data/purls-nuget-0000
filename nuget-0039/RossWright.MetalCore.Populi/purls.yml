@@ -1,4 +1,5 @@
 - pkg:nuget/RossWright.MetalCore.Populi@10.0.12
+- pkg:nuget/RossWright.MetalCore.Populi@2026.0.0
 - pkg:nuget/RossWright.MetalCore.Populi@8.1.2
 - pkg:nuget/RossWright.MetalCore.Populi@8.1.3
 - pkg:nuget/RossWright.MetalCore.Populi@8.1.4
