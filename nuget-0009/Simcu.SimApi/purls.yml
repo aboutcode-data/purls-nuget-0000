@@ -5,6 +5,7 @@
 - pkg:nuget/Simcu.SimApi@10.0.2
 - pkg:nuget/Simcu.SimApi@10.1.8
 - pkg:nuget/Simcu.SimApi@10.2.0
+- pkg:nuget/Simcu.SimApi@10.3.4
 - pkg:nuget/Simcu.SimApi@2.3.4
 - pkg:nuget/Simcu.SimApi@5.0.1
 - pkg:nuget/Simcu.SimApi@5.0.6
