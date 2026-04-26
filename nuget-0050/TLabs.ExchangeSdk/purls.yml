@@ -605,6 +605,7 @@
 - pkg:nuget/TLabs.ExchangeSdk@1.0.75
 - pkg:nuget/TLabs.ExchangeSdk@1.0.751
 - pkg:nuget/TLabs.ExchangeSdk@1.0.76
+- pkg:nuget/TLabs.ExchangeSdk@1.0.766
 - pkg:nuget/TLabs.ExchangeSdk@1.0.77
 - pkg:nuget/TLabs.ExchangeSdk@1.0.78
 - pkg:nuget/TLabs.ExchangeSdk@1.0.79
