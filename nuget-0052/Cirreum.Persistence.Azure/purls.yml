@@ -6,3 +6,4 @@
 - pkg:nuget/Cirreum.Persistence.Azure@1.0.32
 - pkg:nuget/Cirreum.Persistence.Azure@1.0.44
 - pkg:nuget/Cirreum.Persistence.Azure@1.0.7
+- pkg:nuget/Cirreum.Persistence.Azure@2.0.1
