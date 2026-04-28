@@ -121,3 +121,5 @@
 - pkg:nuget/OpenRewrite.CSharp@8.80.0-snapshot.20260420155827
 - pkg:nuget/OpenRewrite.CSharp@8.80.0-snapshot.20260421045407
 - pkg:nuget/OpenRewrite.CSharp@8.81.0-snapshot.20260421082807
+- pkg:nuget/OpenRewrite.CSharp@8.82.0-snapshot.20260428115340
+- pkg:nuget/OpenRewrite.CSharp@8.82.0-snapshot.20260428123239
