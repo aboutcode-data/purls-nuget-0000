@@ -17,3 +17,4 @@
 - pkg:nuget/DiskQueue@1.6.8
 - pkg:nuget/DiskQueue@1.7.0
 - pkg:nuget/DiskQueue@1.7.1
+- pkg:nuget/DiskQueue@1.7.2

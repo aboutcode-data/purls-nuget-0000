@@ -361,6 +361,7 @@
 - pkg:nuget/Telerik.Sitefinity.TestUtilities@15.3.8528
 - pkg:nuget/Telerik.Sitefinity.TestUtilities@15.4.8627
 - pkg:nuget/Telerik.Sitefinity.TestUtilities@15.4.8628
+- pkg:nuget/Telerik.Sitefinity.TestUtilities@15.4.8629
 - pkg:nuget/Telerik.Sitefinity.TestUtilities@7.1.5208
 - pkg:nuget/Telerik.Sitefinity.TestUtilities@7.2.5300
 - pkg:nuget/Telerik.Sitefinity.TestUtilities@7.2.5310

@@ -7,3 +7,4 @@
 - pkg:nuget/Atc.Rest.MinimalApi@1.0.65
 - pkg:nuget/Atc.Rest.MinimalApi@1.0.81
 - pkg:nuget/Atc.Rest.MinimalApi@1.0.87
+- pkg:nuget/Atc.Rest.MinimalApi@2.0.39
