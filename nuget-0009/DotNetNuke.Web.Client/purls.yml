@@ -3,6 +3,7 @@
 - pkg:nuget/DotNetNuke.Web.Client@10.0.1
 - pkg:nuget/DotNetNuke.Web.Client@10.1.0
 - pkg:nuget/DotNetNuke.Web.Client@10.1.1
+- pkg:nuget/DotNetNuke.Web.Client@10.3.2-rc.1
 - pkg:nuget/DotNetNuke.Web.Client@7.4.2
 - pkg:nuget/DotNetNuke.Web.Client@7.4.2.216
 - pkg:nuget/DotNetNuke.Web.Client@8.0.0
