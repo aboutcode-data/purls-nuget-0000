@@ -1735,6 +1735,7 @@
 - pkg:nuget/ArmoniK.DevelopmentKit.Client.Common@0.19.4-01934gf54766c1.4.sha.f54766c1
 - pkg:nuget/ArmoniK.DevelopmentKit.Client.Common@0.19.4-01934gf7cd006c.4.sha.f7cd006c
 - pkg:nuget/ArmoniK.DevelopmentKit.Client.Common@0.19.4-01934gfae6c41d.4.sha.fae6c41d
+- pkg:nuget/ArmoniK.DevelopmentKit.Client.Common@0.19.4-SNAPSHOT.10.sha.9d94135f
 - pkg:nuget/ArmoniK.DevelopmentKit.Client.Common@0.6.6-jgidcore.21.35d0784
 - pkg:nuget/ArmoniK.DevelopmentKit.Client.Common@0.6.7-SNAPSHOT.30.0a0acb0
 - pkg:nuget/ArmoniK.DevelopmentKit.Client.Common@0.6.7-SNAPSHOT.37.78cfb75
