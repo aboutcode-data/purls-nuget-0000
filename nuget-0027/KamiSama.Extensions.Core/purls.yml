@@ -1,4 +1,5 @@
 - pkg:nuget/KamiSama.Extensions.Core@10.0.0
+- pkg:nuget/KamiSama.Extensions.Core@10.0.7
 - pkg:nuget/KamiSama.Extensions.Core@2.0.0
 - pkg:nuget/KamiSama.Extensions.Core@2.0.1
 - pkg:nuget/KamiSama.Extensions.Core@2.0.2
