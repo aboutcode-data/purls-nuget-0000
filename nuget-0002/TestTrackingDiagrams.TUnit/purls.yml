@@ -33,4 +33,5 @@
 - pkg:nuget/TestTrackingDiagrams.TUnit@2.28.32
 - pkg:nuget/TestTrackingDiagrams.TUnit@2.28.33
 - pkg:nuget/TestTrackingDiagrams.TUnit@2.28.34
+- pkg:nuget/TestTrackingDiagrams.TUnit@2.28.40
 - pkg:nuget/TestTrackingDiagrams.TUnit@2.4.1
