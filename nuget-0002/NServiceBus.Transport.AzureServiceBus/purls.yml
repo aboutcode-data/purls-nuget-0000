@@ -62,3 +62,4 @@
 - pkg:nuget/NServiceBus.Transport.AzureServiceBus@5.0.1
 - pkg:nuget/NServiceBus.Transport.AzureServiceBus@5.0.2
 - pkg:nuget/NServiceBus.Transport.AzureServiceBus@5.1.0
+- pkg:nuget/NServiceBus.Transport.AzureServiceBus@6.3.0
