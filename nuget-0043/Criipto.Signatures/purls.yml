@@ -22,6 +22,7 @@
 - pkg:nuget/Criipto.Signatures@1.22.3
 - pkg:nuget/Criipto.Signatures@1.22.4
 - pkg:nuget/Criipto.Signatures@1.3.0
+- pkg:nuget/Criipto.Signatures@1.33.0
 - pkg:nuget/Criipto.Signatures@1.4.0
 - pkg:nuget/Criipto.Signatures@1.5.0
 - pkg:nuget/Criipto.Signatures@1.6.0
