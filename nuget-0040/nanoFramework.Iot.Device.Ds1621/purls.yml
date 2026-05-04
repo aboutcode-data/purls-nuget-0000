@@ -70,3 +70,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Ds1621@1.0.83
 - pkg:nuget/nanoFramework.Iot.Device.Ds1621@1.0.831
 - pkg:nuget/nanoFramework.Iot.Device.Ds1621@1.0.95
+- pkg:nuget/nanoFramework.Iot.Device.Ds1621@2.0.0-preview.49
