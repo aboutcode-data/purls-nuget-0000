@@ -4,3 +4,4 @@
 - pkg:nuget/ANcpLua.Roslyn.Utilities.Testing@1.53.2
 - pkg:nuget/ANcpLua.Roslyn.Utilities.Testing@1.56.0
 - pkg:nuget/ANcpLua.Roslyn.Utilities.Testing@1.56.1
+- pkg:nuget/ANcpLua.Roslyn.Utilities.Testing@2.2.3
