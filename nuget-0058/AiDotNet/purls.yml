@@ -23,6 +23,7 @@
 - pkg:nuget/AiDotNet@0.152.0
 - pkg:nuget/AiDotNet@0.155.0
 - pkg:nuget/AiDotNet@0.170.0
+- pkg:nuget/AiDotNet@0.184.0
 - pkg:nuget/AiDotNet@0.22.0
 - pkg:nuget/AiDotNet@0.28.0
 - pkg:nuget/AiDotNet@0.40.0
