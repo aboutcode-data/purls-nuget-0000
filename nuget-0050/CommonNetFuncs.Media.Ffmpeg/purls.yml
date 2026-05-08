@@ -40,3 +40,4 @@
 - pkg:nuget/CommonNetFuncs.Media.Ffmpeg@3.7.23
 - pkg:nuget/CommonNetFuncs.Media.Ffmpeg@3.8.38
 - pkg:nuget/CommonNetFuncs.Media.Ffmpeg@4.0.17
+- pkg:nuget/CommonNetFuncs.Media.Ffmpeg@4.0.36
