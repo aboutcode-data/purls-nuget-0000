@@ -197,3 +197,4 @@
 - pkg:nuget/Orc.FilterBuilder@5.1.0-alpha0644
 - pkg:nuget/Orc.FilterBuilder@5.1.1
 - pkg:nuget/Orc.FilterBuilder@5.2.0
+- pkg:nuget/Orc.FilterBuilder@6.0.0-alpha0139
