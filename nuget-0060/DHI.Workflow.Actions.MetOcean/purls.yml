@@ -96,3 +96,4 @@
 - pkg:nuget/DHI.Workflow.Actions.MetOcean@4.0.3
 - pkg:nuget/DHI.Workflow.Actions.MetOcean@4.0.4
 - pkg:nuget/DHI.Workflow.Actions.MetOcean@4.0.5
+- pkg:nuget/DHI.Workflow.Actions.MetOcean@4.2.1
