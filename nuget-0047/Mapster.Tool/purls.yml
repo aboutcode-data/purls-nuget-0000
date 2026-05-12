@@ -4,6 +4,7 @@
 - pkg:nuget/Mapster.Tool@10.0.7-pre02
 - pkg:nuget/Mapster.Tool@10.0.7-pre03
 - pkg:nuget/Mapster.Tool@10.0.7-pre04
+- pkg:nuget/Mapster.Tool@10.0.8-pre06
 - pkg:nuget/Mapster.Tool@6.5.0
 - pkg:nuget/Mapster.Tool@6.5.1
 - pkg:nuget/Mapster.Tool@7.0.0

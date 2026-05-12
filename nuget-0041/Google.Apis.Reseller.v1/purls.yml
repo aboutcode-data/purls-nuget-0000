@@ -112,6 +112,7 @@
 - pkg:nuget/Google.Apis.Reseller.v1@1.7.0.32-beta
 - pkg:nuget/Google.Apis.Reseller.v1@1.7.0.33-beta
 - pkg:nuget/Google.Apis.Reseller.v1@1.7.0.34-beta
+- pkg:nuget/Google.Apis.Reseller.v1@1.74.0.3783
 - pkg:nuget/Google.Apis.Reseller.v1@1.8.0.340-rc
 - pkg:nuget/Google.Apis.Reseller.v1@1.8.1.350
 - pkg:nuget/Google.Apis.Reseller.v1@1.8.1.360
