@@ -9,6 +9,7 @@
 - pkg:nuget/System.Resources.Extensions@10.0.1
 - pkg:nuget/System.Resources.Extensions@10.0.7
 - pkg:nuget/System.Resources.Extensions@11.0.0-preview.1.26104.118
+- pkg:nuget/System.Resources.Extensions@11.0.0-preview.4.26230.115
 - pkg:nuget/System.Resources.Extensions@4.6.0
 - pkg:nuget/System.Resources.Extensions@4.6.0-preview6.19264.9
 - pkg:nuget/System.Resources.Extensions@4.6.0-preview6.19303.8
