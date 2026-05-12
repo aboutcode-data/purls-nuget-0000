@@ -274,6 +274,7 @@
 - pkg:nuget/Speckle.Objects@3.17.1-stj-experiment
 - pkg:nuget/Speckle.Objects@3.18.0
 - pkg:nuget/Speckle.Objects@3.18.0-stj-experiment
+- pkg:nuget/Speckle.Objects@3.18.2
 - pkg:nuget/Speckle.Objects@3.19.0-stj-experiment
 - pkg:nuget/Speckle.Objects@3.2.0
 - pkg:nuget/Speckle.Objects@3.2.0-alpha.26
@@ -296,6 +297,7 @@
 - pkg:nuget/Speckle.Objects@3.2.1
 - pkg:nuget/Speckle.Objects@3.2.2
 - pkg:nuget/Speckle.Objects@3.2.3
+- pkg:nuget/Speckle.Objects@3.20.2-stj-experiment
 - pkg:nuget/Speckle.Objects@3.3.0
 - pkg:nuget/Speckle.Objects@3.3.0-alpha.10
 - pkg:nuget/Speckle.Objects@3.3.0-alpha.12

@@ -1846,6 +1846,7 @@
 - pkg:nuget/FunFair.CodeAnalysis@7.1.43.1967-migrate-idateti
 - pkg:nuget/FunFair.CodeAnalysis@7.1.43.1968-main
 - pkg:nuget/FunFair.CodeAnalysis@7.1.43.1969-main
+- pkg:nuget/FunFair.CodeAnalysis@7.1.43.1973-main
 - pkg:nuget/FunFair.CodeAnalysis@7.1.5.1238-main
 - pkg:nuget/FunFair.CodeAnalysis@7.1.5.1239-main
 - pkg:nuget/FunFair.CodeAnalysis@7.1.5.1240
