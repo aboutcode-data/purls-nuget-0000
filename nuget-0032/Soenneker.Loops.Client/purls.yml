@@ -98,5 +98,7 @@
 - pkg:nuget/Soenneker.Loops.Client@4.0.272
 - pkg:nuget/Soenneker.Loops.Client@4.0.274
 - pkg:nuget/Soenneker.Loops.Client@4.0.284
+- pkg:nuget/Soenneker.Loops.Client@4.0.287
+- pkg:nuget/Soenneker.Loops.Client@4.0.289
 - pkg:nuget/Soenneker.Loops.Client@4.0.82
 - pkg:nuget/Soenneker.Loops.Client@4.0.95
