@@ -8,6 +8,7 @@
 - pkg:nuget/Umbraco.TheStarterKit@15.0.0
 - pkg:nuget/Umbraco.TheStarterKit@16.0.0
 - pkg:nuget/Umbraco.TheStarterKit@16.0.0-rc
+- pkg:nuget/Umbraco.TheStarterKit@18.0.0-beta1
 - pkg:nuget/Umbraco.TheStarterKit@9.0.0
 - pkg:nuget/Umbraco.TheStarterKit@9.0.0-beta001
 - pkg:nuget/Umbraco.TheStarterKit@9.0.0-rc001
