@@ -384,3 +384,5 @@
 - pkg:nuget/Pulumi.Eks@4.3.0-alpha.1775192708
 - pkg:nuget/Pulumi.Eks@4.3.0-alpha.1776842703
 - pkg:nuget/Pulumi.Eks@4.3.0-alpha.1777450857
+- pkg:nuget/Pulumi.Eks@4.3.0-alpha.1778745479
+- pkg:nuget/Pulumi.Eks@4.3.0-alpha.1778750627
