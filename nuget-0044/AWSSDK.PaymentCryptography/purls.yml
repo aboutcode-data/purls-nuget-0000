@@ -425,6 +425,7 @@
 - pkg:nuget/AWSSDK.PaymentCryptography@3.7.506.35
 - pkg:nuget/AWSSDK.PaymentCryptography@3.7.506.36
 - pkg:nuget/AWSSDK.PaymentCryptography@3.7.506.37
+- pkg:nuget/AWSSDK.PaymentCryptography@3.7.506.39
 - pkg:nuget/AWSSDK.PaymentCryptography@3.7.506.4
 - pkg:nuget/AWSSDK.PaymentCryptography@3.7.506.6
 - pkg:nuget/AWSSDK.PaymentCryptography@4.0.0
