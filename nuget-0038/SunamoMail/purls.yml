@@ -27,3 +27,4 @@
 - pkg:nuget/SunamoMail@25.6.9.1
 - pkg:nuget/SunamoMail@26.2.4.1
 - pkg:nuget/SunamoMail@26.3.28.3
+- pkg:nuget/SunamoMail@26.5.14.4
