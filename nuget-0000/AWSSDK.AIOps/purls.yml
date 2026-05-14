@@ -55,6 +55,7 @@
 - pkg:nuget/AWSSDK.AIOps@3.7.502.50
 - pkg:nuget/AWSSDK.AIOps@3.7.502.53
 - pkg:nuget/AWSSDK.AIOps@3.7.502.55
+- pkg:nuget/AWSSDK.AIOps@3.7.502.57
 - pkg:nuget/AWSSDK.AIOps@3.7.502.8
 - pkg:nuget/AWSSDK.AIOps@4.0.0
 - pkg:nuget/AWSSDK.AIOps@4.0.0.1
