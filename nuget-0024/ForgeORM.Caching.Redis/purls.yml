@@ -1,1 +1,2 @@
 - pkg:nuget/ForgeORM.Caching.Redis@1.1.0
+- pkg:nuget/ForgeORM.Caching.Redis@1.3.1
