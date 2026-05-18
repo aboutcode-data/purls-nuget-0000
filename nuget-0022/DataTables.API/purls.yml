@@ -32,6 +32,7 @@
 - pkg:nuget/DataTables.API@0.13.2
 - pkg:nuget/DataTables.API@0.13.8
 - pkg:nuget/DataTables.API@0.13.9
+- pkg:nuget/DataTables.API@0.14.2
 - pkg:nuget/DataTables.API@0.2.0
 - pkg:nuget/DataTables.API@0.2.2
 - pkg:nuget/DataTables.API@0.2.3
