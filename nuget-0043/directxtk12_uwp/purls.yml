@@ -57,6 +57,7 @@
 - pkg:nuget/directxtk12_uwp@2024.2.22.1
 - pkg:nuget/directxtk12_uwp@2024.6.5.1
 - pkg:nuget/directxtk12_uwp@2024.9.5.1
+- pkg:nuget/directxtk12_uwp@2025.10.28.1
 - pkg:nuget/directxtk12_uwp@2025.3.21.3
 - pkg:nuget/directxtk12_uwp@2025.7.10.1
 - pkg:nuget/directxtk12_uwp@2026.4.1.1
