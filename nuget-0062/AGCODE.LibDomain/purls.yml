@@ -725,6 +725,8 @@
 - pkg:nuget/AGCODE.LibDomain@1.0.830
 - pkg:nuget/AGCODE.LibDomain@1.0.832
 - pkg:nuget/AGCODE.LibDomain@1.0.84
+- pkg:nuget/AGCODE.LibDomain@1.0.848
+- pkg:nuget/AGCODE.LibDomain@1.0.849
 - pkg:nuget/AGCODE.LibDomain@1.0.85
 - pkg:nuget/AGCODE.LibDomain@1.0.86
 - pkg:nuget/AGCODE.LibDomain@1.0.87
