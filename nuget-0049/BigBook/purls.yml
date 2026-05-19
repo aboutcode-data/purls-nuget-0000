@@ -245,5 +245,6 @@
 - pkg:nuget/BigBook@6.0.9
 - pkg:nuget/BigBook@6.2.0
 - pkg:nuget/BigBook@6.2.1
+- pkg:nuget/BigBook@6.2.15
 - pkg:nuget/BigBook@6.2.2
 - pkg:nuget/BigBook@6.2.7
