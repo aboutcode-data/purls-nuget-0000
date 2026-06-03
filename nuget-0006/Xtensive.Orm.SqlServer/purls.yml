@@ -28,3 +28,4 @@
 - pkg:nuget/Xtensive.Orm.SqlServer@7.1.5
 - pkg:nuget/Xtensive.Orm.SqlServer@7.2.0-Beta-1
 - pkg:nuget/Xtensive.Orm.SqlServer@7.2.0-Beta-2
+- pkg:nuget/Xtensive.Orm.SqlServer@7.2.2
