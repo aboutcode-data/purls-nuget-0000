@@ -912,3 +912,5 @@
 - pkg:nuget/AWSSDK.SSOAdmin@4.0.5.7
 - pkg:nuget/AWSSDK.SSOAdmin@4.0.5.8
 - pkg:nuget/AWSSDK.SSOAdmin@4.0.5.9
+- pkg:nuget/AWSSDK.SSOAdmin@4.0.7
+- pkg:nuget/AWSSDK.SSOAdmin@4.0.7.2
