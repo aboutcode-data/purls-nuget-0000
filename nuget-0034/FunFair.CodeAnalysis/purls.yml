@@ -1895,3 +1895,17 @@
 - pkg:nuget/FunFair.CodeAnalysis@7.1.9.1293
 - pkg:nuget/FunFair.CodeAnalysis@7.2.1.1987-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.1.1992-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.1.1998-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.1.1999-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.1.2008-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.1.2010-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.1.2015-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.1.2016-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.1.2021-ffs0050-prefer
+- pkg:nuget/FunFair.CodeAnalysis@7.2.1.2022-ffs0050-prefer
+- pkg:nuget/FunFair.CodeAnalysis@7.2.1.2023-ffs0050-prefer
+- pkg:nuget/FunFair.CodeAnalysis@7.2.1.2025-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.1.2026-ffs0050-prefer
+- pkg:nuget/FunFair.CodeAnalysis@7.2.1.2027-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.1.2028-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.1.2031-ban-internalsvi
