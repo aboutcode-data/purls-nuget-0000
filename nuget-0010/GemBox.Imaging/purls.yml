@@ -350,3 +350,5 @@
 - pkg:nuget/GemBox.Imaging@2026.3.100
 - pkg:nuget/GemBox.Imaging@2026.4.100
 - pkg:nuget/GemBox.Imaging@2026.5.101
+- pkg:nuget/GemBox.Imaging@2026.6.100
+- pkg:nuget/GemBox.Imaging@2026.6.101
