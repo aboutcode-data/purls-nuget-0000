@@ -389,6 +389,8 @@
 - pkg:nuget/Inflatable@5.0.19
 - pkg:nuget/Inflatable@5.0.190
 - pkg:nuget/Inflatable@5.0.193
+- pkg:nuget/Inflatable@5.0.194
+- pkg:nuget/Inflatable@5.0.195
 - pkg:nuget/Inflatable@5.0.2
 - pkg:nuget/Inflatable@5.0.20
 - pkg:nuget/Inflatable@5.0.21
