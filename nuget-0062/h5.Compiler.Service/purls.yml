@@ -71,3 +71,5 @@
 - pkg:nuget/h5.Compiler.Service@26.2.64284
 - pkg:nuget/h5.Compiler.Service@26.4.673
 - pkg:nuget/h5.Compiler.Service@26.4.674
+- pkg:nuget/h5.Compiler.Service@26.5.1214
+- pkg:nuget/h5.Compiler.Service@26.6.1391
