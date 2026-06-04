@@ -123,4 +123,5 @@
 - pkg:nuget/Reimaginate.DataHub.Agent@1.2.3
 - pkg:nuget/Reimaginate.DataHub.Agent@1.2.4
 - pkg:nuget/Reimaginate.DataHub.Agent@1.3.0-rc.19
+- pkg:nuget/Reimaginate.DataHub.Agent@1.3.0-rc.22
 - pkg:nuget/Reimaginate.DataHub.Agent@1.3.0-rc.6
