@@ -122,4 +122,5 @@
 - pkg:nuget/XAMLTest@1.3.0-ci602
 - pkg:nuget/XAMLTest@1.3.0-ci610
 - pkg:nuget/XAMLTest@1.3.0-ci616
+- pkg:nuget/XAMLTest@1.3.1-ci740
 - pkg:nuget/XAMLTest@3.0.0
