@@ -39,3 +39,6 @@
 - pkg:nuget/WinterRose.WinterForge@25.3.0-alpha-6
 - pkg:nuget/WinterRose.WinterForge@25.3.0-alpha-7
 - pkg:nuget/WinterRose.WinterForge@26.1.2-debug
+- pkg:nuget/WinterRose.WinterForge@26.2.0
+- pkg:nuget/WinterRose.WinterForge@26.2.1
+- pkg:nuget/WinterRose.WinterForge@26.2.2
