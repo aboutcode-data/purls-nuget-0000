@@ -209,6 +209,7 @@
 - pkg:nuget/Ecng.Serialization@1.0.344
 - pkg:nuget/Ecng.Serialization@1.0.35
 - pkg:nuget/Ecng.Serialization@1.0.350
+- pkg:nuget/Ecng.Serialization@1.0.351
 - pkg:nuget/Ecng.Serialization@1.0.36
 - pkg:nuget/Ecng.Serialization@1.0.37
 - pkg:nuget/Ecng.Serialization@1.0.38
