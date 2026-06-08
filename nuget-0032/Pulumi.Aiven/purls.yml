@@ -585,6 +585,7 @@
 - pkg:nuget/Pulumi.Aiven@6.54.0-alpha.1778652664
 - pkg:nuget/Pulumi.Aiven@6.54.0-alpha.1779344851
 - pkg:nuget/Pulumi.Aiven@6.55.0-alpha.1779431144
+- pkg:nuget/Pulumi.Aiven@6.56.0-alpha.1780900700
 - pkg:nuget/Pulumi.Aiven@6.6.0
 - pkg:nuget/Pulumi.Aiven@6.6.0-alpha.1690404903%2B2f63fd13
 - pkg:nuget/Pulumi.Aiven@6.6.1
