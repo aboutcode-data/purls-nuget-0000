@@ -120,3 +120,5 @@
 - pkg:nuget/CoreDatabase@2025.9.3
 - pkg:nuget/CoreDatabase@2025.9.5
 - pkg:nuget/CoreDatabase@2025.9.9
+- pkg:nuget/CoreDatabase@2026.6.10
+- pkg:nuget/CoreDatabase@2026.6.9
