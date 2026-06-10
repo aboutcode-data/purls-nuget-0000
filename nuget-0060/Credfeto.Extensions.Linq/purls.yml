@@ -433,6 +433,9 @@
 - pkg:nuget/Credfeto.Extensions.Linq@1.0.152.1661-main
 - pkg:nuget/Credfeto.Extensions.Linq@1.0.152.1667-main
 - pkg:nuget/Credfeto.Extensions.Linq@1.0.152.1679-main
+- pkg:nuget/Credfeto.Extensions.Linq@1.0.152.1681-main
+- pkg:nuget/Credfeto.Extensions.Linq@1.0.152.1682-main
+- pkg:nuget/Credfeto.Extensions.Linq@1.0.152.1683-main
 - pkg:nuget/Credfeto.Extensions.Linq@1.0.16.102-main
 - pkg:nuget/Credfeto.Extensions.Linq@1.0.16.103-main
 - pkg:nuget/Credfeto.Extensions.Linq@1.0.16.104-main
