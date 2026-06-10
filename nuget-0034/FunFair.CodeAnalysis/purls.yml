@@ -1909,3 +1909,4 @@
 - pkg:nuget/FunFair.CodeAnalysis@7.2.1.2027-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.1.2028-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.1.2031-ban-internalsvi
+- pkg:nuget/FunFair.CodeAnalysis@7.2.2.2048-main
