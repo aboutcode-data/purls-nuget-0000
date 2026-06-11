@@ -8,3 +8,4 @@
 - pkg:nuget/AWSSDK.SignerData@4.0.0.6
 - pkg:nuget/AWSSDK.SignerData@4.0.0.7
 - pkg:nuget/AWSSDK.SignerData@4.0.0.8
+- pkg:nuget/AWSSDK.SignerData@4.0.1.3
