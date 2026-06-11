@@ -1,1 +1,4 @@
 - pkg:nuget/ND.FW.DbAccessManager@0.0.2
+- pkg:nuget/ND.FW.DbAccessManager@0.0.3
+- pkg:nuget/ND.FW.DbAccessManager@1.0.1
+- pkg:nuget/ND.FW.DbAccessManager@1.0.2
