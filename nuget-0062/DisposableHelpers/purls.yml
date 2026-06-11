@@ -61,6 +61,7 @@
 - pkg:nuget/DisposableHelpers@1.2.17%2Bbuild.25
 - pkg:nuget/DisposableHelpers@1.2.18%2Bbuild.26
 - pkg:nuget/DisposableHelpers@1.2.19%2Bbuild.27
+- pkg:nuget/DisposableHelpers@1.2.190%2Bbuild.20260610193710.77978ba
 - pkg:nuget/DisposableHelpers@1.2.2%2Bbuild.10
 - pkg:nuget/DisposableHelpers@1.2.20%2Bbuild.28
 - pkg:nuget/DisposableHelpers@1.2.21%2Bbuild.29
