@@ -39,6 +39,7 @@
 - pkg:nuget/Gherkin@35.1.0
 - pkg:nuget/Gherkin@4.0.0
 - pkg:nuget/Gherkin@4.1.4-rc1
+- pkg:nuget/Gherkin@40.0.0
 - pkg:nuget/Gherkin@5.0.0
 - pkg:nuget/Gherkin@5.1.0
 - pkg:nuget/Gherkin@6.0.0
