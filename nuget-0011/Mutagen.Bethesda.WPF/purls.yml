@@ -519,5 +519,6 @@
 - pkg:nuget/Mutagen.Bethesda.WPF@0.54.0-alpha.8
 - pkg:nuget/Mutagen.Bethesda.WPF@0.54.0-alpha.83
 - pkg:nuget/Mutagen.Bethesda.WPF@0.54.0-alpha.90
+- pkg:nuget/Mutagen.Bethesda.WPF@0.54.0-alpha.98
 - pkg:nuget/Mutagen.Bethesda.WPF@2.8.1-prerelease001
 - pkg:nuget/Mutagen.Bethesda.WPF@2.8.1-prerelease002
