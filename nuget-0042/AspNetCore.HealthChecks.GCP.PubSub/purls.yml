@@ -1,5 +1,6 @@
 - pkg:nuget/AspNetCore.HealthChecks.GCP.PubSub@1.0.0
 - pkg:nuget/AspNetCore.HealthChecks.GCP.PubSub@1.0.1
+- pkg:nuget/AspNetCore.HealthChecks.GCP.PubSub@10.0.2
 - pkg:nuget/AspNetCore.HealthChecks.GCP.PubSub@2.0.0
 - pkg:nuget/AspNetCore.HealthChecks.GCP.PubSub@2.0.1
 - pkg:nuget/AspNetCore.HealthChecks.GCP.PubSub@2.0.2
