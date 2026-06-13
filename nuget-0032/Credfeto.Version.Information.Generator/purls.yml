@@ -309,6 +309,8 @@
 - pkg:nuget/Credfeto.Version.Information.Generator@1.0.128.1289-main
 - pkg:nuget/Credfeto.Version.Information.Generator@1.0.128.1290-main
 - pkg:nuget/Credfeto.Version.Information.Generator@1.0.128.1291-main
+- pkg:nuget/Credfeto.Version.Information.Generator@1.0.129.1298-main
+- pkg:nuget/Credfeto.Version.Information.Generator@1.0.129.1299-main
 - pkg:nuget/Credfeto.Version.Information.Generator@1.0.13.128-main
 - pkg:nuget/Credfeto.Version.Information.Generator@1.0.13.129-main
 - pkg:nuget/Credfeto.Version.Information.Generator@1.0.13.130-main
