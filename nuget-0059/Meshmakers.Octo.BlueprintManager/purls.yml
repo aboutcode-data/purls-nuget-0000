@@ -1,4 +1,10 @@
 - pkg:nuget/Meshmakers.Octo.BlueprintManager@3.3.1
+- pkg:nuget/Meshmakers.Octo.BlueprintManager@3.3.107
+- pkg:nuget/Meshmakers.Octo.BlueprintManager@3.3.108
+- pkg:nuget/Meshmakers.Octo.BlueprintManager@3.3.112
+- pkg:nuget/Meshmakers.Octo.BlueprintManager@3.3.117
+- pkg:nuget/Meshmakers.Octo.BlueprintManager@3.3.120
+- pkg:nuget/Meshmakers.Octo.BlueprintManager@3.3.121
 - pkg:nuget/Meshmakers.Octo.BlueprintManager@3.3.16
 - pkg:nuget/Meshmakers.Octo.BlueprintManager@3.3.19
 - pkg:nuget/Meshmakers.Octo.BlueprintManager@3.3.2
@@ -14,3 +20,5 @@
 - pkg:nuget/Meshmakers.Octo.BlueprintManager@3.3.81
 - pkg:nuget/Meshmakers.Octo.BlueprintManager@3.3.85
 - pkg:nuget/Meshmakers.Octo.BlueprintManager@3.3.87
+- pkg:nuget/Meshmakers.Octo.BlueprintManager@3.4.10
+- pkg:nuget/Meshmakers.Octo.BlueprintManager@3.4.4
