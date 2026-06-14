@@ -1,3 +1,4 @@
 - pkg:nuget/Oakrey.Applications.ControlObjects@1.0.0
 - pkg:nuget/Oakrey.Applications.ControlObjects@4.0.0
 - pkg:nuget/Oakrey.Applications.ControlObjects@4.0.2
+- pkg:nuget/Oakrey.Applications.ControlObjects@5.0.0
