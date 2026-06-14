@@ -41,3 +41,4 @@
 - pkg:nuget/HNSW@26.3.126
 - pkg:nuget/HNSW@26.3.129
 - pkg:nuget/HNSW@26.4.177
+- pkg:nuget/HNSW@26.6.1848
