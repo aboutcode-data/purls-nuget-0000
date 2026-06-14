@@ -30,3 +30,5 @@
 - pkg:nuget/VitalRouter@1.7.0
 - pkg:nuget/VitalRouter@2.1.0
 - pkg:nuget/VitalRouter@2.4.0
+- pkg:nuget/VitalRouter@2.5.0
+- pkg:nuget/VitalRouter@2.6.1
