@@ -93,6 +93,7 @@
 - pkg:nuget/Cortside.DomainEvent.Stub@1.5.266-develop
 - pkg:nuget/Cortside.DomainEvent.Stub@1.5.268-net6
 - pkg:nuget/Cortside.DomainEvent.Stub@1.5.269-develop
+- pkg:nuget/Cortside.DomainEvent.Stub@10.0.407-EBPP-5072
 - pkg:nuget/Cortside.DomainEvent.Stub@6.0.270-develop
 - pkg:nuget/Cortside.DomainEvent.Stub@6.0.271-develop
 - pkg:nuget/Cortside.DomainEvent.Stub@6.0.272-develop
@@ -193,3 +194,4 @@
 - pkg:nuget/Cortside.DomainEvent.Stub@8.0.395
 - pkg:nuget/Cortside.DomainEvent.Stub@8.1.373-develop
 - pkg:nuget/Cortside.DomainEvent.Stub@8.1.396-develop
+- pkg:nuget/Cortside.DomainEvent.Stub@8.1.406-EBPP-5072-dotnet8
