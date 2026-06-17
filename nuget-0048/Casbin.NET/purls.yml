@@ -52,6 +52,7 @@
 - pkg:nuget/Casbin.NET@2.16.0
 - pkg:nuget/Casbin.NET@2.19.2
 - pkg:nuget/Casbin.NET@2.2.0
+- pkg:nuget/Casbin.NET@2.21.1
 - pkg:nuget/Casbin.NET@2.4.0
 - pkg:nuget/Casbin.NET@2.5.0
 - pkg:nuget/Casbin.NET@2.5.1
