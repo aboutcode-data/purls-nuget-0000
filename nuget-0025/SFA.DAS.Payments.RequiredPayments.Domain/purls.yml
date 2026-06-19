@@ -23,3 +23,4 @@
 - pkg:nuget/SFA.DAS.Payments.RequiredPayments.Domain@2.0.11-prerelease-28
 - pkg:nuget/SFA.DAS.Payments.RequiredPayments.Domain@2.0.12-prerelease-2
 - pkg:nuget/SFA.DAS.Payments.RequiredPayments.Domain@2.0.13-prerelease-3
+- pkg:nuget/SFA.DAS.Payments.RequiredPayments.Domain@2.0.15
