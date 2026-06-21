@@ -124,3 +124,4 @@
 - pkg:nuget/HtmlSanitizer@9.1.882-beta
 - pkg:nuget/HtmlSanitizer@9.1.885-beta
 - pkg:nuget/HtmlSanitizer@9.1.887-beta
+- pkg:nuget/HtmlSanitizer@9.1.949-beta
