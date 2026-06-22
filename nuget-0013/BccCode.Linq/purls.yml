@@ -78,6 +78,8 @@
 - pkg:nuget/BccCode.Linq@1.0.0.195-beta
 - pkg:nuget/BccCode.Linq@1.0.0.196-beta
 - pkg:nuget/BccCode.Linq@1.0.0.197
+- pkg:nuget/BccCode.Linq@1.0.0.200-beta
+- pkg:nuget/BccCode.Linq@1.0.0.201
 - pkg:nuget/BccCode.Linq@1.0.0.62-beta
 - pkg:nuget/BccCode.Linq@1.0.0.63-beta
 - pkg:nuget/BccCode.Linq@1.0.0.65
