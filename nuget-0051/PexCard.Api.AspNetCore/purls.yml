@@ -8,3 +8,4 @@
 - pkg:nuget/PexCard.Api.AspNetCore@1.90.1
 - pkg:nuget/PexCard.Api.AspNetCore@1.91.0
 - pkg:nuget/PexCard.Api.AspNetCore@1.94.0
+- pkg:nuget/PexCard.Api.AspNetCore@1.95.0
