@@ -983,3 +983,4 @@
 - pkg:nuget/MDriven.Persistence.SqlServer.netStandard@7.2.0.17383
 - pkg:nuget/MDriven.Persistence.SqlServer.netStandard@7.2.0.17387
 - pkg:nuget/MDriven.Persistence.SqlServer.netStandard@7.2.0.17397
+- pkg:nuget/MDriven.Persistence.SqlServer.netStandard@7.2.0.17412
