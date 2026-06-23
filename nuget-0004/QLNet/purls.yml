@@ -137,6 +137,7 @@
 - pkg:nuget/QLNet@1.13.2-preview.76
 - pkg:nuget/QLNet@1.13.2-preview.77
 - pkg:nuget/QLNet@1.13.2-preview.8
+- pkg:nuget/QLNet@1.13.2-preview.80
 - pkg:nuget/QLNet@1.2.0
 - pkg:nuget/QLNet@1.2.0.1
 - pkg:nuget/QLNet@1.2.0.2
