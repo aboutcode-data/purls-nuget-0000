@@ -1,5 +1,6 @@
 - pkg:nuget/Kinetix.EFCore@1.0.0
 - pkg:nuget/Kinetix.EFCore@1.0.1
 - pkg:nuget/Kinetix.EFCore@1.0.2
+- pkg:nuget/Kinetix.EFCore@10.0.1
 - pkg:nuget/Kinetix.EFCore@8.0.0
 - pkg:nuget/Kinetix.EFCore@8.0.1
