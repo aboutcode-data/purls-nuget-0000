@@ -21,6 +21,7 @@
 - pkg:nuget/Olive.Aws.Mvc@1.0.7
 - pkg:nuget/Olive.Aws.Mvc@1.0.8
 - pkg:nuget/Olive.Aws.Mvc@1.0.9
+- pkg:nuget/Olive.Aws.Mvc@10.0.1
 - pkg:nuget/Olive.Aws.Mvc@8.0.0
 - pkg:nuget/Olive.Aws.Mvc@8.0.1
 - pkg:nuget/Olive.Aws.Mvc@8.0.2
