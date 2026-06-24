@@ -178,3 +178,5 @@
 - pkg:nuget/ApplicationBuilderHelpers@4.1.81%2Bbuild.20260610103151.0ce3514
 - pkg:nuget/ApplicationBuilderHelpers@4.1.82%2Bbuild.20260610104114.87f6d92
 - pkg:nuget/ApplicationBuilderHelpers@4.1.9%2Bbuild.20260223113204.6b20da8
+- pkg:nuget/ApplicationBuilderHelpers@4.1.91%2Bbuild.20260624103235.ed35d39
+- pkg:nuget/ApplicationBuilderHelpers@4.1.92%2Bbuild.20260624104049.5f4066a
