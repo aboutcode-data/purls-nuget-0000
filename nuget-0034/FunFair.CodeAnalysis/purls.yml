@@ -1914,3 +1914,6 @@
 - pkg:nuget/FunFair.CodeAnalysis@7.2.2.2058-ffs0012-no-trig
 - pkg:nuget/FunFair.CodeAnalysis@7.2.3.2067-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.3.2068-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.3.2074-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.3.2075-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.3.2076-main
