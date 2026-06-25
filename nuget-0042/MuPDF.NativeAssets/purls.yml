@@ -9,3 +9,5 @@
 - pkg:nuget/MuPDF.NativeAssets@1.26.9-rc.3
 - pkg:nuget/MuPDF.NativeAssets@1.27.0-rc.2
 - pkg:nuget/MuPDF.NativeAssets@1.27.0-rc.3
+- pkg:nuget/MuPDF.NativeAssets@1.27.2.1
+- pkg:nuget/MuPDF.NativeAssets@1.28.0-rc.1
