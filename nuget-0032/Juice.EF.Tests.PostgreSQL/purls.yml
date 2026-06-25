@@ -1,4 +1,5 @@
 - pkg:nuget/Juice.EF.Tests.PostgreSQL@10.1.1
+- pkg:nuget/Juice.EF.Tests.PostgreSQL@10.2.3
 - pkg:nuget/Juice.EF.Tests.PostgreSQL@8.1.6
 - pkg:nuget/Juice.EF.Tests.PostgreSQL@8.2.0
 - pkg:nuget/Juice.EF.Tests.PostgreSQL@8.2.0-beta.1
