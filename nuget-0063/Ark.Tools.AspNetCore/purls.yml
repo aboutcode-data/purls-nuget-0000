@@ -224,3 +224,4 @@
 - pkg:nuget/Ark.Tools.AspNetCore@5.4.0
 - pkg:nuget/Ark.Tools.AspNetCore@5.5.0
 - pkg:nuget/Ark.Tools.AspNetCore@6.0.0
+- pkg:nuget/Ark.Tools.AspNetCore@6.0.4
