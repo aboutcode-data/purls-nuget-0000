@@ -81,3 +81,4 @@
 - pkg:nuget/SourceExpander@8.0.0
 - pkg:nuget/SourceExpander@8.1.0
 - pkg:nuget/SourceExpander@8.2.0
+- pkg:nuget/SourceExpander@9.0.0-beta2
