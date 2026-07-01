@@ -879,4 +879,5 @@
 - pkg:nuget/AWSSDK.SageMakerFeatureStoreRuntime@4.0.1.21
 - pkg:nuget/AWSSDK.SageMakerFeatureStoreRuntime@4.0.1.30
 - pkg:nuget/AWSSDK.SageMakerFeatureStoreRuntime@4.0.1.9
+- pkg:nuget/AWSSDK.SageMakerFeatureStoreRuntime@4.0.100.1
 - pkg:nuget/AWSSDK.SageMakerFeatureStoreRuntime@4.0.2.5
