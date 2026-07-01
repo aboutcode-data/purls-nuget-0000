@@ -9,3 +9,4 @@
 - pkg:nuget/TwitchLib.EventSub.Webhooks@2.2.0
 - pkg:nuget/TwitchLib.EventSub.Webhooks@2.3.0
 - pkg:nuget/TwitchLib.EventSub.Webhooks@3.0.0-preview.1.2c180de
+- pkg:nuget/TwitchLib.EventSub.Webhooks@3.1.0-preview.8.af1f918
