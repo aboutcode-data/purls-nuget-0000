@@ -475,3 +475,5 @@
 - pkg:nuget/InfluxDB.Client.Core@5.1.0-dev.16488
 - pkg:nuget/InfluxDB.Client.Core@5.1.0-dev.17386
 - pkg:nuget/InfluxDB.Client.Core@5.1.0-dev.17405
+- pkg:nuget/InfluxDB.Client.Core@5.1.0-dev.18352
+- pkg:nuget/InfluxDB.Client.Core@5.1.0-dev.18398
