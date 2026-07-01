@@ -18,6 +18,7 @@
 - pkg:nuget/MemberExport@14.0.0-beta0003
 - pkg:nuget/MemberExport@15.0.0
 - pkg:nuget/MemberExport@15.0.0-beta0001
+- pkg:nuget/MemberExport@18.0.0
 - pkg:nuget/MemberExport@18.0.0-beta0003
 - pkg:nuget/MemberExport@2.8.1
 - pkg:nuget/MemberExport@2.8.2
