@@ -72,6 +72,7 @@
 - pkg:nuget/Ahsoka.Extensions.Bluetooth.UX@5.10.1-zzz-develop.11
 - pkg:nuget/Ahsoka.Extensions.Bluetooth.UX@5.12.1-zzz-develop.18
 - pkg:nuget/Ahsoka.Extensions.Bluetooth.UX@5.12.1-zzz-develop.4
+- pkg:nuget/Ahsoka.Extensions.Bluetooth.UX@5.13.1-zzz-develop.5
 - pkg:nuget/Ahsoka.Extensions.Bluetooth.UX@5.3.1-zzz-develop.1
 - pkg:nuget/Ahsoka.Extensions.Bluetooth.UX@5.6.1-zzz-develop.7
 - pkg:nuget/Ahsoka.Extensions.Bluetooth.UX@5.6.1-zzz-develop.8
