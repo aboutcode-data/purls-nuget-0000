@@ -20,5 +20,6 @@
 - pkg:nuget/Sparkle@5.2.1
 - pkg:nuget/Sparkle@5.2.10
 - pkg:nuget/Sparkle@5.2.12
+- pkg:nuget/Sparkle@5.2.15
 - pkg:nuget/Sparkle@5.2.6
 - pkg:nuget/Sparkle@5.2.7
