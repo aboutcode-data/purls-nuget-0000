@@ -16,3 +16,5 @@
 - pkg:nuget/Lumeo.Motion@3.5.2
 - pkg:nuget/Lumeo.Motion@3.5.3
 - pkg:nuget/Lumeo.Motion@3.7.1
+- pkg:nuget/Lumeo.Motion@4.0.1
+- pkg:nuget/Lumeo.Motion@4.0.2
