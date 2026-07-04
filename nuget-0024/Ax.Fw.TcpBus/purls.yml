@@ -137,6 +137,7 @@
 - pkg:nuget/Ax.Fw.TcpBus@14.5.258
 - pkg:nuget/Ax.Fw.TcpBus@15.0.293
 - pkg:nuget/Ax.Fw.TcpBus@15.0.298
+- pkg:nuget/Ax.Fw.TcpBus@15.0.301
 - pkg:nuget/Ax.Fw.TcpBus@4.0.10
 - pkg:nuget/Ax.Fw.TcpBus@4.0.11
 - pkg:nuget/Ax.Fw.TcpBus@4.0.12
