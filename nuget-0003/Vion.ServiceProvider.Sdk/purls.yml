@@ -1,0 +1,4 @@
+- pkg:nuget/Vion.ServiceProvider.Sdk@1.0.0
+- pkg:nuget/Vion.ServiceProvider.Sdk@2.0.0
+- pkg:nuget/Vion.ServiceProvider.Sdk@5.0.0
+- pkg:nuget/Vion.ServiceProvider.Sdk@7.0.0
