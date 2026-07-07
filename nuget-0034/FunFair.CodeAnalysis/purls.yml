@@ -1924,3 +1924,5 @@
 - pkg:nuget/FunFair.CodeAnalysis@7.2.6.2131-benchmark-basel
 - pkg:nuget/FunFair.CodeAnalysis@7.2.6.2132-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.7.2147-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.8.2155-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.8.2156-main
