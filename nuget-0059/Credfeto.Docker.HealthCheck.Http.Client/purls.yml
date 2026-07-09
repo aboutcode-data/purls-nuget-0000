@@ -457,6 +457,10 @@
 - pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.75.1018-main
 - pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.75.1019-main
 - pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.75.1020-main
+- pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.75.1023-httpclient-time
+- pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.75.1030-main
+- pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.75.1031-main
+- pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.75.1032-httpclient-time
 - pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.75.998-main
 - pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.8.76-main
 - pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.8.77-main
