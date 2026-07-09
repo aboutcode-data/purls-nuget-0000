@@ -42,3 +42,4 @@
 - pkg:nuget/SphinxConnector@5.3.0
 - pkg:nuget/SphinxConnector@5.4.0
 - pkg:nuget/SphinxConnector@5.4.1
+- pkg:nuget/SphinxConnector@6.1.0
