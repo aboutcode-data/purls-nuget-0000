@@ -131,3 +131,6 @@
 - pkg:nuget/Credfeto.ChangeLog.Cmd.linux-arm64@1.10.195.2185-main
 - pkg:nuget/Credfeto.ChangeLog.Cmd.linux-arm64@1.10.195.2186-main
 - pkg:nuget/Credfeto.ChangeLog.Cmd.linux-arm64@1.10.195.2187-cli-silent-exit
+- pkg:nuget/Credfeto.ChangeLog.Cmd.linux-arm64@1.10.195.2196-main
+- pkg:nuget/Credfeto.ChangeLog.Cmd.linux-arm64@1.10.195.2197-main
+- pkg:nuget/Credfeto.ChangeLog.Cmd.linux-arm64@1.10.195.2202-main
