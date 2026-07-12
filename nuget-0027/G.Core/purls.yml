@@ -42,3 +42,8 @@
 - pkg:nuget/G.Core@1.3.8.6
 - pkg:nuget/G.Core@1.3.8.7
 - pkg:nuget/G.Core@1.4.2026050714
+- pkg:nuget/G.Core@1.5.260630.1253
+- pkg:nuget/G.Core@1.5.260630.738
+- pkg:nuget/G.Core@1.6.260702.2250
+- pkg:nuget/G.Core@1.6.260703.1020
+- pkg:nuget/G.Core@1.6.260703.1031
