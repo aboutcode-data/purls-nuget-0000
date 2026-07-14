@@ -23,6 +23,7 @@
 - pkg:nuget/Xamarin.Google.MLKit.Common@118.11.0.3
 - pkg:nuget/Xamarin.Google.MLKit.Common@118.11.0.4
 - pkg:nuget/Xamarin.Google.MLKit.Common@118.11.0.5
+- pkg:nuget/Xamarin.Google.MLKit.Common@118.11.0.8
 - pkg:nuget/Xamarin.Google.MLKit.Common@118.2.0
 - pkg:nuget/Xamarin.Google.MLKit.Common@118.2.0.1
 - pkg:nuget/Xamarin.Google.MLKit.Common@118.2.0.2
