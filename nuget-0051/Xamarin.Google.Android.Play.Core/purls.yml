@@ -16,6 +16,7 @@
 - pkg:nuget/Xamarin.Google.Android.Play.Core@1.10.3.18
 - pkg:nuget/Xamarin.Google.Android.Play.Core@1.10.3.19
 - pkg:nuget/Xamarin.Google.Android.Play.Core@1.10.3.2
+- pkg:nuget/Xamarin.Google.Android.Play.Core@1.10.3.22
 - pkg:nuget/Xamarin.Google.Android.Play.Core@1.10.3.3
 - pkg:nuget/Xamarin.Google.Android.Play.Core@1.10.3.4
 - pkg:nuget/Xamarin.Google.Android.Play.Core@1.10.3.5
