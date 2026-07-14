@@ -17,3 +17,4 @@
 - pkg:nuget/EllipticBit.Services.Cryptography.Abstractions@1.0.7
 - pkg:nuget/EllipticBit.Services.Cryptography.Abstractions@1.0.8
 - pkg:nuget/EllipticBit.Services.Cryptography.Abstractions@1.0.9
+- pkg:nuget/EllipticBit.Services.Cryptography.Abstractions@1.1.8
