@@ -1,4 +1,5 @@
 - pkg:nuget/CyberEye.OidcClient.Lib@1.10.0
 - pkg:nuget/CyberEye.OidcClient.Lib@1.10.1
 - pkg:nuget/CyberEye.OidcClient.Lib@1.9.9
+- pkg:nuget/CyberEye.OidcClient.Lib@3.0.17
 - pkg:nuget/CyberEye.OidcClient.Lib@3.0.3
