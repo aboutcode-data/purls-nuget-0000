@@ -35,6 +35,7 @@
 - pkg:nuget/Cadmus.Index.Sql@1.3.8
 - pkg:nuget/Cadmus.Index.Sql@1.3.9
 - pkg:nuget/Cadmus.Index.Sql@10.0.7
+- pkg:nuget/Cadmus.Index.Sql@14.0.1
 - pkg:nuget/Cadmus.Index.Sql@3.0.0
 - pkg:nuget/Cadmus.Index.Sql@3.0.1
 - pkg:nuget/Cadmus.Index.Sql@4.0.1
