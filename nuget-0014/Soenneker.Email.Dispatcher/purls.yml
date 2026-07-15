@@ -100,5 +100,6 @@
 - pkg:nuget/Soenneker.Email.Dispatcher@4.0.324
 - pkg:nuget/Soenneker.Email.Dispatcher@4.0.340
 - pkg:nuget/Soenneker.Email.Dispatcher@4.0.347
+- pkg:nuget/Soenneker.Email.Dispatcher@4.0.348
 - pkg:nuget/Soenneker.Email.Dispatcher@4.0.86
 - pkg:nuget/Soenneker.Email.Dispatcher@4.0.93
