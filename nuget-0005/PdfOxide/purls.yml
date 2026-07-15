@@ -4,3 +4,6 @@
 - pkg:nuget/PdfOxide@0.3.42
 - pkg:nuget/PdfOxide@0.3.44
 - pkg:nuget/PdfOxide@0.3.46
+- pkg:nuget/PdfOxide@0.3.55
+- pkg:nuget/PdfOxide@0.3.59
+- pkg:nuget/PdfOxide@0.3.66
