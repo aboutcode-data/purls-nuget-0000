@@ -42,3 +42,4 @@
 - pkg:nuget/Xamarin.Google.Guava@33.4.8.1
 - pkg:nuget/Xamarin.Google.Guava@33.4.8.2
 - pkg:nuget/Xamarin.Google.Guava@33.4.8.3
+- pkg:nuget/Xamarin.Google.Guava@33.6.0.1
