@@ -1,0 +1,12 @@
+- pkg:nuget/CosmoSQLClient.Tds.Protocol@6.1.7
+- pkg:nuget/CosmoSQLClient.Tds.Protocol@6.2.2
+- pkg:nuget/CosmoSQLClient.Tds.Protocol@6.2.3
+- pkg:nuget/CosmoSQLClient.Tds.Protocol@6.2.5
+- pkg:nuget/CosmoSQLClient.Tds.Protocol@6.54.6
+- pkg:nuget/CosmoSQLClient.Tds.Protocol@6.56.1
+- pkg:nuget/CosmoSQLClient.Tds.Protocol@6.56.3
+- pkg:nuget/CosmoSQLClient.Tds.Protocol@6.56.7
+- pkg:nuget/CosmoSQLClient.Tds.Protocol@6.57.0
+- pkg:nuget/CosmoSQLClient.Tds.Protocol@6.57.4
+- pkg:nuget/CosmoSQLClient.Tds.Protocol@6.57.5
+- pkg:nuget/CosmoSQLClient.Tds.Protocol@6.63.0
