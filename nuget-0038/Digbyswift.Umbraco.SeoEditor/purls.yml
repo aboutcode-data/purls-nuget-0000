@@ -7,3 +7,5 @@
 - pkg:nuget/Digbyswift.Umbraco.SeoEditor@10.2.1
 - pkg:nuget/Digbyswift.Umbraco.SeoEditor@13.1.0
 - pkg:nuget/Digbyswift.Umbraco.SeoEditor@13.1.1-preview0
+- pkg:nuget/Digbyswift.Umbraco.SeoEditor@17.0.0-preview05
+- pkg:nuget/Digbyswift.Umbraco.SeoEditor@17.0.0-preview07
