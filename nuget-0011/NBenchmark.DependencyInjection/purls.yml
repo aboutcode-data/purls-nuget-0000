@@ -1,0 +1,5 @@
+- pkg:nuget/NBenchmark.DependencyInjection@0.1.0
+- pkg:nuget/NBenchmark.DependencyInjection@0.21.1
+- pkg:nuget/NBenchmark.DependencyInjection@0.22.0
+- pkg:nuget/NBenchmark.DependencyInjection@0.24.0
+- pkg:nuget/NBenchmark.DependencyInjection@0.3.0

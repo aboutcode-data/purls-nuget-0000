@@ -1,2 +1,9 @@
 - pkg:nuget/workwise.shared.service@1.0.1
+- pkg:nuget/workwise.shared.service@1.0.14
+- pkg:nuget/workwise.shared.service@1.0.15
+- pkg:nuget/workwise.shared.service@1.0.19
+- pkg:nuget/workwise.shared.service@1.0.26
+- pkg:nuget/workwise.shared.service@1.0.29
+- pkg:nuget/workwise.shared.service@1.0.31
+- pkg:nuget/workwise.shared.service@1.0.33
 - pkg:nuget/workwise.shared.service@1.0.7
