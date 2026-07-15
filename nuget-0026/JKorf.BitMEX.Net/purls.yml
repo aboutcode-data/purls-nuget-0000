@@ -14,3 +14,5 @@
 - pkg:nuget/JKorf.BitMEX.Net@2.5.1
 - pkg:nuget/JKorf.BitMEX.Net@2.6.0
 - pkg:nuget/JKorf.BitMEX.Net@2.7.0
+- pkg:nuget/JKorf.BitMEX.Net@3.10.0
+- pkg:nuget/JKorf.BitMEX.Net@4.0.0
