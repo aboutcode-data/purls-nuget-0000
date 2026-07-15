@@ -17,3 +17,4 @@
 - pkg:nuget/LittleHorse.Sdk@0.5.9-alpha
 - pkg:nuget/LittleHorse.Sdk@0.5.9-alpha1
 - pkg:nuget/LittleHorse.Sdk@1.0.0
+- pkg:nuget/LittleHorse.Sdk@1.2.0-RC3
