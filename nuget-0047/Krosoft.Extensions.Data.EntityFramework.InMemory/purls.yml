@@ -22,3 +22,5 @@
 - pkg:nuget/Krosoft.Extensions.Data.EntityFramework.InMemory@2025.8.23.2282
 - pkg:nuget/Krosoft.Extensions.Data.EntityFramework.InMemory@2025.9.9.2852
 - pkg:nuget/Krosoft.Extensions.Data.EntityFramework.InMemory@2026.2.3.5276
+- pkg:nuget/Krosoft.Extensions.Data.EntityFramework.InMemory@2026.6.25.7871
+- pkg:nuget/Krosoft.Extensions.Data.EntityFramework.InMemory@2026.6.25.7875
