@@ -5,6 +5,7 @@
 - pkg:nuget/TALXIS.DevKit.Templates.Dataverse@1.13.0
 - pkg:nuget/TALXIS.DevKit.Templates.Dataverse@1.16.0
 - pkg:nuget/TALXIS.DevKit.Templates.Dataverse@1.2.0
+- pkg:nuget/TALXIS.DevKit.Templates.Dataverse@1.23.0
 - pkg:nuget/TALXIS.DevKit.Templates.Dataverse@1.3.0
 - pkg:nuget/TALXIS.DevKit.Templates.Dataverse@1.4.0
 - pkg:nuget/TALXIS.DevKit.Templates.Dataverse@1.5.0
