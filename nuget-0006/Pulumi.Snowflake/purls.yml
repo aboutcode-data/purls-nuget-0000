@@ -528,6 +528,7 @@
 - pkg:nuget/Pulumi.Snowflake@2.18.0-alpha.1783064484
 - pkg:nuget/Pulumi.Snowflake@2.18.0-alpha.1783484515
 - pkg:nuget/Pulumi.Snowflake@2.19.0-alpha.1783584873
+- pkg:nuget/Pulumi.Snowflake@2.19.0-alpha.1784186755
 - pkg:nuget/Pulumi.Snowflake@2.2.0
 - pkg:nuget/Pulumi.Snowflake@2.2.0-alpha.1751946295
 - pkg:nuget/Pulumi.Snowflake@2.3.0
