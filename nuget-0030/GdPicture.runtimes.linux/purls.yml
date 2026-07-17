@@ -127,3 +127,4 @@
 - pkg:nuget/GdPicture.runtimes.linux@14.3.8
 - pkg:nuget/GdPicture.runtimes.linux@14.3.9
 - pkg:nuget/GdPicture.runtimes.linux@14.4.0
+- pkg:nuget/GdPicture.runtimes.linux@14.4.6
