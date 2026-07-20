@@ -1,3 +1,5 @@
+- pkg:nuget/Recrovit.RecroGridFramework.Core@10.2.0
+- pkg:nuget/Recrovit.RecroGridFramework.Core@10.2.1
 - pkg:nuget/Recrovit.RecroGridFramework.Core@6.1.0
 - pkg:nuget/Recrovit.RecroGridFramework.Core@6.2.0
 - pkg:nuget/Recrovit.RecroGridFramework.Core@6.3.0
