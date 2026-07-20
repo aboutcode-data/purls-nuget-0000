@@ -4,3 +4,5 @@
 - pkg:nuget/DTOMaker.Converters.Numerics@2.0.39-dev
 - pkg:nuget/DTOMaker.Converters.Numerics@2.0.45-dev
 - pkg:nuget/DTOMaker.Converters.Numerics@2.0.46-dev
+- pkg:nuget/DTOMaker.Converters.Numerics@2.1.10
+- pkg:nuget/DTOMaker.Converters.Numerics@2.1.9
