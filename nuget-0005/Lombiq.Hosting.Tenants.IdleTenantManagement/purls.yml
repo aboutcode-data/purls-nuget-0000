@@ -1,4 +1,5 @@
 - pkg:nuget/Lombiq.Hosting.Tenants.IdleTenantManagement@1.0.0-alpha.nest-282.0
+- pkg:nuget/Lombiq.Hosting.Tenants.IdleTenantManagement@10.0.0
 - pkg:nuget/Lombiq.Hosting.Tenants.IdleTenantManagement@2.1.1-alpha.nest-302.0
 - pkg:nuget/Lombiq.Hosting.Tenants.IdleTenantManagement@2.2.0
 - pkg:nuget/Lombiq.Hosting.Tenants.IdleTenantManagement@2.2.1-alpha.osoe-46.0

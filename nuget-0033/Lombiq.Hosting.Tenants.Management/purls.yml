@@ -2,6 +2,7 @@
 - pkg:nuget/Lombiq.Hosting.Tenants.Management@1.0.0
 - pkg:nuget/Lombiq.Hosting.Tenants.Management@1.0.0-alpha.nest-282.0
 - pkg:nuget/Lombiq.Hosting.Tenants.Management@1.0.1
+- pkg:nuget/Lombiq.Hosting.Tenants.Management@10.0.0
 - pkg:nuget/Lombiq.Hosting.Tenants.Management@2.0.0
 - pkg:nuget/Lombiq.Hosting.Tenants.Management@2.0.1
 - pkg:nuget/Lombiq.Hosting.Tenants.Management@2.1.0
