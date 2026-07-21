@@ -15,6 +15,7 @@
 - pkg:nuget/KubeOps.Generator@11.5.1-prerelease.2
 - pkg:nuget/KubeOps.Generator@11.6.0-prerelease.1
 - pkg:nuget/KubeOps.Generator@12.0.1-prerelease.2
+- pkg:nuget/KubeOps.Generator@13.1.0
 - pkg:nuget/KubeOps.Generator@13.1.0-prerelease.1
 - pkg:nuget/KubeOps.Generator@8.0.0
 - pkg:nuget/KubeOps.Generator@8.0.0-pre.1
