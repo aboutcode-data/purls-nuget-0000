@@ -1914,6 +1914,7 @@
 - pkg:nuget/FunFair.CodeAnalysis@7.2.11.2214-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.12.2217-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.12.2218-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.12.2220-fix-trailing-ne
 - pkg:nuget/FunFair.CodeAnalysis@7.2.2.2048-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.2.2057-ffs0012-no-trig
 - pkg:nuget/FunFair.CodeAnalysis@7.2.2.2058-ffs0012-no-trig
