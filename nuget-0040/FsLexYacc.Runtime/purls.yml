@@ -10,6 +10,7 @@
 - pkg:nuget/FsLexYacc.Runtime@11.1.0
 - pkg:nuget/FsLexYacc.Runtime@11.2.0
 - pkg:nuget/FsLexYacc.Runtime@11.3.0
+- pkg:nuget/FsLexYacc.Runtime@11.4.0
 - pkg:nuget/FsLexYacc.Runtime@6.0.2
 - pkg:nuget/FsLexYacc.Runtime@6.0.3
 - pkg:nuget/FsLexYacc.Runtime@6.0.4
