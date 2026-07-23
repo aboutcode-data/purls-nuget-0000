@@ -147,4 +147,6 @@
 - pkg:nuget/Sia.CodeGenerators@1.9.8
 - pkg:nuget/Sia.CodeGenerators@1.9.9
 - pkg:nuget/Sia.CodeGenerators@2.0.10
+- pkg:nuget/Sia.CodeGenerators@2.0.15
+- pkg:nuget/Sia.CodeGenerators@2.0.16
 - pkg:nuget/Sia.CodeGenerators@2.0.9
