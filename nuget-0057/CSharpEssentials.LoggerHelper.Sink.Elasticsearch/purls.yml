@@ -15,3 +15,5 @@
 - pkg:nuget/CSharpEssentials.LoggerHelper.Sink.Elasticsearch@4.0.2
 - pkg:nuget/CSharpEssentials.LoggerHelper.Sink.Elasticsearch@5.0.2
 - pkg:nuget/CSharpEssentials.LoggerHelper.Sink.Elasticsearch@5.0.3
+- pkg:nuget/CSharpEssentials.LoggerHelper.Sink.Elasticsearch@5.1.0
+- pkg:nuget/CSharpEssentials.LoggerHelper.Sink.Elasticsearch@5.2.2.6
