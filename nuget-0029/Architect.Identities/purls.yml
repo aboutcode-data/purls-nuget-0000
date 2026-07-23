@@ -36,3 +36,5 @@
 - pkg:nuget/Architect.Identities@2.1.0-preview-20240120.1
 - pkg:nuget/Architect.Identities@2.1.1
 - pkg:nuget/Architect.Identities@2.1.1-preview-20250112.1
+- pkg:nuget/Architect.Identities@2.2.0
+- pkg:nuget/Architect.Identities@2.2.0-preview-20260527.1
