@@ -7,3 +7,4 @@
 - pkg:nuget/Kdbndp.EntityFrameworkCore.MySql@7.0.2.710
 - pkg:nuget/Kdbndp.EntityFrameworkCore.MySql@8.0.1
 - pkg:nuget/Kdbndp.EntityFrameworkCore.MySql@8.0.1.908
+- pkg:nuget/Kdbndp.EntityFrameworkCore.MySql@8.0.2.723
