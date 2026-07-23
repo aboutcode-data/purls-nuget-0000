@@ -1,4 +1,8 @@
 - pkg:nuget/Noxun.Auth.Service@0.0.16
 - pkg:nuget/Noxun.Auth.Service@0.0.17
 - pkg:nuget/Noxun.Auth.Service@0.0.18
+- pkg:nuget/Noxun.Auth.Service@0.0.20
+- pkg:nuget/Noxun.Auth.Service@0.0.21
+- pkg:nuget/Noxun.Auth.Service@0.0.24
+- pkg:nuget/Noxun.Auth.Service@0.0.30
 - pkg:nuget/Noxun.Auth.Service@0.0.7
