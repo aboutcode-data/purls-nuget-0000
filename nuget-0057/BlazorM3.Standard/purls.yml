@@ -7,3 +7,6 @@
 - pkg:nuget/BlazorM3.Standard@0.9.6
 - pkg:nuget/BlazorM3.Standard@0.9.6.1
 - pkg:nuget/BlazorM3.Standard@0.9.7
+- pkg:nuget/BlazorM3.Standard@1.0.0
+- pkg:nuget/BlazorM3.Standard@1.0.1
+- pkg:nuget/BlazorM3.Standard@1.0.1-rc
