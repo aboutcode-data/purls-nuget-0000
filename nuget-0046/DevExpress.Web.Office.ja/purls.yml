@@ -1,1 +1,5 @@
 - pkg:nuget/DevExpress.Web.Office.ja@25.1.9
+- pkg:nuget/DevExpress.Web.Office.ja@25.2.8
+- pkg:nuget/DevExpress.Web.Office.ja@26.1.2-beta
+- pkg:nuget/DevExpress.Web.Office.ja@26.1.4-pre-26179
+- pkg:nuget/DevExpress.Web.Office.ja@26.1.4-pre-26190
