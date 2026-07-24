@@ -5,3 +5,6 @@
 - pkg:nuget/Fossa.Bridge@0.1.23-preview.1
 - pkg:nuget/Fossa.Bridge@0.1.23-preview.2
 - pkg:nuget/Fossa.Bridge@0.1.24
+- pkg:nuget/Fossa.Bridge@0.1.29
+- pkg:nuget/Fossa.Bridge@0.1.34
+- pkg:nuget/Fossa.Bridge@0.1.38
