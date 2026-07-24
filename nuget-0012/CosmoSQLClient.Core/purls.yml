@@ -31,6 +31,7 @@
 - pkg:nuget/CosmoSQLClient.Core@5.21.0
 - pkg:nuget/CosmoSQLClient.Core@5.22.0
 - pkg:nuget/CosmoSQLClient.Core@6.1.7
+- pkg:nuget/CosmoSQLClient.Core@6.102.0
 - pkg:nuget/CosmoSQLClient.Core@6.2.2
 - pkg:nuget/CosmoSQLClient.Core@6.2.3
 - pkg:nuget/CosmoSQLClient.Core@6.2.5
