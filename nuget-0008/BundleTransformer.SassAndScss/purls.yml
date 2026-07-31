@@ -27,6 +27,7 @@
 - pkg:nuget/BundleTransformer.SassAndScss@1.14.2
 - pkg:nuget/BundleTransformer.SassAndScss@1.15.3
 - pkg:nuget/BundleTransformer.SassAndScss@1.15.5
+- pkg:nuget/BundleTransformer.SassAndScss@1.17.4
 - pkg:nuget/BundleTransformer.SassAndScss@1.2.0-beta
 - pkg:nuget/BundleTransformer.SassAndScss@1.2.1-beta
 - pkg:nuget/BundleTransformer.SassAndScss@1.3.0-beta
