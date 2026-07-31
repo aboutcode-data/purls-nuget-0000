@@ -60,6 +60,7 @@
 - pkg:nuget/CatalystFire.Ignition.AspNetCore@12.0.3454-beta
 - pkg:nuget/CatalystFire.Ignition.AspNetCore@12.0.3461-beta
 - pkg:nuget/CatalystFire.Ignition.AspNetCore@12.0.3462-beta
+- pkg:nuget/CatalystFire.Ignition.AspNetCore@12.0.40556-beta
 - pkg:nuget/CatalystFire.Ignition.AspNetCore@8.0.0
 - pkg:nuget/CatalystFire.Ignition.AspNetCore@8.0.0-alpha216
 - pkg:nuget/CatalystFire.Ignition.AspNetCore@8.0.0-alpha217
