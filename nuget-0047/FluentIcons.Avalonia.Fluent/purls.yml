@@ -100,3 +100,4 @@
 - pkg:nuget/FluentIcons.Avalonia.Fluent@2.0.324-ci
 - pkg:nuget/FluentIcons.Avalonia.Fluent@2.0.330-ci
 - pkg:nuget/FluentIcons.Avalonia.Fluent@2.1.331-ci
+- pkg:nuget/FluentIcons.Avalonia.Fluent@2.1.334
