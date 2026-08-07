@@ -904,6 +904,7 @@
 - pkg:nuget/Soenneker.GitHub.Repositories.Discussions@4.0.1403
 - pkg:nuget/Soenneker.GitHub.Repositories.Discussions@4.0.1413
 - pkg:nuget/Soenneker.GitHub.Repositories.Discussions@4.0.1422
+- pkg:nuget/Soenneker.GitHub.Repositories.Discussions@4.0.1424
 - pkg:nuget/Soenneker.GitHub.Repositories.Discussions@4.0.902
 - pkg:nuget/Soenneker.GitHub.Repositories.Discussions@4.0.903
 - pkg:nuget/Soenneker.GitHub.Repositories.Discussions@4.0.904
