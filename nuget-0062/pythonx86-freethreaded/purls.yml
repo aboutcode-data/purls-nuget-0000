@@ -10,6 +10,7 @@
 - pkg:nuget/pythonx86-freethreaded@3.13.0-rc2
 - pkg:nuget/pythonx86-freethreaded@3.13.0-rc3
 - pkg:nuget/pythonx86-freethreaded@3.13.1
+- pkg:nuget/pythonx86-freethreaded@3.13.15
 - pkg:nuget/pythonx86-freethreaded@3.13.2
 - pkg:nuget/pythonx86-freethreaded@3.13.3
 - pkg:nuget/pythonx86-freethreaded@3.13.4
