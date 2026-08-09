@@ -8,3 +8,4 @@
 - pkg:nuget/Esri.ArcGISRuntime.Toolkit.WinUI@200.6.0
 - pkg:nuget/Esri.ArcGISRuntime.Toolkit.WinUI@200.7.0
 - pkg:nuget/Esri.ArcGISRuntime.Toolkit.WinUI@200.8.0
+- pkg:nuget/Esri.ArcGISRuntime.Toolkit.WinUI@300.1.0
