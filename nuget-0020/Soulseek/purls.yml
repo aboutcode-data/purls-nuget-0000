@@ -17,6 +17,9 @@
 - pkg:nuget/Soulseek@1.0.0-rc3
 - pkg:nuget/Soulseek@1.0.0-rc3.1
 - pkg:nuget/Soulseek@1.0.1
+- pkg:nuget/Soulseek@10.0.0
+- pkg:nuget/Soulseek@10.0.1
+- pkg:nuget/Soulseek@10.0.2
 - pkg:nuget/Soulseek@2.0.0
 - pkg:nuget/Soulseek@2.0.1
 - pkg:nuget/Soulseek@2.0.2
