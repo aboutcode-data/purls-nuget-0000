@@ -1,2 +1,9 @@
+- pkg:nuget/OpusSolution.Tasken.Core@1.0.1-tenant-management
+- pkg:nuget/OpusSolution.Tasken.Core@1.0.53-sjcdevelopment
+- pkg:nuget/OpusSolution.Tasken.Core@1.1.27
+- pkg:nuget/OpusSolution.Tasken.Core@1.1.38
+- pkg:nuget/OpusSolution.Tasken.Core@1.1.39
+- pkg:nuget/OpusSolution.Tasken.Core@1.1.43
+- pkg:nuget/OpusSolution.Tasken.Core@1.1.46
 - pkg:nuget/OpusSolution.Tasken.Core@1.1.5
 - pkg:nuget/OpusSolution.Tasken.Core@1.1.7
