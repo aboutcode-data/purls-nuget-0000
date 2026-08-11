@@ -1,0 +1,8 @@
+- pkg:nuget/Shiny.DocumentDb.Aspire.Client@10.0.0-beta-0003
+- pkg:nuget/Shiny.DocumentDb.Aspire.Client@10.0.0-beta-0006
+- pkg:nuget/Shiny.DocumentDb.Aspire.Client@11.2.0-beta-0001
+- pkg:nuget/Shiny.DocumentDb.Aspire.Client@11.3.0
+- pkg:nuget/Shiny.DocumentDb.Aspire.Client@12.2.0-beta-0001
+- pkg:nuget/Shiny.DocumentDb.Aspire.Client@13.0.0
+- pkg:nuget/Shiny.DocumentDb.Aspire.Client@13.2.0
+- pkg:nuget/Shiny.DocumentDb.Aspire.Client@9.0.0-beta-0002
