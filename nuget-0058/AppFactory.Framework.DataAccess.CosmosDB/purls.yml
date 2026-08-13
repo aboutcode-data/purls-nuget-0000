@@ -1,0 +1,2 @@
+- pkg:nuget/AppFactory.Framework.DataAccess.CosmosDB@10.5.7
+- pkg:nuget/AppFactory.Framework.DataAccess.CosmosDB@10.7.0
