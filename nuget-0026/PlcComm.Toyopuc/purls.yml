@@ -1,2 +1,6 @@
 - pkg:nuget/PlcComm.Toyopuc@0.1.3
 - pkg:nuget/PlcComm.Toyopuc@0.1.8
+- pkg:nuget/PlcComm.Toyopuc@0.1.9
+- pkg:nuget/PlcComm.Toyopuc@1.0.1
+- pkg:nuget/PlcComm.Toyopuc@2.0.0
+- pkg:nuget/PlcComm.Toyopuc@4.0.0
