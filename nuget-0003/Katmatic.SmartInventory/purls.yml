@@ -11,3 +11,5 @@
 - pkg:nuget/Katmatic.SmartInventory@1.0.6-ci98
 - pkg:nuget/Katmatic.SmartInventory@1.1.1-ci109
 - pkg:nuget/Katmatic.SmartInventory@1.1.1-ci111
+- pkg:nuget/Katmatic.SmartInventory@1.1.1-ci122
+- pkg:nuget/Katmatic.SmartInventory@1.1.1-ci124
