@@ -20,6 +20,9 @@
 - pkg:nuget/AngleSharp.Js@0.15.0-alpha-4
 - pkg:nuget/AngleSharp.Js@0.15.0-alpha-8
 - pkg:nuget/AngleSharp.Js@0.15.0-beta.16
+- pkg:nuget/AngleSharp.Js@1.0.0-beta.107
+- pkg:nuget/AngleSharp.Js@1.0.0-beta.121
+- pkg:nuget/AngleSharp.Js@1.0.0-beta.141
 - pkg:nuget/AngleSharp.Js@1.0.0-beta.20
 - pkg:nuget/AngleSharp.Js@1.0.0-beta.25
 - pkg:nuget/AngleSharp.Js@1.0.0-beta.27
@@ -32,3 +35,11 @@
 - pkg:nuget/AngleSharp.Js@1.0.0-beta.41
 - pkg:nuget/AngleSharp.Js@1.0.0-beta.43
 - pkg:nuget/AngleSharp.Js@1.0.0-beta.49
+- pkg:nuget/AngleSharp.Js@1.0.0-beta.62
+- pkg:nuget/AngleSharp.Js@1.0.0-beta.63
+- pkg:nuget/AngleSharp.Js@1.0.0-beta.64
+- pkg:nuget/AngleSharp.Js@1.0.0-beta.65
+- pkg:nuget/AngleSharp.Js@1.0.0-beta.66
+- pkg:nuget/AngleSharp.Js@1.0.0-beta.67
+- pkg:nuget/AngleSharp.Js@1.0.0-beta.68
+- pkg:nuget/AngleSharp.Js@1.0.0-beta.69
