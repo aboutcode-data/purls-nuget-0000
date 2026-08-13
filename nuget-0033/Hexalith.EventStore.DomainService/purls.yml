@@ -15,3 +15,11 @@
 - pkg:nuget/Hexalith.EventStore.DomainService@3.56.0
 - pkg:nuget/Hexalith.EventStore.DomainService@3.57.0
 - pkg:nuget/Hexalith.EventStore.DomainService@3.61.1
+- pkg:nuget/Hexalith.EventStore.DomainService@3.73.0
+- pkg:nuget/Hexalith.EventStore.DomainService@3.79.0
+- pkg:nuget/Hexalith.EventStore.DomainService@3.80.0
+- pkg:nuget/Hexalith.EventStore.DomainService@3.82.0
+- pkg:nuget/Hexalith.EventStore.DomainService@3.84.0
+- pkg:nuget/Hexalith.EventStore.DomainService@3.90.0
+- pkg:nuget/Hexalith.EventStore.DomainService@3.91.1
+- pkg:nuget/Hexalith.EventStore.DomainService@3.92.0
