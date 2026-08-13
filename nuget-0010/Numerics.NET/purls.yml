@@ -5,6 +5,7 @@
 - pkg:nuget/Numerics.NET@1.0.41
 - pkg:nuget/Numerics.NET@1.0.42
 - pkg:nuget/Numerics.NET@1.0.43
+- pkg:nuget/Numerics.NET@10.7.0
 - pkg:nuget/Numerics.NET@9.0.0
 - pkg:nuget/Numerics.NET@9.0.0-beta1
 - pkg:nuget/Numerics.NET@9.0.1
