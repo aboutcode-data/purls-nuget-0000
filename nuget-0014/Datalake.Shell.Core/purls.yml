@@ -3,6 +3,7 @@
 - pkg:nuget/Datalake.Shell.Core@1.0.2
 - pkg:nuget/Datalake.Shell.Core@1.0.3
 - pkg:nuget/Datalake.Shell.Core@1.0.3.103
+- pkg:nuget/Datalake.Shell.Core@1.0.3.104
 - pkg:nuget/Datalake.Shell.Core@1.0.3.40
 - pkg:nuget/Datalake.Shell.Core@1.0.3.49
 - pkg:nuget/Datalake.Shell.Core@1.0.3.85
