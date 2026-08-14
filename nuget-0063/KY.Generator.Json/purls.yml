@@ -7,6 +7,7 @@
 - pkg:nuget/KY.Generator.Json@1.0.0
 - pkg:nuget/KY.Generator.Json@1.2.0
 - pkg:nuget/KY.Generator.Json@10.0.0-preview.15
+- pkg:nuget/KY.Generator.Json@10.1.0
 - pkg:nuget/KY.Generator.Json@2.0.0
 - pkg:nuget/KY.Generator.Json@2.2.0
 - pkg:nuget/KY.Generator.Json@2.3.0
