@@ -2,3 +2,5 @@
 - pkg:nuget/MinimalCli@2.0.0.38-alpha
 - pkg:nuget/MinimalCli@2.0.0.41
 - pkg:nuget/MinimalCli@2.0.0.42-alpha
+- pkg:nuget/MinimalCli@2.0.7.67
+- pkg:nuget/MinimalCli@2.0.7.67-alpha
