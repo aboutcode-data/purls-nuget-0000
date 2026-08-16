@@ -21,3 +21,4 @@
 - pkg:nuget/Nodinite.LogAgent.Log4NetAppender@6.1.8
 - pkg:nuget/Nodinite.LogAgent.Log4NetAppender@6.1.9
 - pkg:nuget/Nodinite.LogAgent.Log4NetAppender@7.3.0
+- pkg:nuget/Nodinite.LogAgent.Log4NetAppender@7.9.0
