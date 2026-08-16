@@ -47,3 +47,4 @@
 - pkg:nuget/Vanara.PInvoke.Version@4.1.6
 - pkg:nuget/Vanara.PInvoke.Version@4.2.0
 - pkg:nuget/Vanara.PInvoke.Version@4.2.1
+- pkg:nuget/Vanara.PInvoke.Version@5.0.7
