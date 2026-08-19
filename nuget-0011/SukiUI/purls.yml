@@ -95,4 +95,5 @@
 - pkg:nuget/SukiUI@6.0.4-nightly20260401
 - pkg:nuget/SukiUI@6.0.4-nightly20260415
 - pkg:nuget/SukiUI@6.1.1
+- pkg:nuget/SukiUI@7.0.2-nightly.20260818.5e67227
 - pkg:nuget/SukiUI@7.0.2-nightly20260520
