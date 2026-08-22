@@ -1930,6 +1930,10 @@
 - pkg:nuget/FunFair.CodeAnalysis@7.2.14.2325-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.14.2326-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.14.2333-update-funfair
+- pkg:nuget/FunFair.CodeAnalysis@7.2.15.2339-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.15.2340-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.15.2341-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.15.2342-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.2.2048-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.2.2057-ffs0012-no-trig
 - pkg:nuget/FunFair.CodeAnalysis@7.2.2.2058-ffs0012-no-trig
