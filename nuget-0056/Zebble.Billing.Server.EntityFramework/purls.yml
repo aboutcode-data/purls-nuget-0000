@@ -34,6 +34,7 @@
 - pkg:nuget/Zebble.Billing.Server.EntityFramework@1.0.40
 - pkg:nuget/Zebble.Billing.Server.EntityFramework@1.0.41
 - pkg:nuget/Zebble.Billing.Server.EntityFramework@1.0.42
+- pkg:nuget/Zebble.Billing.Server.EntityFramework@1.0.45.1
 - pkg:nuget/Zebble.Billing.Server.EntityFramework@1.0.5
 - pkg:nuget/Zebble.Billing.Server.EntityFramework@1.0.6
 - pkg:nuget/Zebble.Billing.Server.EntityFramework@1.0.7
