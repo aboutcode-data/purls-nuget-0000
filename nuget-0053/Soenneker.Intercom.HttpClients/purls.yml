@@ -14,3 +14,5 @@
 - pkg:nuget/Soenneker.Intercom.HttpClients@4.0.72
 - pkg:nuget/Soenneker.Intercom.HttpClients@4.0.75
 - pkg:nuget/Soenneker.Intercom.HttpClients@4.0.81
+- pkg:nuget/Soenneker.Intercom.HttpClients@4.0.91
+- pkg:nuget/Soenneker.Intercom.HttpClients@4.0.92
