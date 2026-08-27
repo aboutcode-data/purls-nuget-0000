@@ -60,6 +60,7 @@
 - pkg:nuget/Speckle.Objects@2.7.0
 - pkg:nuget/Speckle.Objects@2.8.0
 - pkg:nuget/Speckle.Objects@2.9.0
+- pkg:nuget/Speckle.Objects@2026.9.0-alpha.6
 - pkg:nuget/Speckle.Objects@3.0.0-dev.51
 - pkg:nuget/Speckle.Objects@3.0.0-dev.54
 - pkg:nuget/Speckle.Objects@3.0.0-dev.56
