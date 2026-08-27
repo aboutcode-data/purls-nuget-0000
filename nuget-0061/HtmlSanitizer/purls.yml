@@ -3,6 +3,7 @@
 - pkg:nuget/HtmlSanitizer@1.1.5243.28448
 - pkg:nuget/HtmlSanitizer@1.1.5297.28403
 - pkg:nuget/HtmlSanitizer@1.1.5338.17998
+- pkg:nuget/HtmlSanitizer@10.0.1037-beta
 - pkg:nuget/HtmlSanitizer@2.0.5449.20550
 - pkg:nuget/HtmlSanitizer@2.0.5548.24932
 - pkg:nuget/HtmlSanitizer@2.0.5595.22183
