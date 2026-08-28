@@ -5,6 +5,7 @@
 - pkg:nuget/PetToys.TemplatedConfigurationProvider@1.1.1
 - pkg:nuget/PetToys.TemplatedConfigurationProvider@1.1.2
 - pkg:nuget/PetToys.TemplatedConfigurationProvider@1.2.0
+- pkg:nuget/PetToys.TemplatedConfigurationProvider@10.3.0
 - pkg:nuget/PetToys.TemplatedConfigurationProvider@2.0.0
 - pkg:nuget/PetToys.TemplatedConfigurationProvider@2.0.1
 - pkg:nuget/PetToys.TemplatedConfigurationProvider@8.0.0
