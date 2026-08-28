@@ -5,3 +5,4 @@
 - pkg:nuget/Altinn.Dd.Tests.SonarGate@0.4.0
 - pkg:nuget/Altinn.Dd.Tests.SonarGate@0.8.0
 - pkg:nuget/Altinn.Dd.Tests.SonarGate@1.0.0
+- pkg:nuget/Altinn.Dd.Tests.SonarGate@2.0.1
