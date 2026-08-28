@@ -30,3 +30,5 @@
 - pkg:nuget/AlibabaCloud.SDK.Dataworks-public20240518@5.0.6
 - pkg:nuget/AlibabaCloud.SDK.Dataworks-public20240518@5.8.1
 - pkg:nuget/AlibabaCloud.SDK.Dataworks-public20240518@6.1.1
+- pkg:nuget/AlibabaCloud.SDK.Dataworks-public20240518@6.3.0
+- pkg:nuget/AlibabaCloud.SDK.Dataworks-public20240518@6.5.0
