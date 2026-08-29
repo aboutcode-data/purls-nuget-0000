@@ -1,6 +1,7 @@
 - pkg:nuget/cloudscribe.Core.SimpleContent@1.0.0
 - pkg:nuget/cloudscribe.Core.SimpleContent@1.0.0-rc20170613
 - pkg:nuget/cloudscribe.Core.SimpleContent@1.0.1
+- pkg:nuget/cloudscribe.Core.SimpleContent@10.1.0
 - pkg:nuget/cloudscribe.Core.SimpleContent@2.0.0
 - pkg:nuget/cloudscribe.Core.SimpleContent@2.0.0-preview20170725
 - pkg:nuget/cloudscribe.Core.SimpleContent@2.0.1
