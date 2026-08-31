@@ -44,6 +44,7 @@
 - pkg:nuget/nanoFramework.Iot.Device.Hcsr04.Esp32@1.1.72.29765
 - pkg:nuget/nanoFramework.Iot.Device.Hcsr04.Esp32@1.1.99.36719
 - pkg:nuget/nanoFramework.Iot.Device.Hcsr04.Esp32@1.2.10
+- pkg:nuget/nanoFramework.Iot.Device.Hcsr04.Esp32@1.2.1038
 - pkg:nuget/nanoFramework.Iot.Device.Hcsr04.Esp32@1.2.114
 - pkg:nuget/nanoFramework.Iot.Device.Hcsr04.Esp32@1.2.13
 - pkg:nuget/nanoFramework.Iot.Device.Hcsr04.Esp32@1.2.141
