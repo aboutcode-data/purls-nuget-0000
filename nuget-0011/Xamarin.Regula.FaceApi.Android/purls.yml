@@ -374,4 +374,5 @@
 - pkg:nuget/Xamarin.Regula.FaceApi.Android@8.3.940-rc
 - pkg:nuget/Xamarin.Regula.FaceApi.Android@8.4.1021-beta
 - pkg:nuget/Xamarin.Regula.FaceApi.Android@8.4.1029-nightly
+- pkg:nuget/Xamarin.Regula.FaceApi.Android@8.4.1035-nightly
 - pkg:nuget/Xamarin.Regula.FaceApi.Android@8.4.986-rc
