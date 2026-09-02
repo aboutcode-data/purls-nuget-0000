@@ -193,3 +193,4 @@
 - pkg:nuget/FonsecaFramework.Aspire@2026.8.27.1
 - pkg:nuget/FonsecaFramework.Aspire@2026.9.1.7
 - pkg:nuget/FonsecaFramework.Aspire@2026.9.1.8
+- pkg:nuget/FonsecaFramework.Aspire@2026.9.2.1
