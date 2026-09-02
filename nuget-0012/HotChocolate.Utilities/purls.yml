@@ -1645,6 +1645,7 @@
 - pkg:nuget/HotChocolate.Utilities@16.6.2-p.5
 - pkg:nuget/HotChocolate.Utilities@16.6.2-p.6
 - pkg:nuget/HotChocolate.Utilities@16.6.2-p.8
+- pkg:nuget/HotChocolate.Utilities@16.6.3
 - pkg:nuget/HotChocolate.Utilities@9.0.0
 - pkg:nuget/HotChocolate.Utilities@9.0.0-preview.1
 - pkg:nuget/HotChocolate.Utilities@9.0.0-preview.10
