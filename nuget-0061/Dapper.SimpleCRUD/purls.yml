@@ -45,3 +45,4 @@
 - pkg:nuget/Dapper.SimpleCRUD@2.2.0
 - pkg:nuget/Dapper.SimpleCRUD@2.2.0.1
 - pkg:nuget/Dapper.SimpleCRUD@2.3.0
+- pkg:nuget/Dapper.SimpleCRUD@2.4.0-beta1
