@@ -6,3 +6,6 @@
 - pkg:nuget/AutoDomain.Modules.Core.Security@4.2.14
 - pkg:nuget/AutoDomain.Modules.Core.Security@4.2.33
 - pkg:nuget/AutoDomain.Modules.Core.Security@4.2.43
+- pkg:nuget/AutoDomain.Modules.Core.Security@4.2.81
+- pkg:nuget/AutoDomain.Modules.Core.Security@4.2.82
+- pkg:nuget/AutoDomain.Modules.Core.Security@4.2.83
