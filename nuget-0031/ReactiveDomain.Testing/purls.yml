@@ -6,6 +6,7 @@
 - pkg:nuget/ReactiveDomain.Testing@0.10.5
 - pkg:nuget/ReactiveDomain.Testing@0.11.0
 - pkg:nuget/ReactiveDomain.Testing@0.13.1
+- pkg:nuget/ReactiveDomain.Testing@0.17.0-rc.1
 - pkg:nuget/ReactiveDomain.Testing@0.8.21.1
 - pkg:nuget/ReactiveDomain.Testing@0.8.21.3-beta
 - pkg:nuget/ReactiveDomain.Testing@0.8.21.4-beta
