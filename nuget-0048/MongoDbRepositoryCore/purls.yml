@@ -16,3 +16,5 @@
 - pkg:nuget/MongoDbRepositoryCore@4.5.10
 - pkg:nuget/MongoDbRepositoryCore@6.0.17
 - pkg:nuget/MongoDbRepositoryCore@6.1.0
+- pkg:nuget/MongoDbRepositoryCore@6.3.0
+- pkg:nuget/MongoDbRepositoryCore@6.4.2
