@@ -67,3 +67,4 @@
 - pkg:nuget/Three21.EventBus.RabbitMQ@3.0.116.10
 - pkg:nuget/Three21.EventBus.RabbitMQ@3.0.117.10
 - pkg:nuget/Three21.EventBus.RabbitMQ@3.0.118.10
+- pkg:nuget/Three21.EventBus.RabbitMQ@3.0.129.10
