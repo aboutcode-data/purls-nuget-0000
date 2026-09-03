@@ -1,0 +1,6 @@
+- pkg:nuget/SapphireGuard.ModelHarness.AzureOpenAI@0.1.1-alpha.0.32
+- pkg:nuget/SapphireGuard.ModelHarness.AzureOpenAI@0.1.1-alpha.0.42
+- pkg:nuget/SapphireGuard.ModelHarness.AzureOpenAI@0.1.1-alpha.0.73
+- pkg:nuget/SapphireGuard.ModelHarness.AzureOpenAI@0.1.1-alpha.0.79
+- pkg:nuget/SapphireGuard.ModelHarness.AzureOpenAI@1.0.1-alpha.0.8
+- pkg:nuget/SapphireGuard.ModelHarness.AzureOpenAI@1.1.1-alpha.0.1
