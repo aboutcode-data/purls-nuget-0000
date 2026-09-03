@@ -16,3 +16,4 @@
 - pkg:nuget/Uno.Monaco.Editor@2.0.0-dev.56
 - pkg:nuget/Uno.Monaco.Editor@2.0.0-dev.58
 - pkg:nuget/Uno.Monaco.Editor@2.0.0-dev.60
+- pkg:nuget/Uno.Monaco.Editor@6.5.0-dev.345
