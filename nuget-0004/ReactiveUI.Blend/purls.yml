@@ -116,6 +116,7 @@
 - pkg:nuget/ReactiveUI.Blend@21.0.1
 - pkg:nuget/ReactiveUI.Blend@23.2.1
 - pkg:nuget/ReactiveUI.Blend@24.0.0-beta.1
+- pkg:nuget/ReactiveUI.Blend@24.2.0
 - pkg:nuget/ReactiveUI.Blend@8.0.0
 - pkg:nuget/ReactiveUI.Blend@8.0.0-alpha0110
 - pkg:nuget/ReactiveUI.Blend@8.0.0-alpha0113
