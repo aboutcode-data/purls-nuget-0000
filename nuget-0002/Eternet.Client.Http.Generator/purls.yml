@@ -15,5 +15,6 @@
 - pkg:nuget/Eternet.Client.Http.Generator@2.1.50
 - pkg:nuget/Eternet.Client.Http.Generator@2.2.11
 - pkg:nuget/Eternet.Client.Http.Generator@2.2.12
+- pkg:nuget/Eternet.Client.Http.Generator@2.3.15
 - pkg:nuget/Eternet.Client.Http.Generator@2.3.6
 - pkg:nuget/Eternet.Client.Http.Generator@2.3.7
