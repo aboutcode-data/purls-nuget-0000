@@ -6,3 +6,5 @@
 - pkg:nuget/CDCD.Paylink.BaoFooWechatPayScore@0.12.200
 - pkg:nuget/CDCD.Paylink.BaoFooWechatPayScore@0.13.0
 - pkg:nuget/CDCD.Paylink.BaoFooWechatPayScore@0.13.1
+- pkg:nuget/CDCD.Paylink.BaoFooWechatPayScore@0.13.17
+- pkg:nuget/CDCD.Paylink.BaoFooWechatPayScore@0.13.18
