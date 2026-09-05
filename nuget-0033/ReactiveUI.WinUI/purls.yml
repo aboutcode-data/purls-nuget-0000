@@ -52,3 +52,4 @@
 - pkg:nuget/ReactiveUI.WinUI@21.0.1
 - pkg:nuget/ReactiveUI.WinUI@23.2.1
 - pkg:nuget/ReactiveUI.WinUI@24.0.0-beta.1
+- pkg:nuget/ReactiveUI.WinUI@24.2.0
