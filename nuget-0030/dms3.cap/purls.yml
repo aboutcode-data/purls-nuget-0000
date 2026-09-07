@@ -2,3 +2,6 @@
 - pkg:nuget/dms3.cap@1.6.0
 - pkg:nuget/dms3.cap@1.6.1
 - pkg:nuget/dms3.cap@2.0.0
+- pkg:nuget/dms3.cap@2.2.3
+- pkg:nuget/dms3.cap@2.2.5
+- pkg:nuget/dms3.cap@2.2.8
