@@ -1,0 +1,3 @@
+- pkg:nuget/Umbraco.Automate.Startup@17.0.0-beta
+- pkg:nuget/Umbraco.Automate.Startup@17.2.0
+- pkg:nuget/Umbraco.Automate.Startup@18.2.0
