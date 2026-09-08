@@ -188,6 +188,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Host.win-arm64@8.0.20
 - pkg:nuget/Microsoft.NETCore.App.Host.win-arm64@8.0.29
 - pkg:nuget/Microsoft.NETCore.App.Host.win-arm64@8.0.3
+- pkg:nuget/Microsoft.NETCore.App.Host.win-arm64@8.0.31
 - pkg:nuget/Microsoft.NETCore.App.Host.win-arm64@8.0.4
 - pkg:nuget/Microsoft.NETCore.App.Host.win-arm64@8.0.5
 - pkg:nuget/Microsoft.NETCore.App.Host.win-arm64@8.0.6
@@ -207,6 +208,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Host.win-arm64@9.0.13
 - pkg:nuget/Microsoft.NETCore.App.Host.win-arm64@9.0.16
 - pkg:nuget/Microsoft.NETCore.App.Host.win-arm64@9.0.2
+- pkg:nuget/Microsoft.NETCore.App.Host.win-arm64@9.0.20
 - pkg:nuget/Microsoft.NETCore.App.Host.win-arm64@9.0.3
 - pkg:nuget/Microsoft.NETCore.App.Host.win-arm64@9.0.4
 - pkg:nuget/Microsoft.NETCore.App.Host.win-arm64@9.0.5
