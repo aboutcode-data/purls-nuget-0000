@@ -34,3 +34,4 @@
 - pkg:nuget/Microsoft.SqlServer.TransactSql.ScriptDom@170.53.0
 - pkg:nuget/Microsoft.SqlServer.TransactSql.ScriptDom@170.64.0
 - pkg:nuget/Microsoft.SqlServer.TransactSql.ScriptDom@170.82.0
+- pkg:nuget/Microsoft.SqlServer.TransactSql.ScriptDom@180.107.0
