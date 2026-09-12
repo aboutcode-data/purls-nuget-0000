@@ -305,3 +305,4 @@
 - pkg:nuget/Soenneker.Utils.Strings.LevenshteinDistance@3.0.98
 - pkg:nuget/Soenneker.Utils.Strings.LevenshteinDistance@3.0.99
 - pkg:nuget/Soenneker.Utils.Strings.LevenshteinDistance@4.0.309
+- pkg:nuget/Soenneker.Utils.Strings.LevenshteinDistance@4.0.329
