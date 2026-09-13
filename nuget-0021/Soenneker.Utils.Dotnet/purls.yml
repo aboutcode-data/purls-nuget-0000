@@ -2290,3 +2290,5 @@
 - pkg:nuget/Soenneker.Utils.Dotnet@4.0.2578
 - pkg:nuget/Soenneker.Utils.Dotnet@4.0.2580
 - pkg:nuget/Soenneker.Utils.Dotnet@4.0.2582
+- pkg:nuget/Soenneker.Utils.Dotnet@4.0.2585
+- pkg:nuget/Soenneker.Utils.Dotnet@4.0.2587
