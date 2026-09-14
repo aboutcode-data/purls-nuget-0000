@@ -91,6 +91,7 @@
 - pkg:nuget/ktsu.ScopedAction@1.1.3-pre.7
 - pkg:nuget/ktsu.ScopedAction@1.1.3-pre.8
 - pkg:nuget/ktsu.ScopedAction@1.1.3-pre.9
+- pkg:nuget/ktsu.ScopedAction@1.1.38
 - pkg:nuget/ktsu.ScopedAction@1.1.4
 - pkg:nuget/ktsu.ScopedAction@1.1.5
 - pkg:nuget/ktsu.ScopedAction@1.1.6-pre.3
