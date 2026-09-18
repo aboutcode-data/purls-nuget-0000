@@ -3,3 +3,6 @@
 - pkg:nuget/WpfLab.WpfRuntime@0.0.0-test.20260819021215.sha0bfc90
 - pkg:nuget/WpfLab.WpfRuntime@0.0.0-test.20260823083341.sha82f48d
 - pkg:nuget/WpfLab.WpfRuntime@0.0.0-test.20260826022244.sha04ea4a
+- pkg:nuget/WpfLab.WpfRuntime@1.0.0
+- pkg:nuget/WpfLab.WpfRuntime@1.0.0.1-test.20260917124613.4c3866
+- pkg:nuget/WpfLab.WpfRuntime@1.0.0.1-test.20260918023452.8ec398
