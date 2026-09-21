@@ -113,6 +113,7 @@
 - pkg:nuget/DecisionsSDK@9.22.0
 - pkg:nuget/DecisionsSDK@9.3.0
 - pkg:nuget/DecisionsSDK@9.3.0-beta
+- pkg:nuget/DecisionsSDK@9.31.0
 - pkg:nuget/DecisionsSDK@9.4.0
 - pkg:nuget/DecisionsSDK@9.5.0
 - pkg:nuget/DecisionsSDK@9.6.0
