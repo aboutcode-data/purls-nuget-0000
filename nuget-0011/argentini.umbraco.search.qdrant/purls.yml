@@ -1,0 +1,4 @@
+- pkg:nuget/argentini.umbraco.search.qdrant@1.0.0
+- pkg:nuget/argentini.umbraco.search.qdrant@1.0.5
+- pkg:nuget/argentini.umbraco.search.qdrant@1.0.8
+- pkg:nuget/argentini.umbraco.search.qdrant@18.0.3
