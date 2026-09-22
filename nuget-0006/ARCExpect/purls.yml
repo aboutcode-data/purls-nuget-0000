@@ -9,3 +9,4 @@
 - pkg:nuget/ARCExpect@4.0.2
 - pkg:nuget/ARCExpect@5.0.0
 - pkg:nuget/ARCExpect@5.0.1
+- pkg:nuget/ARCExpect@7.0.0-preview.4
