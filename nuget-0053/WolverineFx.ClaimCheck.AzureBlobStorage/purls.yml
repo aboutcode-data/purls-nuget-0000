@@ -1,3 +1,14 @@
 - pkg:nuget/WolverineFx.ClaimCheck.AzureBlobStorage@5.36.2
 - pkg:nuget/WolverineFx.ClaimCheck.AzureBlobStorage@5.37.2
 - pkg:nuget/WolverineFx.ClaimCheck.AzureBlobStorage@5.39.1
+- pkg:nuget/WolverineFx.ClaimCheck.AzureBlobStorage@6.13.0
+- pkg:nuget/WolverineFx.ClaimCheck.AzureBlobStorage@6.13.1
+- pkg:nuget/WolverineFx.ClaimCheck.AzureBlobStorage@6.14.0-alpha.1
+- pkg:nuget/WolverineFx.ClaimCheck.AzureBlobStorage@6.17.1
+- pkg:nuget/WolverineFx.ClaimCheck.AzureBlobStorage@6.24.6
+- pkg:nuget/WolverineFx.ClaimCheck.AzureBlobStorage@6.25.3
+- pkg:nuget/WolverineFx.ClaimCheck.AzureBlobStorage@6.28.1
+- pkg:nuget/WolverineFx.ClaimCheck.AzureBlobStorage@6.29.0
+- pkg:nuget/WolverineFx.ClaimCheck.AzureBlobStorage@6.3.1
+- pkg:nuget/WolverineFx.ClaimCheck.AzureBlobStorage@6.30.1
+- pkg:nuget/WolverineFx.ClaimCheck.AzureBlobStorage@6.7.0
