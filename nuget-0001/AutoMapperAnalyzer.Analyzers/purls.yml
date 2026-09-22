@@ -21,6 +21,7 @@
 - pkg:nuget/AutoMapperAnalyzer.Analyzers@2.30.10
 - pkg:nuget/AutoMapperAnalyzer.Analyzers@2.30.103
 - pkg:nuget/AutoMapperAnalyzer.Analyzers@2.30.107
+- pkg:nuget/AutoMapperAnalyzer.Analyzers@2.30.110
 - pkg:nuget/AutoMapperAnalyzer.Analyzers@2.30.13
 - pkg:nuget/AutoMapperAnalyzer.Analyzers@2.30.53
 - pkg:nuget/AutoMapperAnalyzer.Analyzers@2.30.62
