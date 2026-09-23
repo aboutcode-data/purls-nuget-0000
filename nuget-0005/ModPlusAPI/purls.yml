@@ -87,6 +87,7 @@
 - pkg:nuget/ModPlusAPI@4.6.0
 - pkg:nuget/ModPlusAPI@4.7.0
 - pkg:nuget/ModPlusAPI@40.0.0
+- pkg:nuget/ModPlusAPI@42.0.0
 - pkg:nuget/ModPlusAPI@5.0.0
 - pkg:nuget/ModPlusAPI@5.1.0
 - pkg:nuget/ModPlusAPI@5.2.0
