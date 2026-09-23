@@ -43,3 +43,5 @@
 - pkg:nuget/AngleSharp.Js@1.0.0-beta.67
 - pkg:nuget/AngleSharp.Js@1.0.0-beta.68
 - pkg:nuget/AngleSharp.Js@1.0.0-beta.69
+- pkg:nuget/AngleSharp.Js@1.1.0-beta.168
+- pkg:nuget/AngleSharp.Js@1.1.1-beta.169
