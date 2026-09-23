@@ -48,4 +48,5 @@
 - pkg:nuget/Akka.Persistence.MongoDb@1.5.42
 - pkg:nuget/Akka.Persistence.MongoDb@1.5.55.1
 - pkg:nuget/Akka.Persistence.MongoDb@1.5.7
+- pkg:nuget/Akka.Persistence.MongoDb@1.5.71
 - pkg:nuget/Akka.Persistence.MongoDb@1.5.8
