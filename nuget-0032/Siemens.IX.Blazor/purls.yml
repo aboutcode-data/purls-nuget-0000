@@ -3,3 +3,4 @@
 - pkg:nuget/Siemens.IX.Blazor@0.5.2
 - pkg:nuget/Siemens.IX.Blazor@0.5.3
 - pkg:nuget/Siemens.IX.Blazor@0.5.5
+- pkg:nuget/Siemens.IX.Blazor@1.0.0
