@@ -793,3 +793,5 @@
 - pkg:nuget/Soenneker.Json.TrimConverter@4.0.815
 - pkg:nuget/Soenneker.Json.TrimConverter@4.0.822
 - pkg:nuget/Soenneker.Json.TrimConverter@4.0.824
+- pkg:nuget/Soenneker.Json.TrimConverter@4.0.839
+- pkg:nuget/Soenneker.Json.TrimConverter@4.0.840
