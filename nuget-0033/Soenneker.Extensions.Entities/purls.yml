@@ -137,3 +137,5 @@
 - pkg:nuget/Soenneker.Extensions.Entities@4.0.259
 - pkg:nuget/Soenneker.Extensions.Entities@4.0.273
 - pkg:nuget/Soenneker.Extensions.Entities@4.0.279
+- pkg:nuget/Soenneker.Extensions.Entities@4.0.288
+- pkg:nuget/Soenneker.Extensions.Entities@4.0.291
