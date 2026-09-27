@@ -1,3 +1,4 @@
+- pkg:nuget/MVFC.Aspire.Helpers.ApigeeEmulator@10.1.0
 - pkg:nuget/MVFC.Aspire.Helpers.ApigeeEmulator@7.2.0
 - pkg:nuget/MVFC.Aspire.Helpers.ApigeeEmulator@7.2.1
 - pkg:nuget/MVFC.Aspire.Helpers.ApigeeEmulator@7.2.2
@@ -6,3 +7,4 @@
 - pkg:nuget/MVFC.Aspire.Helpers.ApigeeEmulator@7.3.2
 - pkg:nuget/MVFC.Aspire.Helpers.ApigeeEmulator@7.3.3
 - pkg:nuget/MVFC.Aspire.Helpers.ApigeeEmulator@8.0.0
+- pkg:nuget/MVFC.Aspire.Helpers.ApigeeEmulator@9.0.5
