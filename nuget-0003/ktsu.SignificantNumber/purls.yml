@@ -32,4 +32,5 @@
 - pkg:nuget/ktsu.SignificantNumber@1.4.4-pre.3
 - pkg:nuget/ktsu.SignificantNumber@1.4.40
 - pkg:nuget/ktsu.SignificantNumber@1.4.6-pre.7
+- pkg:nuget/ktsu.SignificantNumber@2.0.13
 - pkg:nuget/ktsu.SignificantNumber@2.0.2
