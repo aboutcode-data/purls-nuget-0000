@@ -37,6 +37,7 @@
 - pkg:nuget/Olive.ApiClient@1.0.63
 - pkg:nuget/Olive.ApiClient@1.0.64
 - pkg:nuget/Olive.ApiClient@1.0.65
+- pkg:nuget/Olive.ApiClient@10.2.1
 - pkg:nuget/Olive.ApiClient@2.1.66
 - pkg:nuget/Olive.ApiClient@2.1.67
 - pkg:nuget/Olive.ApiClient@2.1.68

@@ -22,6 +22,7 @@
 - pkg:nuget/Olive.Entities.Data.Replication.Mvc.Extensions@1.0.7
 - pkg:nuget/Olive.Entities.Data.Replication.Mvc.Extensions@1.0.8
 - pkg:nuget/Olive.Entities.Data.Replication.Mvc.Extensions@1.0.9
+- pkg:nuget/Olive.Entities.Data.Replication.Mvc.Extensions@10.2.1
 - pkg:nuget/Olive.Entities.Data.Replication.Mvc.Extensions@2.1.180
 - pkg:nuget/Olive.Entities.Data.Replication.Mvc.Extensions@2.1.181
 - pkg:nuget/Olive.Entities.Data.Replication.Mvc.Extensions@2.1.182
