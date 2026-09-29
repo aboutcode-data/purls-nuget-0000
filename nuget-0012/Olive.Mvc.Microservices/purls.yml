@@ -1,5 +1,6 @@
 - pkg:nuget/Olive.Mvc.Microservices@10.0.1
 - pkg:nuget/Olive.Mvc.Microservices@10.0.2
+- pkg:nuget/Olive.Mvc.Microservices@10.2.2
 - pkg:nuget/Olive.Mvc.Microservices@2.1.101
 - pkg:nuget/Olive.Mvc.Microservices@2.1.102
 - pkg:nuget/Olive.Mvc.Microservices@2.1.103
