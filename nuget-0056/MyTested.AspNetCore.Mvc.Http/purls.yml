@@ -1,5 +1,6 @@
 - pkg:nuget/MyTested.AspNetCore.Mvc.Http@1.0.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.Http@1.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Http@10.0.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.Http@2.1.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.Http@2.2.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.Http@3.0.0
