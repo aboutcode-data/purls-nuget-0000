@@ -64,3 +64,4 @@
 - pkg:nuget/GroupDocs.Merger@25.6.0
 - pkg:nuget/GroupDocs.Merger@25.7.0
 - pkg:nuget/GroupDocs.Merger@25.9.0
+- pkg:nuget/GroupDocs.Merger@26.9.0
