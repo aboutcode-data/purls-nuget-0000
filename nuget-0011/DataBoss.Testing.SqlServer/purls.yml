@@ -21,6 +21,7 @@
 - pkg:nuget/DataBoss.Testing.SqlServer@0.0.113
 - pkg:nuget/DataBoss.Testing.SqlServer@0.0.114
 - pkg:nuget/DataBoss.Testing.SqlServer@0.0.115
+- pkg:nuget/DataBoss.Testing.SqlServer@0.0.121
 - pkg:nuget/DataBoss.Testing.SqlServer@0.0.80
 - pkg:nuget/DataBoss.Testing.SqlServer@0.0.81
 - pkg:nuget/DataBoss.Testing.SqlServer@0.0.82
