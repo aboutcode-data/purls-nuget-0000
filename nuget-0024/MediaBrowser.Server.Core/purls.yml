@@ -834,6 +834,7 @@
 - pkg:nuget/MediaBrowser.Server.Core@4.1.0.26
 - pkg:nuget/MediaBrowser.Server.Core@4.1.0.9-beta
 - pkg:nuget/MediaBrowser.Server.Core@4.11.0.5-beta3
+- pkg:nuget/MediaBrowser.Server.Core@4.11.0.5-beta6
 - pkg:nuget/MediaBrowser.Server.Core@4.2.0.10-beta
 - pkg:nuget/MediaBrowser.Server.Core@4.2.0.12-beta
 - pkg:nuget/MediaBrowser.Server.Core@4.2.0.16-beta
