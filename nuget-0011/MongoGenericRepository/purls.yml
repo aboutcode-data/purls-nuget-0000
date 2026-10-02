@@ -19,6 +19,7 @@
 - pkg:nuget/MongoGenericRepository@1.0.7
 - pkg:nuget/MongoGenericRepository@1.0.8
 - pkg:nuget/MongoGenericRepository@1.0.9
+- pkg:nuget/MongoGenericRepository@12.3.0
 - pkg:nuget/MongoGenericRepository@8.0.0
 - pkg:nuget/MongoGenericRepository@8.0.1
 - pkg:nuget/MongoGenericRepository@9.0.0
