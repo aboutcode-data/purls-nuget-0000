@@ -1,3 +1,5 @@
 - pkg:nuget/EraTech.NotificationManagement.EntityFrameworkCore@2.1.47
 - pkg:nuget/EraTech.NotificationManagement.EntityFrameworkCore@2.1.81
 - pkg:nuget/EraTech.NotificationManagement.EntityFrameworkCore@2.1.83
+- pkg:nuget/EraTech.NotificationManagement.EntityFrameworkCore@2.2.27
+- pkg:nuget/EraTech.NotificationManagement.EntityFrameworkCore@2.2.30
