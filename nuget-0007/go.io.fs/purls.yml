@@ -1,1 +1,3 @@
 - pkg:nuget/go.io.fs@1.23.12.1
+- pkg:nuget/go.io.fs@1.24.13.2
+- pkg:nuget/go.io.fs@1.24.13.3
