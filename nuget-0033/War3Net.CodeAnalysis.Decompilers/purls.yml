@@ -13,3 +13,4 @@
 - pkg:nuget/War3Net.CodeAnalysis.Decompilers@5.8.0
 - pkg:nuget/War3Net.CodeAnalysis.Decompilers@5.8.1
 - pkg:nuget/War3Net.CodeAnalysis.Decompilers@5.8.2
+- pkg:nuget/War3Net.CodeAnalysis.Decompilers@6.1.0
