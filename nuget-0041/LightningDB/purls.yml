@@ -11,6 +11,7 @@
 - pkg:nuget/LightningDB@0.17.1
 - pkg:nuget/LightningDB@0.18.0
 - pkg:nuget/LightningDB@0.18.1
+- pkg:nuget/LightningDB@0.23.1
 - pkg:nuget/LightningDB@0.8.0.52232
 - pkg:nuget/LightningDB@0.8.1.51635
 - pkg:nuget/LightningDB@0.8.1.52127
