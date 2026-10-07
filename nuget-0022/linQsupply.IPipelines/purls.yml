@@ -195,6 +195,7 @@
 - pkg:nuget/linQsupply.IPipelines@1.0.99
 - pkg:nuget/linQsupply.IPipelines@10.0.12
 - pkg:nuget/linQsupply.IPipelines@10.0.2
+- pkg:nuget/linQsupply.IPipelines@10.0.23
 - pkg:nuget/linQsupply.IPipelines@10.0.7
 - pkg:nuget/linQsupply.IPipelines@8.0.0
 - pkg:nuget/linQsupply.IPipelines@8.0.1
