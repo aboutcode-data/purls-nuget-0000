@@ -234,6 +234,7 @@
 - pkg:nuget/GemBox.Spreadsheet@2025.9.127
 - pkg:nuget/GemBox.Spreadsheet@2026.1.108
 - pkg:nuget/GemBox.Spreadsheet@2026.1.118
+- pkg:nuget/GemBox.Spreadsheet@2026.10.103
 - pkg:nuget/GemBox.Spreadsheet@2026.2.120
 - pkg:nuget/GemBox.Spreadsheet@2026.2.123
 - pkg:nuget/GemBox.Spreadsheet@2026.3.103

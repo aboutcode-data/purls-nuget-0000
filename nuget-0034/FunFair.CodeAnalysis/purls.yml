@@ -1940,6 +1940,7 @@
 - pkg:nuget/FunFair.CodeAnalysis@7.2.19.2453-github-actions
 - pkg:nuget/FunFair.CodeAnalysis@7.2.19.2473-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.19.2477-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.19.2479-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.2.2048-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.2.2057-ffs0012-no-trig
 - pkg:nuget/FunFair.CodeAnalysis@7.2.2.2058-ffs0012-no-trig
