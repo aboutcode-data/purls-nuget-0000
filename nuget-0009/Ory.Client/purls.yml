@@ -311,6 +311,7 @@
 - pkg:nuget/Ory.Client@1.22.49
 - pkg:nuget/Ory.Client@1.22.51
 - pkg:nuget/Ory.Client@1.22.57
+- pkg:nuget/Ory.Client@1.22.80
 - pkg:nuget/Ory.Client@1.3.0
 - pkg:nuget/Ory.Client@1.4.0
 - pkg:nuget/Ory.Client@1.4.1
