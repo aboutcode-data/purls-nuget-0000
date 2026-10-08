@@ -47,6 +47,8 @@
 - pkg:nuget/Soenneker.Extensions.ApplicationBuilder.Swagger@3.0.8
 - pkg:nuget/Soenneker.Extensions.ApplicationBuilder.Swagger@3.0.9
 - pkg:nuget/Soenneker.Extensions.ApplicationBuilder.Swagger@4.0.102
+- pkg:nuget/Soenneker.Extensions.ApplicationBuilder.Swagger@4.0.103
+- pkg:nuget/Soenneker.Extensions.ApplicationBuilder.Swagger@4.0.104
 - pkg:nuget/Soenneker.Extensions.ApplicationBuilder.Swagger@4.0.51
 - pkg:nuget/Soenneker.Extensions.ApplicationBuilder.Swagger@4.0.52
 - pkg:nuget/Soenneker.Extensions.ApplicationBuilder.Swagger@4.0.64
