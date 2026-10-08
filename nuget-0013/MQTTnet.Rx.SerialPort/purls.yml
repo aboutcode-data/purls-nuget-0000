@@ -17,3 +17,4 @@
 - pkg:nuget/MQTTnet.Rx.SerialPort@2.3.0
 - pkg:nuget/MQTTnet.Rx.SerialPort@3.0.0
 - pkg:nuget/MQTTnet.Rx.SerialPort@3.1.0
+- pkg:nuget/MQTTnet.Rx.SerialPort@5.2.0
