@@ -6,3 +6,4 @@
 - pkg:nuget/Valtuutus.Data.InMemory@0.7.2-beta
 - pkg:nuget/Valtuutus.Data.InMemory@0.7.3-beta
 - pkg:nuget/Valtuutus.Data.InMemory@0.7.3.1-beta
+- pkg:nuget/Valtuutus.Data.InMemory@1.2.0
