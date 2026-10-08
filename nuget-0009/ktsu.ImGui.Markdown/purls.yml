@@ -13,5 +13,7 @@
 - pkg:nuget/ktsu.ImGui.Markdown@3.41.1
 - pkg:nuget/ktsu.ImGui.Markdown@3.41.2
 - pkg:nuget/ktsu.ImGui.Markdown@3.45.0
+- pkg:nuget/ktsu.ImGui.Markdown@3.58.1-pre.1
+- pkg:nuget/ktsu.ImGui.Markdown@3.59.0
 - pkg:nuget/ktsu.ImGui.Markdown@3.7.0
 - pkg:nuget/ktsu.ImGui.Markdown@3.9.0
