@@ -2,6 +2,8 @@
 - pkg:nuget/Plugin.ByteArrays@1.0.11
 - pkg:nuget/Plugin.ByteArrays@1.0.12
 - pkg:nuget/Plugin.ByteArrays@1.0.29
+- pkg:nuget/Plugin.ByteArrays@1.0.33
+- pkg:nuget/Plugin.ByteArrays@1.0.36
 - pkg:nuget/Plugin.ByteArrays@1.0.5
 - pkg:nuget/Plugin.ByteArrays@1.0.6
 - pkg:nuget/Plugin.ByteArrays@1.0.7

@@ -11,3 +11,6 @@
 - pkg:nuget/Ecng.Data.ORM@1.0.54
 - pkg:nuget/Ecng.Data.ORM@1.0.62
 - pkg:nuget/Ecng.Data.ORM@1.0.79
+- pkg:nuget/Ecng.Data.ORM@1.0.96
+- pkg:nuget/Ecng.Data.ORM@1.0.97
+- pkg:nuget/Ecng.Data.ORM@1.0.98
