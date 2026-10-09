@@ -110,6 +110,7 @@
 - pkg:nuget/SD.LLBLGen.Pro.DQE.SqlServer@5.12.1-hotfix-20250422
 - pkg:nuget/SD.LLBLGen.Pro.DQE.SqlServer@5.12.1-hotfix-20250423
 - pkg:nuget/SD.LLBLGen.Pro.DQE.SqlServer@5.12.1-hotfix-20250521
+- pkg:nuget/SD.LLBLGen.Pro.DQE.SqlServer@5.13.2
 - pkg:nuget/SD.LLBLGen.Pro.DQE.SqlServer@5.2.0
 - pkg:nuget/SD.LLBLGen.Pro.DQE.SqlServer@5.2.0-Beta-20170404
 - pkg:nuget/SD.LLBLGen.Pro.DQE.SqlServer@5.2.1
