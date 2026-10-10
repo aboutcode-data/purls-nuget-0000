@@ -59,6 +59,7 @@
 - pkg:nuget/NanoByte.StructureEditor@1.0.10
 - pkg:nuget/NanoByte.StructureEditor@1.0.2
 - pkg:nuget/NanoByte.StructureEditor@2.1.0
+- pkg:nuget/NanoByte.StructureEditor@2.1.10
 - pkg:nuget/NanoByte.StructureEditor@2.1.2
 - pkg:nuget/NanoByte.StructureEditor@2.1.6
 - pkg:nuget/NanoByte.StructureEditor@2.1.8
