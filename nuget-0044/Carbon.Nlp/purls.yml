@@ -35,6 +35,7 @@
 - pkg:nuget/Carbon.Nlp@0.40.0
 - pkg:nuget/Carbon.Nlp@0.41.0
 - pkg:nuget/Carbon.Nlp@0.42.0
+- pkg:nuget/Carbon.Nlp@0.48.0
 - pkg:nuget/Carbon.Nlp@0.5.0
 - pkg:nuget/Carbon.Nlp@0.6.0
 - pkg:nuget/Carbon.Nlp@0.7.0
