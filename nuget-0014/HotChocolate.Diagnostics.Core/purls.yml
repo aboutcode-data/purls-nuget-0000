@@ -47,3 +47,5 @@
 - pkg:nuget/HotChocolate.Diagnostics.Core@16.7.0-p.12
 - pkg:nuget/HotChocolate.Diagnostics.Core@16.7.0-p.14
 - pkg:nuget/HotChocolate.Diagnostics.Core@16.7.0-p.23
+- pkg:nuget/HotChocolate.Diagnostics.Core@16.7.0-p.25
+- pkg:nuget/HotChocolate.Diagnostics.Core@16.7.0-p.26
