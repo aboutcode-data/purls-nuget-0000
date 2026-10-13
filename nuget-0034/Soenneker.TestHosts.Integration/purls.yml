@@ -22,6 +22,8 @@
 - pkg:nuget/Soenneker.TestHosts.Integration@4.0.21
 - pkg:nuget/Soenneker.TestHosts.Integration@4.0.216
 - pkg:nuget/Soenneker.TestHosts.Integration@4.0.227
+- pkg:nuget/Soenneker.TestHosts.Integration@4.0.230
+- pkg:nuget/Soenneker.TestHosts.Integration@4.0.231
 - pkg:nuget/Soenneker.TestHosts.Integration@4.0.28
 - pkg:nuget/Soenneker.TestHosts.Integration@4.0.35
 - pkg:nuget/Soenneker.TestHosts.Integration@4.0.41
