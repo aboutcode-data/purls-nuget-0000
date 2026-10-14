@@ -10,3 +10,5 @@
 - pkg:nuget/Fluxer.Net@3.4.0
 - pkg:nuget/Fluxer.Net@3.6.2
 - pkg:nuget/Fluxer.Net@3.6.5
+- pkg:nuget/Fluxer.Net@3.7.0
+- pkg:nuget/Fluxer.Net@3.7.3
