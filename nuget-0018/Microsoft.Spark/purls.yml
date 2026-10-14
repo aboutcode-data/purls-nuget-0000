@@ -21,3 +21,4 @@
 - pkg:nuget/Microsoft.Spark@2.1.1
 - pkg:nuget/Microsoft.Spark@2.3.0
 - pkg:nuget/Microsoft.Spark@2.3.0-rc1
+- pkg:nuget/Microsoft.Spark@2.4.0
