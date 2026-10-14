@@ -84,6 +84,7 @@
 - pkg:nuget/Abp.FluentMigrator@10.1.0
 - pkg:nuget/Abp.FluentMigrator@10.2.0
 - pkg:nuget/Abp.FluentMigrator@10.3.0
+- pkg:nuget/Abp.FluentMigrator@10.5.1
 - pkg:nuget/Abp.FluentMigrator@2.0.0
 - pkg:nuget/Abp.FluentMigrator@2.0.0-preview1
 - pkg:nuget/Abp.FluentMigrator@2.0.0-preview2
