@@ -27,3 +27,4 @@
 - pkg:nuget/MongoDB.Abstracts@6.4.0
 - pkg:nuget/MongoDB.Abstracts@6.5.0
 - pkg:nuget/MongoDB.Abstracts@6.6.0
+- pkg:nuget/MongoDB.Abstracts@7.2.4
