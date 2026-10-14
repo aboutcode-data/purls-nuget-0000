@@ -4,3 +4,7 @@
 - pkg:nuget/TORM.MySql@2.0.26
 - pkg:nuget/TORM.MySql@2.0.28
 - pkg:nuget/TORM.MySql@2.0.3
+- pkg:nuget/TORM.MySql@2.0.69
+- pkg:nuget/TORM.MySql@2.0.76
+- pkg:nuget/TORM.MySql@2.0.79
+- pkg:nuget/TORM.MySql@2.0.81
