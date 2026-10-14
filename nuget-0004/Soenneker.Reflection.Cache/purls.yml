@@ -565,3 +565,5 @@
 - pkg:nuget/Soenneker.Reflection.Cache@4.0.700
 - pkg:nuget/Soenneker.Reflection.Cache@4.0.711
 - pkg:nuget/Soenneker.Reflection.Cache@4.0.714
+- pkg:nuget/Soenneker.Reflection.Cache@4.0.728
+- pkg:nuget/Soenneker.Reflection.Cache@4.0.729
