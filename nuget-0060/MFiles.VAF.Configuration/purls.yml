@@ -379,6 +379,7 @@
 - pkg:nuget/MFiles.VAF.Configuration@25.8.7
 - pkg:nuget/MFiles.VAF.Configuration@25.8.8
 - pkg:nuget/MFiles.VAF.Configuration@25.8.9
+- pkg:nuget/MFiles.VAF.Configuration@26.10.3
 - pkg:nuget/MFiles.VAF.Configuration@26.2.6
 - pkg:nuget/MFiles.VAF.Configuration@26.2.9
 - pkg:nuget/MFiles.VAF.Configuration@26.3.13
