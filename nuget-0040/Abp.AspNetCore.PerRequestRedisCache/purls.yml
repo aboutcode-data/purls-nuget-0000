@@ -3,6 +3,7 @@
 - pkg:nuget/Abp.AspNetCore.PerRequestRedisCache@10.1.0
 - pkg:nuget/Abp.AspNetCore.PerRequestRedisCache@10.2.0
 - pkg:nuget/Abp.AspNetCore.PerRequestRedisCache@10.3.0
+- pkg:nuget/Abp.AspNetCore.PerRequestRedisCache@10.5.1
 - pkg:nuget/Abp.AspNetCore.PerRequestRedisCache@6.4.0
 - pkg:nuget/Abp.AspNetCore.PerRequestRedisCache@6.4.0-rc1
 - pkg:nuget/Abp.AspNetCore.PerRequestRedisCache@6.5.0
