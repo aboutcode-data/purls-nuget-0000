@@ -50,6 +50,7 @@
 - pkg:nuget/NewLife.Agent@10.14.2025.1113-beta0106
 - pkg:nuget/NewLife.Agent@10.15.2026.402
 - pkg:nuget/NewLife.Agent@10.15.2026.402-beta0903
+- pkg:nuget/NewLife.Agent@10.17.2026.1013-beta0223
 - pkg:nuget/NewLife.Agent@10.2.2023.101-beta1647
 - pkg:nuget/NewLife.Agent@10.2.2023.203
 - pkg:nuget/NewLife.Agent@10.2.2023.203-beta1429
