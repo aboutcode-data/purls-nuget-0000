@@ -300,4 +300,5 @@
 - pkg:nuget/Eyes.Selenium@3.89.38
 - pkg:nuget/Eyes.Selenium@3.89.47
 - pkg:nuget/Eyes.Selenium@3.89.49
+- pkg:nuget/Eyes.Selenium@3.89.54
 - pkg:nuget/Eyes.Selenium@3.9.0
