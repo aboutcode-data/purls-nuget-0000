@@ -51,6 +51,7 @@
 - pkg:nuget/ReHackt.AspNetCore@1.7.7
 - pkg:nuget/ReHackt.AspNetCore@1.7.8
 - pkg:nuget/ReHackt.AspNetCore@1.7.9
+- pkg:nuget/ReHackt.AspNetCore@10.0.6
 - pkg:nuget/ReHackt.AspNetCore@7.0.0
 - pkg:nuget/ReHackt.AspNetCore@7.0.1
 - pkg:nuget/ReHackt.AspNetCore@7.0.2
