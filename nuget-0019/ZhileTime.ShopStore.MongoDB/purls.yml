@@ -1,3 +1,5 @@
+- pkg:nuget/ZhileTime.ShopStore.MongoDB@10.0.0
+- pkg:nuget/ZhileTime.ShopStore.MongoDB@11.4.0
 - pkg:nuget/ZhileTime.ShopStore.MongoDB@3.5.0
 - pkg:nuget/ZhileTime.ShopStore.MongoDB@3.6.0
 - pkg:nuget/ZhileTime.ShopStore.MongoDB@3.6.1
