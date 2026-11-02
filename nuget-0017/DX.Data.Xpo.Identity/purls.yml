@@ -42,3 +42,4 @@
 - pkg:nuget/DX.Data.Xpo.Identity@24.1.6.33
 - pkg:nuget/DX.Data.Xpo.Identity@24.1.6.34
 - pkg:nuget/DX.Data.Xpo.Identity@24.2.3.34
+- pkg:nuget/DX.Data.Xpo.Identity@26.1.3.38
