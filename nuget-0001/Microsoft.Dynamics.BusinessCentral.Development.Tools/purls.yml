@@ -16,3 +16,5 @@
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools@17.0.29.44223-beta
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools@17.0.34.45391
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools@18.0.36.33307-beta
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools@18.0.43.1464
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Development.Tools@18.1.43.24897
