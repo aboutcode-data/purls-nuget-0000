@@ -169,6 +169,9 @@
 - pkg:nuget/EmailHippo.Assess.Api.Client@1.1.471
 - pkg:nuget/EmailHippo.Assess.Api.Client@1.1.476
 - pkg:nuget/EmailHippo.Assess.Api.Client@1.1.48
+- pkg:nuget/EmailHippo.Assess.Api.Client@1.1.483
+- pkg:nuget/EmailHippo.Assess.Api.Client@1.1.484
+- pkg:nuget/EmailHippo.Assess.Api.Client@1.1.488
 - pkg:nuget/EmailHippo.Assess.Api.Client@1.1.5
 - pkg:nuget/EmailHippo.Assess.Api.Client@1.1.50
 - pkg:nuget/EmailHippo.Assess.Api.Client@1.1.52
