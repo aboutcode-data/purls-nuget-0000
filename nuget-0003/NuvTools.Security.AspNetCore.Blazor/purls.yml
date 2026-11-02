@@ -1,6 +1,7 @@
 - pkg:nuget/NuvTools.Security.AspNetCore.Blazor@10.1.0
 - pkg:nuget/NuvTools.Security.AspNetCore.Blazor@10.1.1
 - pkg:nuget/NuvTools.Security.AspNetCore.Blazor@10.1.5
+- pkg:nuget/NuvTools.Security.AspNetCore.Blazor@10.3.5
 - pkg:nuget/NuvTools.Security.AspNetCore.Blazor@9.1.0
 - pkg:nuget/NuvTools.Security.AspNetCore.Blazor@9.1.1
 - pkg:nuget/NuvTools.Security.AspNetCore.Blazor@9.1.2
