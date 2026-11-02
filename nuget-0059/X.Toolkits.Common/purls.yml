@@ -1,2 +1,4 @@
 - pkg:nuget/X.Toolkits.Common@1.0.0
 - pkg:nuget/X.Toolkits.Common@1.0.1
+- pkg:nuget/X.Toolkits.Common@1.0.7
+- pkg:nuget/X.Toolkits.Common@1.2.1
