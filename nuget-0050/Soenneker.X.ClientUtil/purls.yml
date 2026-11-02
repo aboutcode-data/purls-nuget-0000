@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.X.ClientUtil@11.0.529
+- pkg:nuget/Soenneker.X.ClientUtil@11.0.533
+- pkg:nuget/Soenneker.X.ClientUtil@11.0.535
+- pkg:nuget/Soenneker.X.ClientUtil@11.0.545
 - pkg:nuget/Soenneker.X.ClientUtil@3.0.1
 - pkg:nuget/Soenneker.X.ClientUtil@3.0.10
 - pkg:nuget/Soenneker.X.ClientUtil@3.0.11
@@ -105,4 +109,8 @@
 - pkg:nuget/Soenneker.X.ClientUtil@4.0.459
 - pkg:nuget/Soenneker.X.ClientUtil@4.0.463
 - pkg:nuget/Soenneker.X.ClientUtil@4.0.482
+- pkg:nuget/Soenneker.X.ClientUtil@4.0.498
+- pkg:nuget/Soenneker.X.ClientUtil@4.0.504
+- pkg:nuget/Soenneker.X.ClientUtil@4.0.523
+- pkg:nuget/Soenneker.X.ClientUtil@4.0.524
 - pkg:nuget/Soenneker.X.ClientUtil@4.0.97
