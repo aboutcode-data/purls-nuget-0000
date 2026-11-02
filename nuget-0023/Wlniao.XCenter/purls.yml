@@ -87,3 +87,5 @@
 - pkg:nuget/Wlniao.XCenter@8.0.94
 - pkg:nuget/Wlniao.XCenter@8.0.96
 - pkg:nuget/Wlniao.XCenter@8.0.97
+- pkg:nuget/Wlniao.XCenter@8.1.0-beta
+- pkg:nuget/Wlniao.XCenter@8.1.1-beta
