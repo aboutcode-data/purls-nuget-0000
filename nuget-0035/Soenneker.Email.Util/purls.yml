@@ -1,4 +1,6 @@
 - pkg:nuget/Soenneker.Email.Util@11.0.734
+- pkg:nuget/Soenneker.Email.Util@11.0.741
+- pkg:nuget/Soenneker.Email.Util@11.0.742
 - pkg:nuget/Soenneker.Email.Util@3.0.1
 - pkg:nuget/Soenneker.Email.Util@3.0.10
 - pkg:nuget/Soenneker.Email.Util@3.0.100
