@@ -22,3 +22,5 @@
 - pkg:nuget/UnderAutomation.Fanuc@4.1.0
 - pkg:nuget/UnderAutomation.Fanuc@4.3.0
 - pkg:nuget/UnderAutomation.Fanuc@4.4.0
+- pkg:nuget/UnderAutomation.Fanuc@7.0.1
+- pkg:nuget/UnderAutomation.Fanuc@7.1.0
