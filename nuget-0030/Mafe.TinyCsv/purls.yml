@@ -34,3 +34,4 @@
 - pkg:nuget/Mafe.TinyCsv@2.2.2
 - pkg:nuget/Mafe.TinyCsv@3.2.0
 - pkg:nuget/Mafe.TinyCsv@3.3.0-rc1
+- pkg:nuget/Mafe.TinyCsv@3.4.0
