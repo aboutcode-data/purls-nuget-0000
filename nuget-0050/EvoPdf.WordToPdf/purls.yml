@@ -1,6 +1,7 @@
 - pkg:nuget/EvoPdf.WordToPdf@10.0.0
 - pkg:nuget/EvoPdf.WordToPdf@11.0.0
 - pkg:nuget/EvoPdf.WordToPdf@12.0.0
+- pkg:nuget/EvoPdf.WordToPdf@14.0.8
 - pkg:nuget/EvoPdf.WordToPdf@7.0.0
 - pkg:nuget/EvoPdf.WordToPdf@7.1.0
 - pkg:nuget/EvoPdf.WordToPdf@8.0.0
