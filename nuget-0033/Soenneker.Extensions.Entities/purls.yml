@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Extensions.Entities@11.0.312
+- pkg:nuget/Soenneker.Extensions.Entities@11.0.318
 - pkg:nuget/Soenneker.Extensions.Entities@3.0.1
 - pkg:nuget/Soenneker.Extensions.Entities@3.0.10
 - pkg:nuget/Soenneker.Extensions.Entities@3.0.100
@@ -139,3 +141,6 @@
 - pkg:nuget/Soenneker.Extensions.Entities@4.0.279
 - pkg:nuget/Soenneker.Extensions.Entities@4.0.288
 - pkg:nuget/Soenneker.Extensions.Entities@4.0.291
+- pkg:nuget/Soenneker.Extensions.Entities@4.0.299
+- pkg:nuget/Soenneker.Extensions.Entities@4.0.308
+- pkg:nuget/Soenneker.Extensions.Entities@4.0.310
