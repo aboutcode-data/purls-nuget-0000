@@ -35,3 +35,4 @@
 - pkg:nuget/Vapolia.UserInteraction@5.0.2
 - pkg:nuget/Vapolia.UserInteraction@5.1.0-ci17232684902
 - pkg:nuget/Vapolia.UserInteraction@5.1.0-ci17233381403
+- pkg:nuget/Vapolia.UserInteraction@6.0.1-ci37801445467
