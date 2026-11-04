@@ -518,6 +518,8 @@
 - pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.84.1357-main
 - pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.84.1364
 - pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.85.1363-main
+- pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.85.1368-dotnet-sdk-11-0
+- pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.85.1369-update-credfeto
 - pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.9.85-main
 - pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.9.86-main
 - pkg:nuget/Credfeto.Docker.HealthCheck.Http.Client@0.0.9.87-main
