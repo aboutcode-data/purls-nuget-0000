@@ -68,6 +68,7 @@
 - pkg:nuget/AppDynamics.Agent.Distrib.Micro.Windows@25.4.0
 - pkg:nuget/AppDynamics.Agent.Distrib.Micro.Windows@25.6.0
 - pkg:nuget/AppDynamics.Agent.Distrib.Micro.Windows@25.8.1
+- pkg:nuget/AppDynamics.Agent.Distrib.Micro.Windows@26.9.0
 - pkg:nuget/AppDynamics.Agent.Distrib.Micro.Windows@4.4.3
 - pkg:nuget/AppDynamics.Agent.Distrib.Micro.Windows@4.4.4
 - pkg:nuget/AppDynamics.Agent.Distrib.Micro.Windows@4.5.0
