@@ -129,3 +129,5 @@
 - pkg:nuget/Soenneker.Utils.Random@4.0.124
 - pkg:nuget/Soenneker.Utils.Random@4.0.126
 - pkg:nuget/Soenneker.Utils.Random@4.0.131
+- pkg:nuget/Soenneker.Utils.Random@4.0.138
+- pkg:nuget/Soenneker.Utils.Random@4.0.144
