@@ -16,3 +16,6 @@
 - pkg:nuget/nanoFramework.Hosting@2.0.7
 - pkg:nuget/nanoFramework.Hosting@3.0.0-preview.14
 - pkg:nuget/nanoFramework.Hosting@3.0.0-preview.16
+- pkg:nuget/nanoFramework.Hosting@3.0.0-preview.20
+- pkg:nuget/nanoFramework.Hosting@3.0.0-preview.21
+- pkg:nuget/nanoFramework.Hosting@3.0.0-preview.24
