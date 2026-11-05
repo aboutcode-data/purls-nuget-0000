@@ -34,3 +34,4 @@
 - pkg:nuget/EficazFramework.Blazor@6.4.7
 - pkg:nuget/EficazFramework.Blazor@6.4.8
 - pkg:nuget/EficazFramework.Blazor@6.4.9
+- pkg:nuget/EficazFramework.Blazor@6.5.9
