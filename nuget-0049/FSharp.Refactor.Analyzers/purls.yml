@@ -6,4 +6,5 @@
 - pkg:nuget/FSharp.Refactor.Analyzers@0.8.36
 - pkg:nuget/FSharp.Refactor.Analyzers@0.8.39
 - pkg:nuget/FSharp.Refactor.Analyzers@0.8.42
+- pkg:nuget/FSharp.Refactor.Analyzers@0.8.48
 - pkg:nuget/FSharp.Refactor.Analyzers@0.8.6
