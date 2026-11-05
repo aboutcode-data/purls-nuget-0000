@@ -80,5 +80,6 @@
 - pkg:nuget/Microsoft.Identity.Web.Diagnostics@4.12.0
 - pkg:nuget/Microsoft.Identity.Web.Diagnostics@4.14.2
 - pkg:nuget/Microsoft.Identity.Web.Diagnostics@4.16.1
+- pkg:nuget/Microsoft.Identity.Web.Diagnostics@4.17.0
 - pkg:nuget/Microsoft.Identity.Web.Diagnostics@4.6.0
 - pkg:nuget/Microsoft.Identity.Web.Diagnostics@4.7.0
