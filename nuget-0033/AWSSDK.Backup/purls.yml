@@ -1159,6 +1159,7 @@
 - pkg:nuget/AWSSDK.Backup@4.0.101
 - pkg:nuget/AWSSDK.Backup@4.0.101.1
 - pkg:nuget/AWSSDK.Backup@4.0.101.13
+- pkg:nuget/AWSSDK.Backup@4.0.101.18
 - pkg:nuget/AWSSDK.Backup@4.0.12
 - pkg:nuget/AWSSDK.Backup@4.0.13.1
 - pkg:nuget/AWSSDK.Backup@4.0.13.5
