@@ -512,6 +512,8 @@
 - pkg:nuget/Credfeto.Extensions.Linq@1.0.165.2144-main
 - pkg:nuget/Credfeto.Extensions.Linq@1.0.165.2145-main
 - pkg:nuget/Credfeto.Extensions.Linq@1.0.166.2163-dotnet-sdk-11-0
+- pkg:nuget/Credfeto.Extensions.Linq@1.0.166.2176-net11-runtime-a
+- pkg:nuget/Credfeto.Extensions.Linq@1.0.166.2177-net11-runtime-a
 - pkg:nuget/Credfeto.Extensions.Linq@1.0.17.123-main
 - pkg:nuget/Credfeto.Extensions.Linq@1.0.17.124-main
 - pkg:nuget/Credfeto.Extensions.Linq@1.0.17.125-main
