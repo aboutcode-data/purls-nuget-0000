@@ -31,6 +31,7 @@
 - pkg:nuget/FlowtideDotNet.Storage.SqlServer@0.15.1-alpha2
 - pkg:nuget/FlowtideDotNet.Storage.SqlServer@0.16.0-alpha12
 - pkg:nuget/FlowtideDotNet.Storage.SqlServer@0.16.0-alpha15
+- pkg:nuget/FlowtideDotNet.Storage.SqlServer@0.16.0-alpha20
 - pkg:nuget/FlowtideDotNet.Storage.SqlServer@0.16.0-alpha7
 - pkg:nuget/FlowtideDotNet.Storage.SqlServer@0.16.0-alpha8
 - pkg:nuget/FlowtideDotNet.Storage.SqlServer@0.16.0-alpha9
