@@ -3,3 +3,4 @@
 - pkg:nuget/PocketCsvReader.KeyValue@2.53.0
 - pkg:nuget/PocketCsvReader.KeyValue@2.63.0
 - pkg:nuget/PocketCsvReader.KeyValue@2.65.0
+- pkg:nuget/PocketCsvReader.KeyValue@2.66.0
