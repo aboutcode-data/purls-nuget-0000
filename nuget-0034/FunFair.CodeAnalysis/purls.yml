@@ -1966,6 +1966,8 @@
 - pkg:nuget/FunFair.CodeAnalysis@7.2.22.2607-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.22.2608-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.22.2611-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.26.2653-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.26.2655-strict-paramete
 - pkg:nuget/FunFair.CodeAnalysis@7.2.3.2067-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.3.2068-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.3.2074-main
