@@ -3,3 +3,4 @@
 - pkg:nuget/PocketCsvReader.Arrow@2.63.0
 - pkg:nuget/PocketCsvReader.Arrow@2.65.0
 - pkg:nuget/PocketCsvReader.Arrow@2.66.0
+- pkg:nuget/PocketCsvReader.Arrow@2.69.0
