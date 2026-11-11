@@ -26,5 +26,6 @@
 - pkg:nuget/VSLangProj@17.7.37355
 - pkg:nuget/VSLangProj@17.8.37221
 - pkg:nuget/VSLangProj@17.9.37000
+- pkg:nuget/VSLangProj@18.12.1603
 - pkg:nuget/VSLangProj@7.0.3300
 - pkg:nuget/VSLangProj@7.0.3301
