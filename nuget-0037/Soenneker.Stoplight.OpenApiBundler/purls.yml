@@ -1,6 +1,7 @@
 - pkg:nuget/Soenneker.Stoplight.OpenApiBundler@11.0.163
 - pkg:nuget/Soenneker.Stoplight.OpenApiBundler@11.0.169
 - pkg:nuget/Soenneker.Stoplight.OpenApiBundler@11.0.178
+- pkg:nuget/Soenneker.Stoplight.OpenApiBundler@11.0.182
 - pkg:nuget/Soenneker.Stoplight.OpenApiBundler@4.0.101
 - pkg:nuget/Soenneker.Stoplight.OpenApiBundler@4.0.104
 - pkg:nuget/Soenneker.Stoplight.OpenApiBundler@4.0.117
