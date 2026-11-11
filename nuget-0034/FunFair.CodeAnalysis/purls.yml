@@ -1971,6 +1971,11 @@
 - pkg:nuget/FunFair.CodeAnalysis@7.2.26.2662-file-scoped-nam
 - pkg:nuget/FunFair.CodeAnalysis@7.2.26.2663-file-scoped-nam
 - pkg:nuget/FunFair.CodeAnalysis@7.2.26.2664-file-scoped-nam
+- pkg:nuget/FunFair.CodeAnalysis@7.2.26.2667-ffs0023-ffs0024
+- pkg:nuget/FunFair.CodeAnalysis@7.2.26.2668-ffs0023-ffs0024
+- pkg:nuget/FunFair.CodeAnalysis@7.2.26.2669-ffs0023-ffs0024
+- pkg:nuget/FunFair.CodeAnalysis@7.2.26.2670-pull-528-merge
+- pkg:nuget/FunFair.CodeAnalysis@7.2.26.2671-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.3.2067-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.3.2068-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.3.2074-main
