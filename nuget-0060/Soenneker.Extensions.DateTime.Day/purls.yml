@@ -4,6 +4,9 @@
 - pkg:nuget/Soenneker.Extensions.DateTime.Day@11.0.2061
 - pkg:nuget/Soenneker.Extensions.DateTime.Day@11.0.2066
 - pkg:nuget/Soenneker.Extensions.DateTime.Day@11.0.2069
+- pkg:nuget/Soenneker.Extensions.DateTime.Day@11.0.2071
+- pkg:nuget/Soenneker.Extensions.DateTime.Day@11.0.2072
+- pkg:nuget/Soenneker.Extensions.DateTime.Day@11.0.2073
 - pkg:nuget/Soenneker.Extensions.DateTime.Day@2.1.1
 - pkg:nuget/Soenneker.Extensions.DateTime.Day@2.1.10
 - pkg:nuget/Soenneker.Extensions.DateTime.Day@2.1.100
