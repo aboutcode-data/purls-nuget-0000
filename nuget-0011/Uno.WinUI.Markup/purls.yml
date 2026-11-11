@@ -132,4 +132,5 @@
 - pkg:nuget/Uno.WinUI.Markup@6.6.27
 - pkg:nuget/Uno.WinUI.Markup@6.6.29
 - pkg:nuget/Uno.WinUI.Markup@6.6.31
+- pkg:nuget/Uno.WinUI.Markup@6.7.27
 - pkg:nuget/Uno.WinUI.Markup@7.0.0-dev.42
