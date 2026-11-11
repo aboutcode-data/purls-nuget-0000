@@ -31,3 +31,4 @@
 - pkg:nuget/Bonsai.Shaders@0.9.1
 - pkg:nuget/Bonsai.Shaders@2.9.0
 - pkg:nuget/Bonsai.Shaders@2.9.0-preview1
+- pkg:nuget/Bonsai.Shaders@2.9.2-rc.1
