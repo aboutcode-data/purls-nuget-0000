@@ -119,3 +119,4 @@
 - pkg:nuget/Cake.Core@4.2.0
 - pkg:nuget/Cake.Core@5.0.0
 - pkg:nuget/Cake.Core@6.0.0
+- pkg:nuget/Cake.Core@7.0.0
