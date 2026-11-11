@@ -2,6 +2,8 @@
 - pkg:nuget/Soenneker.GitHub.Repositories.Tags@11.0.1058
 - pkg:nuget/Soenneker.GitHub.Repositories.Tags@11.0.1066
 - pkg:nuget/Soenneker.GitHub.Repositories.Tags@11.0.1076
+- pkg:nuget/Soenneker.GitHub.Repositories.Tags@11.0.1086
+- pkg:nuget/Soenneker.GitHub.Repositories.Tags@11.0.1087
 - pkg:nuget/Soenneker.GitHub.Repositories.Tags@3.0.1
 - pkg:nuget/Soenneker.GitHub.Repositories.Tags@3.0.10
 - pkg:nuget/Soenneker.GitHub.Repositories.Tags@3.0.100
