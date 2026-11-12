@@ -35,3 +35,8 @@
 - pkg:nuget/Obvs.Serialization.ProtoBuf@5.0.1.32
 - pkg:nuget/Obvs.Serialization.ProtoBuf@5.0.2.33
 - pkg:nuget/Obvs.Serialization.ProtoBuf@5.0.2.34
+- pkg:nuget/Obvs.Serialization.ProtoBuf@6.0.22
+- pkg:nuget/Obvs.Serialization.ProtoBuf@6.0.23
+- pkg:nuget/Obvs.Serialization.ProtoBuf@6.0.24
+- pkg:nuget/Obvs.Serialization.ProtoBuf@6.0.25
+- pkg:nuget/Obvs.Serialization.ProtoBuf@6.0.29
