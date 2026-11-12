@@ -55,6 +55,7 @@
 - pkg:nuget/Soenneker.Blazor.LogJson@11.0.1934
 - pkg:nuget/Soenneker.Blazor.LogJson@11.0.1949
 - pkg:nuget/Soenneker.Blazor.LogJson@11.0.1950
+- pkg:nuget/Soenneker.Blazor.LogJson@11.0.1961
 - pkg:nuget/Soenneker.Blazor.LogJson@2.0.1
 - pkg:nuget/Soenneker.Blazor.LogJson@2.0.2
 - pkg:nuget/Soenneker.Blazor.LogJson@2.0.57

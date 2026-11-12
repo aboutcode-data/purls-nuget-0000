@@ -1,3 +1,6 @@
+- pkg:nuget/Soenneker.Mistral.OpenApiClient@11.0.63
+- pkg:nuget/Soenneker.Mistral.OpenApiClient@11.0.78
+- pkg:nuget/Soenneker.Mistral.OpenApiClient@11.0.79
 - pkg:nuget/Soenneker.Mistral.OpenApiClient@4.0.36
 - pkg:nuget/Soenneker.Mistral.OpenApiClient@4.0.37
 - pkg:nuget/Soenneker.Mistral.OpenApiClient@4.0.41
