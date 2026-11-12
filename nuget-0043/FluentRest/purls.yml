@@ -11,6 +11,7 @@
 - pkg:nuget/FluentRest@1.5.0.21
 - pkg:nuget/FluentRest@10.0.0
 - pkg:nuget/FluentRest@10.1.0
+- pkg:nuget/FluentRest@12.0.1
 - pkg:nuget/FluentRest@2.0.0.26
 - pkg:nuget/FluentRest@2.0.0.29
 - pkg:nuget/FluentRest@2.0.0.31
