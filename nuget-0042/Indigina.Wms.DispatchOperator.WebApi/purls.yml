@@ -1,3 +1,6 @@
+- pkg:nuget/Indigina.Wms.DispatchOperator.WebApi@1.1.100
+- pkg:nuget/Indigina.Wms.DispatchOperator.WebApi@1.1.104
+- pkg:nuget/Indigina.Wms.DispatchOperator.WebApi@1.1.108
 - pkg:nuget/Indigina.Wms.DispatchOperator.WebApi@1.1.11
 - pkg:nuget/Indigina.Wms.DispatchOperator.WebApi@1.1.12
 - pkg:nuget/Indigina.Wms.DispatchOperator.WebApi@1.1.13
@@ -44,3 +47,4 @@
 - pkg:nuget/Indigina.Wms.DispatchOperator.WebApi@1.1.92
 - pkg:nuget/Indigina.Wms.DispatchOperator.WebApi@1.1.96
 - pkg:nuget/Indigina.Wms.DispatchOperator.WebApi@1.1.97
+- pkg:nuget/Indigina.Wms.DispatchOperator.WebApi@1.1.99
