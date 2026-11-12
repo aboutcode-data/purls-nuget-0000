@@ -17,3 +17,5 @@
 - pkg:nuget/OSDC.DotnetLibraries.General.Math@1.0.9.6
 - pkg:nuget/OSDC.DotnetLibraries.General.Math@1.1.0
 - pkg:nuget/OSDC.DotnetLibraries.General.Math@1.2.0
+- pkg:nuget/OSDC.DotnetLibraries.General.Math@1.4.0
+- pkg:nuget/OSDC.DotnetLibraries.General.Math@1.4.1
