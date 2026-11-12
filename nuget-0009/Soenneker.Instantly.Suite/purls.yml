@@ -19,6 +19,9 @@
 - pkg:nuget/Soenneker.Instantly.Suite@11.0.4307
 - pkg:nuget/Soenneker.Instantly.Suite@11.0.4308
 - pkg:nuget/Soenneker.Instantly.Suite@11.0.4311
+- pkg:nuget/Soenneker.Instantly.Suite@11.0.4322
+- pkg:nuget/Soenneker.Instantly.Suite@11.0.4328
+- pkg:nuget/Soenneker.Instantly.Suite@11.0.4331
 - pkg:nuget/Soenneker.Instantly.Suite@3.0.1
 - pkg:nuget/Soenneker.Instantly.Suite@3.0.10
 - pkg:nuget/Soenneker.Instantly.Suite@3.0.100
