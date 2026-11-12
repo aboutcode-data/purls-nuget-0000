@@ -1,3 +1,4 @@
+- pkg:nuget/PexCard.Api.AspNetCore@1.116.0
 - pkg:nuget/PexCard.Api.AspNetCore@1.84.1
 - pkg:nuget/PexCard.Api.AspNetCore@1.85.0
 - pkg:nuget/PexCard.Api.AspNetCore@1.86.0
