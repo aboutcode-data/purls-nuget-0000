@@ -10,3 +10,8 @@
 - pkg:nuget/CSharpEssentials.Maybe@2.0.9
 - pkg:nuget/CSharpEssentials.Maybe@3.0.7
 - pkg:nuget/CSharpEssentials.Maybe@3.1.0
+- pkg:nuget/CSharpEssentials.Maybe@4.1.0
+- pkg:nuget/CSharpEssentials.Maybe@5.2.1
+- pkg:nuget/CSharpEssentials.Maybe@6.0.0
+- pkg:nuget/CSharpEssentials.Maybe@6.3.0
+- pkg:nuget/CSharpEssentials.Maybe@7.0.0
