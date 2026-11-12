@@ -1978,6 +1978,7 @@
 - pkg:nuget/FunFair.CodeAnalysis@7.2.26.2671-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.26.2683-ban-getuninitia
 - pkg:nuget/FunFair.CodeAnalysis@7.2.26.2684-pull-531-merge
+- pkg:nuget/FunFair.CodeAnalysis@7.2.26.2686-redundant-null
 - pkg:nuget/FunFair.CodeAnalysis@7.2.3.2067-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.3.2068-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.3.2074-main
