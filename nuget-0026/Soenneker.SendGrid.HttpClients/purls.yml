@@ -1,3 +1,9 @@
+- pkg:nuget/Soenneker.SendGrid.HttpClients@11.0.157
+- pkg:nuget/Soenneker.SendGrid.HttpClients@11.0.158
+- pkg:nuget/Soenneker.SendGrid.HttpClients@11.0.161
+- pkg:nuget/Soenneker.SendGrid.HttpClients@11.0.164
+- pkg:nuget/Soenneker.SendGrid.HttpClients@11.0.166
+- pkg:nuget/Soenneker.SendGrid.HttpClients@11.0.169
 - pkg:nuget/Soenneker.SendGrid.HttpClients@4.0.101
 - pkg:nuget/Soenneker.SendGrid.HttpClients@4.0.123
 - pkg:nuget/Soenneker.SendGrid.HttpClients@4.0.126
