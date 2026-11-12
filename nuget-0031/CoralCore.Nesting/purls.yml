@@ -1,1 +1,5 @@
 - pkg:nuget/CoralCore.Nesting@3.0.1
+- pkg:nuget/CoralCore.Nesting@8.0.10
+- pkg:nuget/CoralCore.Nesting@8.0.11
+- pkg:nuget/CoralCore.Nesting@8.0.12
+- pkg:nuget/CoralCore.Nesting@8.0.15
