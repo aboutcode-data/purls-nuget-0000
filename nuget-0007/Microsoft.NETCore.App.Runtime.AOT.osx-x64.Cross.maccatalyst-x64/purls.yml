@@ -10,6 +10,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@10.0.1
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@10.0.11
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@10.0.12
+- pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@10.0.14
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@10.0.2
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@10.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@10.0.7
@@ -18,6 +19,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@11.0.0-preview.3.26207.106
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@11.0.0-preview.5.26302.115
+- pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@11.0.0-rc.3.26522.148
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@6.0.0
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@6.0.0-preview.5.21301.5
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@6.0.0-preview.6.21352.12
@@ -115,6 +117,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@8.0.29
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@8.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@8.0.31
+- pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@8.0.33
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@8.0.4
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@8.0.5
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64@8.0.6
