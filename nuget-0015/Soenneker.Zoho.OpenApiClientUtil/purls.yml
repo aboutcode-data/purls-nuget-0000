@@ -2,6 +2,7 @@
 - pkg:nuget/Soenneker.Zoho.OpenApiClientUtil@11.0.189
 - pkg:nuget/Soenneker.Zoho.OpenApiClientUtil@11.0.202
 - pkg:nuget/Soenneker.Zoho.OpenApiClientUtil@11.0.203
+- pkg:nuget/Soenneker.Zoho.OpenApiClientUtil@11.0.211
 - pkg:nuget/Soenneker.Zoho.OpenApiClientUtil@4.0.10
 - pkg:nuget/Soenneker.Zoho.OpenApiClientUtil@4.0.101
 - pkg:nuget/Soenneker.Zoho.OpenApiClientUtil@4.0.103
