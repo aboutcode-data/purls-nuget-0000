@@ -97,3 +97,4 @@
 - pkg:nuget/SSF.Infrastructure.Implementations@2.48.0
 - pkg:nuget/SSF.Infrastructure.Implementations@2.58.0
 - pkg:nuget/SSF.Infrastructure.Implementations@2.62.0
+- pkg:nuget/SSF.Infrastructure.Implementations@2.64.0
