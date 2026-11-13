@@ -26,3 +26,4 @@
 - pkg:nuget/WolverineFx.SignalR@6.63.0
 - pkg:nuget/WolverineFx.SignalR@6.64.0
 - pkg:nuget/WolverineFx.SignalR@6.7.0
+- pkg:nuget/WolverineFx.SignalR@7.0.0-alpha.2
