@@ -3,3 +3,5 @@
 - pkg:nuget/HyperDev.Web.Remoting@1.0.14
 - pkg:nuget/HyperDev.Web.Remoting@1.0.2
 - pkg:nuget/HyperDev.Web.Remoting@1.0.3
+- pkg:nuget/HyperDev.Web.Remoting@1.2.1
+- pkg:nuget/HyperDev.Web.Remoting@1.2.3
