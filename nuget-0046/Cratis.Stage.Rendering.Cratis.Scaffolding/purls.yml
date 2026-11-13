@@ -65,6 +65,9 @@
 - pkg:nuget/Cratis.Stage.Rendering.Cratis.Scaffolding@5.10.0
 - pkg:nuget/Cratis.Stage.Rendering.Cratis.Scaffolding@5.11.0
 - pkg:nuget/Cratis.Stage.Rendering.Cratis.Scaffolding@5.12.0
+- pkg:nuget/Cratis.Stage.Rendering.Cratis.Scaffolding@5.16.0
+- pkg:nuget/Cratis.Stage.Rendering.Cratis.Scaffolding@5.20.0
+- pkg:nuget/Cratis.Stage.Rendering.Cratis.Scaffolding@5.20.1
 - pkg:nuget/Cratis.Stage.Rendering.Cratis.Scaffolding@5.5.0
 - pkg:nuget/Cratis.Stage.Rendering.Cratis.Scaffolding@5.8.1
 - pkg:nuget/Cratis.Stage.Rendering.Cratis.Scaffolding@5.9.0
