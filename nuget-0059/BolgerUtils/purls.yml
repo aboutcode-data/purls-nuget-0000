@@ -36,3 +36,4 @@
 - pkg:nuget/BolgerUtils@3.0.0.7
 - pkg:nuget/BolgerUtils@3.0.0.8
 - pkg:nuget/BolgerUtils@4.0.0
+- pkg:nuget/BolgerUtils@5.0.1
