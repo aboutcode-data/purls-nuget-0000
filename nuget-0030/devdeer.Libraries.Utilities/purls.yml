@@ -27,3 +27,5 @@
 - pkg:nuget/devdeer.Libraries.Utilities@3.1.0
 - pkg:nuget/devdeer.Libraries.Utilities@3.1.2
 - pkg:nuget/devdeer.Libraries.Utilities@5.0.4
+- pkg:nuget/devdeer.Libraries.Utilities@5.1.6
+- pkg:nuget/devdeer.Libraries.Utilities@6.0.1
