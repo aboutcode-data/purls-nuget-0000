@@ -9,6 +9,9 @@
 - pkg:nuget/idatasoftwareschedule@17.0.0
 - pkg:nuget/idatasoftwareschedule@18.0.0
 - pkg:nuget/idatasoftwareschedule@2.0.0
+- pkg:nuget/idatasoftwareschedule@23.0.0
+- pkg:nuget/idatasoftwareschedule@25.0.0
+- pkg:nuget/idatasoftwareschedule@25.0.1
 - pkg:nuget/idatasoftwareschedule@3.0.0
 - pkg:nuget/idatasoftwareschedule@5.0.0
 - pkg:nuget/idatasoftwareschedule@6.0.0
