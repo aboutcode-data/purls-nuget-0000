@@ -21,3 +21,5 @@
 - pkg:nuget/Bluefish.Connections@1.0.7
 - pkg:nuget/Bluefish.Connections@1.0.8
 - pkg:nuget/Bluefish.Connections@1.0.9
+- pkg:nuget/Bluefish.Connections@10.0.5
+- pkg:nuget/Bluefish.Connections@10.0.6
