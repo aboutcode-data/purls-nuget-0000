@@ -1,3 +1,5 @@
+- pkg:nuget/JS.Abp.AI.Azure@10.6.1
+- pkg:nuget/JS.Abp.AI.Azure@10.6.2
 - pkg:nuget/JS.Abp.AI.Azure@8.2.3
 - pkg:nuget/JS.Abp.AI.Azure@8.3.0
 - pkg:nuget/JS.Abp.AI.Azure@8.3.1
