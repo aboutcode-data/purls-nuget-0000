@@ -1,6 +1,7 @@
 - pkg:nuget/Barcode-net@10.0.0.6
 - pkg:nuget/Barcode-net@2.0.0.6
 - pkg:nuget/Barcode-net@3.0.0.6
+- pkg:nuget/Barcode-net@3.5.0.10
 - pkg:nuget/Barcode-net@3.5.0.6
 - pkg:nuget/Barcode-net@4.0.0.6
 - pkg:nuget/Barcode-net@4.5.0.6
