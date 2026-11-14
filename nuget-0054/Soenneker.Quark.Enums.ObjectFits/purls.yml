@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Quark.Enums.ObjectFits@11.0.103
+- pkg:nuget/Soenneker.Quark.Enums.ObjectFits@11.0.104
 - pkg:nuget/Soenneker.Quark.Enums.ObjectFits@3.0.1
 - pkg:nuget/Soenneker.Quark.Enums.ObjectFits@3.0.3
 - pkg:nuget/Soenneker.Quark.Enums.ObjectFits@3.0.4
@@ -19,3 +21,5 @@
 - pkg:nuget/Soenneker.Quark.Enums.ObjectFits@4.0.57
 - pkg:nuget/Soenneker.Quark.Enums.ObjectFits@4.0.66
 - pkg:nuget/Soenneker.Quark.Enums.ObjectFits@4.0.86
+- pkg:nuget/Soenneker.Quark.Enums.ObjectFits@4.0.87
+- pkg:nuget/Soenneker.Quark.Enums.ObjectFits@4.0.99
