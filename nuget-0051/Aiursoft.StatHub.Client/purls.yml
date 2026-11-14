@@ -35,6 +35,10 @@
 - pkg:nuget/Aiursoft.StatHub.Client@10.0.57
 - pkg:nuget/Aiursoft.StatHub.Client@10.0.60
 - pkg:nuget/Aiursoft.StatHub.Client@10.0.64
+- pkg:nuget/Aiursoft.StatHub.Client@10.0.66
+- pkg:nuget/Aiursoft.StatHub.Client@10.0.69
+- pkg:nuget/Aiursoft.StatHub.Client@10.0.71
+- pkg:nuget/Aiursoft.StatHub.Client@10.0.73
 - pkg:nuget/Aiursoft.StatHub.Client@8.0.0
 - pkg:nuget/Aiursoft.StatHub.Client@8.0.1
 - pkg:nuget/Aiursoft.StatHub.Client@8.0.10
