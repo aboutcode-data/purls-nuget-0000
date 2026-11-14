@@ -34,6 +34,7 @@
 - pkg:nuget/Glash.Blazor.Agent@1.5.7
 - pkg:nuget/Glash.Blazor.Agent@1.5.8
 - pkg:nuget/Glash.Blazor.Agent@1.5.9
+- pkg:nuget/Glash.Blazor.Agent@2026.10.3
 - pkg:nuget/Glash.Blazor.Agent@2026.25.813
 - pkg:nuget/Glash.Blazor.Agent@2026.30.828
 - pkg:nuget/Glash.Blazor.Agent@2026.5.327
