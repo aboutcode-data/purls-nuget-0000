@@ -6,3 +6,6 @@
 - pkg:nuget/Identity.Module.ClaimsManager@2.5.49
 - pkg:nuget/Identity.Module.ClaimsManager@2.5.50
 - pkg:nuget/Identity.Module.ClaimsManager@2.5.51
+- pkg:nuget/Identity.Module.ClaimsManager@2.5.64
+- pkg:nuget/Identity.Module.ClaimsManager@2.5.67
+- pkg:nuget/Identity.Module.ClaimsManager@2.5.70
