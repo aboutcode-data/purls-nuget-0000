@@ -1,3 +1,4 @@
 - pkg:nuget/VpnHood.Net.PacketTransports@8.2.852
 - pkg:nuget/VpnHood.Net.PacketTransports@9.0.855
 - pkg:nuget/VpnHood.Net.PacketTransports@9.0.857
+- pkg:nuget/VpnHood.Net.PacketTransports@9.1.875
