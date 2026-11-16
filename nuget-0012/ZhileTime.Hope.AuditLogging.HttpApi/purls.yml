@@ -32,6 +32,7 @@
 - pkg:nuget/ZhileTime.Hope.AuditLogging.HttpApi@1.8.2
 - pkg:nuget/ZhileTime.Hope.AuditLogging.HttpApi@1.8.5
 - pkg:nuget/ZhileTime.Hope.AuditLogging.HttpApi@11.0.0
+- pkg:nuget/ZhileTime.Hope.AuditLogging.HttpApi@12.1.0
 - pkg:nuget/ZhileTime.Hope.AuditLogging.HttpApi@2.1.0
 - pkg:nuget/ZhileTime.Hope.AuditLogging.HttpApi@2.2.0
 - pkg:nuget/ZhileTime.Hope.AuditLogging.HttpApi@2.2.1
