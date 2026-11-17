@@ -102,3 +102,4 @@
 - pkg:nuget/ReactiveUI.AndroidX@24.2.0
 - pkg:nuget/ReactiveUI.AndroidX@24.3.0
 - pkg:nuget/ReactiveUI.AndroidX@25.1.0
+- pkg:nuget/ReactiveUI.AndroidX@27.0.1
