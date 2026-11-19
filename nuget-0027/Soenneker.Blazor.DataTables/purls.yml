@@ -12,6 +12,8 @@
 - pkg:nuget/Soenneker.Blazor.DataTables@11.0.3162
 - pkg:nuget/Soenneker.Blazor.DataTables@11.0.3189
 - pkg:nuget/Soenneker.Blazor.DataTables@11.0.3195
+- pkg:nuget/Soenneker.Blazor.DataTables@11.0.3196
+- pkg:nuget/Soenneker.Blazor.DataTables@11.0.3203
 - pkg:nuget/Soenneker.Blazor.DataTables@2.1.10
 - pkg:nuget/Soenneker.Blazor.DataTables@2.1.100
 - pkg:nuget/Soenneker.Blazor.DataTables@2.1.101
