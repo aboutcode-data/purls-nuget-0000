@@ -6,6 +6,8 @@
 - pkg:nuget/Soenneker.Together.OpenApiClientUtil@11.0.249
 - pkg:nuget/Soenneker.Together.OpenApiClientUtil@11.0.254
 - pkg:nuget/Soenneker.Together.OpenApiClientUtil@11.0.263
+- pkg:nuget/Soenneker.Together.OpenApiClientUtil@11.0.270
+- pkg:nuget/Soenneker.Together.OpenApiClientUtil@11.0.272
 - pkg:nuget/Soenneker.Together.OpenApiClientUtil@4.0.101
 - pkg:nuget/Soenneker.Together.OpenApiClientUtil@4.0.104
 - pkg:nuget/Soenneker.Together.OpenApiClientUtil@4.0.106
