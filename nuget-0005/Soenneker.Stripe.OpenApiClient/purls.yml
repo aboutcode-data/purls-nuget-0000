@@ -2,6 +2,7 @@
 - pkg:nuget/Soenneker.Stripe.OpenApiClient@11.0.144
 - pkg:nuget/Soenneker.Stripe.OpenApiClient@11.0.145
 - pkg:nuget/Soenneker.Stripe.OpenApiClient@11.0.146
+- pkg:nuget/Soenneker.Stripe.OpenApiClient@11.0.154
 - pkg:nuget/Soenneker.Stripe.OpenApiClient@3.0.1
 - pkg:nuget/Soenneker.Stripe.OpenApiClient@3.0.10
 - pkg:nuget/Soenneker.Stripe.OpenApiClient@3.0.11
