@@ -119,3 +119,4 @@
 - pkg:nuget/PhoenixmlDb.XQuery@1.8.0
 - pkg:nuget/PhoenixmlDb.XQuery@2.3.0
 - pkg:nuget/PhoenixmlDb.XQuery@2.8.0
+- pkg:nuget/PhoenixmlDb.XQuery@3.2.0
