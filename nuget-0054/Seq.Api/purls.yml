@@ -85,6 +85,7 @@
 - pkg:nuget/Seq.Api@2025.2.1
 - pkg:nuget/Seq.Api@2025.2.2
 - pkg:nuget/Seq.Api@2025.2.2-dev-00263
+- pkg:nuget/Seq.Api@2026.2.0-dev-00501
 - pkg:nuget/Seq.Api@3.0.3
 - pkg:nuget/Seq.Api@3.3.1
 - pkg:nuget/Seq.Api@3.4.0
