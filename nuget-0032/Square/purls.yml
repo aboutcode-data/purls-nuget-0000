@@ -64,6 +64,7 @@
 - pkg:nuget/Square@42.0.0
 - pkg:nuget/Square@42.0.1
 - pkg:nuget/Square@42.0.2
+- pkg:nuget/Square@47.1.0
 - pkg:nuget/Square@5.0.0
 - pkg:nuget/Square@5.1.0
 - pkg:nuget/Square@5.2.0
