@@ -338,3 +338,4 @@
 - pkg:nuget/VirtualClient.TestFramework@3.5.6-beta
 - pkg:nuget/VirtualClient.TestFramework@3.5.8-beta
 - pkg:nuget/VirtualClient.TestFramework@3.5.9-beta
+- pkg:nuget/VirtualClient.TestFramework@4.0.3-beta
