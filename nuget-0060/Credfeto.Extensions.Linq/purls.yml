@@ -554,6 +554,8 @@
 - pkg:nuget/Credfeto.Extensions.Linq@1.0.17.155-main
 - pkg:nuget/Credfeto.Extensions.Linq@1.0.17.156-main
 - pkg:nuget/Credfeto.Extensions.Linq@1.0.17.157
+- pkg:nuget/Credfeto.Extensions.Linq@1.0.170.2253-main
+- pkg:nuget/Credfeto.Extensions.Linq@1.0.170.2254-main
 - pkg:nuget/Credfeto.Extensions.Linq@1.0.18.158-main
 - pkg:nuget/Credfeto.Extensions.Linq@1.0.18.159-update-mezianto
 - pkg:nuget/Credfeto.Extensions.Linq@1.0.18.160-main
