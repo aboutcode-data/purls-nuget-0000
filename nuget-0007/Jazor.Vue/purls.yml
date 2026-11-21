@@ -9,3 +9,5 @@
 - pkg:nuget/Jazor.Vue@0.27.0
 - pkg:nuget/Jazor.Vue@0.3.3
 - pkg:nuget/Jazor.Vue@1.0.0
+- pkg:nuget/Jazor.Vue@2.1.0-preview.5
+- pkg:nuget/Jazor.Vue@2.2.0-preview.1
