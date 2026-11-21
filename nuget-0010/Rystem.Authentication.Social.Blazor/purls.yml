@@ -1,4 +1,5 @@
 - pkg:nuget/Rystem.Authentication.Social.Blazor@10.0.7
+- pkg:nuget/Rystem.Authentication.Social.Blazor@11.1.0-beta.3
 - pkg:nuget/Rystem.Authentication.Social.Blazor@6.0.10
 - pkg:nuget/Rystem.Authentication.Social.Blazor@6.0.11
 - pkg:nuget/Rystem.Authentication.Social.Blazor@6.0.12
