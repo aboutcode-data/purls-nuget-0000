@@ -1989,6 +1989,7 @@
 - pkg:nuget/FunFair.CodeAnalysis@7.2.3.2083-update-funfair
 - pkg:nuget/FunFair.CodeAnalysis@7.2.3.2089-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.30.2703-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.32.2714-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.4.2104-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.4.2112-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.6.2131-benchmark-basel
