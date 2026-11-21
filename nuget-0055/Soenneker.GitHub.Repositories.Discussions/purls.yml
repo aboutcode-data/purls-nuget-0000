@@ -9,6 +9,7 @@
 - pkg:nuget/Soenneker.GitHub.Repositories.Discussions@11.0.1715
 - pkg:nuget/Soenneker.GitHub.Repositories.Discussions@11.0.1723
 - pkg:nuget/Soenneker.GitHub.Repositories.Discussions@11.0.1725
+- pkg:nuget/Soenneker.GitHub.Repositories.Discussions@11.0.1729
 - pkg:nuget/Soenneker.GitHub.Repositories.Discussions@3.0.1
 - pkg:nuget/Soenneker.GitHub.Repositories.Discussions@3.0.10
 - pkg:nuget/Soenneker.GitHub.Repositories.Discussions@3.0.100
