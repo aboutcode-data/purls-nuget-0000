@@ -1035,6 +1035,7 @@
 - pkg:nuget/Pulumi.AwsNative@1.86.0-alpha.1794511028
 - pkg:nuget/Pulumi.AwsNative@1.86.0-alpha.1794525824
 - pkg:nuget/Pulumi.AwsNative@1.86.0-alpha.1795000373
+- pkg:nuget/Pulumi.AwsNative@1.87.0-alpha.1795209136
 - pkg:nuget/Pulumi.AwsNative@1.9.0
 - pkg:nuget/Pulumi.AwsNative@1.9.0-alpha.1731604085
 - pkg:nuget/Pulumi.AwsNative@1.9.0-alpha.1731924502
