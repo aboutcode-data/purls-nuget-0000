@@ -17,3 +17,4 @@
 - pkg:nuget/Gurux.MQTT@8.1.2302.902
 - pkg:nuget/Gurux.MQTT@8.1.2401.1701
 - pkg:nuget/Gurux.MQTT@8.1.2503.1301
+- pkg:nuget/Gurux.MQTT@9.0.2611.1803
