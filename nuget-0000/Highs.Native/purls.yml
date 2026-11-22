@@ -1,5 +1,6 @@
 - pkg:nuget/Highs.Native@1.10.0
 - pkg:nuget/Highs.Native@1.11.0
+- pkg:nuget/Highs.Native@1.16.0-preview.1
 - pkg:nuget/Highs.Native@1.6.90
 - pkg:nuget/Highs.Native@1.6.91
 - pkg:nuget/Highs.Native@1.6.92
