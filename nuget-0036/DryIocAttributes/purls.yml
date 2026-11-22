@@ -86,3 +86,4 @@
 - pkg:nuget/DryIocAttributes@6.0.1
 - pkg:nuget/DryIocAttributes@6.1.0
 - pkg:nuget/DryIocAttributes@7.0.0
+- pkg:nuget/DryIocAttributes@8.0.0
