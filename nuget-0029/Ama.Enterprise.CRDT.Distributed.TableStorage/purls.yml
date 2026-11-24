@@ -28,3 +28,6 @@
 - pkg:nuget/Ama.Enterprise.CRDT.Distributed.TableStorage@0.1.261111-ci1705
 - pkg:nuget/Ama.Enterprise.CRDT.Distributed.TableStorage@0.1.261121-ci1357
 - pkg:nuget/Ama.Enterprise.CRDT.Distributed.TableStorage@0.1.261121-ci1439
+- pkg:nuget/Ama.Enterprise.CRDT.Distributed.TableStorage@0.2.261123-ci1800
+- pkg:nuget/Ama.Enterprise.CRDT.Distributed.TableStorage@0.2.261123-ci1804
+- pkg:nuget/Ama.Enterprise.CRDT.Distributed.TableStorage@0.2.261123-ci1832
