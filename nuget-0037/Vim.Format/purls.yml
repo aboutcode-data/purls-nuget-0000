@@ -11,3 +11,4 @@
 - pkg:nuget/Vim.Format@1.7.0%2B44a1a5f47ee5820850f11a8242861ae684f85df6
 - pkg:nuget/Vim.Format@1.8.0%2B5b89c26bf7278e113ceff5825cab4cf6c3b44ede
 - pkg:nuget/Vim.Format@1.8.1%2B820d0ba8610de88b4e7dfadce3e2c537c2774092
+- pkg:nuget/Vim.Format@1.8.4%2B21e5ed3c043541c0e50862cf07b89a822f1f0bb2
