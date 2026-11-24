@@ -21,3 +21,5 @@
 - pkg:nuget/AutoDomain.Modules.Core.Blazor@4.2.96
 - pkg:nuget/AutoDomain.Modules.Core.Blazor@4.3.51
 - pkg:nuget/AutoDomain.Modules.Core.Blazor@4.3.61
+- pkg:nuget/AutoDomain.Modules.Core.Blazor@4.3.68
+- pkg:nuget/AutoDomain.Modules.Core.Blazor@4.3.87
