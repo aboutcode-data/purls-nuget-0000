@@ -41,6 +41,10 @@
 - pkg:nuget/Sufficit.AI.Core@1.26.1121.2012
 - pkg:nuget/Sufficit.AI.Core@1.26.1121.2027
 - pkg:nuget/Sufficit.AI.Core@1.26.1121.2045
+- pkg:nuget/Sufficit.AI.Core@1.26.1122.2231
+- pkg:nuget/Sufficit.AI.Core@1.26.1122.2238
+- pkg:nuget/Sufficit.AI.Core@1.26.1123.2152
+- pkg:nuget/Sufficit.AI.Core@1.26.1123.2159
 - pkg:nuget/Sufficit.AI.Core@1.26.505.1449
 - pkg:nuget/Sufficit.AI.Core@1.26.505.1520
 - pkg:nuget/Sufficit.AI.Core@1.26.514.1929
