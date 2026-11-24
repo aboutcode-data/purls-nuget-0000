@@ -71,4 +71,5 @@
 - pkg:nuget/VRChat.API@2.24.1-nightly.10
 - pkg:nuget/VRChat.API@2.24.1-nightly.15
 - pkg:nuget/VRChat.API@2.24.1-nightly.16
+- pkg:nuget/VRChat.API@2.24.1-nightly.20
 - pkg:nuget/VRChat.API@2.24.1-nightly.4
