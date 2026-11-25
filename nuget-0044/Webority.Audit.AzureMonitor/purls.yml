@@ -3,3 +3,4 @@
 - pkg:nuget/Webority.Audit.AzureMonitor@0.29.1
 - pkg:nuget/Webority.Audit.AzureMonitor@0.32.2
 - pkg:nuget/Webority.Audit.AzureMonitor@0.32.3
+- pkg:nuget/Webority.Audit.AzureMonitor@0.33.0
