@@ -164,4 +164,5 @@
 - pkg:nuget/Dapplo.Windows.Dpi@3.23.3
 - pkg:nuget/Dapplo.Windows.Dpi@3.24.2
 - pkg:nuget/Dapplo.Windows.Dpi@3.25.2
+- pkg:nuget/Dapplo.Windows.Dpi@3.26.3
 - pkg:nuget/Dapplo.Windows.Dpi@3.9.2
