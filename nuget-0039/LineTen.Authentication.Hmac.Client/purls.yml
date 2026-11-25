@@ -89,3 +89,4 @@
 - pkg:nuget/LineTen.Authentication.Hmac.Client@2.0.9
 - pkg:nuget/LineTen.Authentication.Hmac.Client@2.0.95
 - pkg:nuget/LineTen.Authentication.Hmac.Client@2.0.99
+- pkg:nuget/LineTen.Authentication.Hmac.Client@3.4.0
