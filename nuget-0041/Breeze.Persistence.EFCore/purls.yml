@@ -26,3 +26,4 @@
 - pkg:nuget/Breeze.Persistence.EFCore@7.4.0
 - pkg:nuget/Breeze.Persistence.EFCore@7.4.1
 - pkg:nuget/Breeze.Persistence.EFCore@7.4.2
+- pkg:nuget/Breeze.Persistence.EFCore@8.0.1
