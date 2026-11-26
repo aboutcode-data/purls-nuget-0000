@@ -1,2 +1,4 @@
 - pkg:nuget/AndreGoepel.AppFoundation.ServiceDefaults@1.0.0
 - pkg:nuget/AndreGoepel.AppFoundation.ServiceDefaults@1.2.0
+- pkg:nuget/AndreGoepel.AppFoundation.ServiceDefaults@1.6.0
+- pkg:nuget/AndreGoepel.AppFoundation.ServiceDefaults@2.1.1
