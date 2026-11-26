@@ -145,3 +145,4 @@
 - pkg:nuget/SmtpLw@2.0.79
 - pkg:nuget/SmtpLw@2.0.85
 - pkg:nuget/SmtpLw@2.0.92
+- pkg:nuget/SmtpLw@2.1.20
