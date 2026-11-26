@@ -13,3 +13,6 @@
 - pkg:nuget/Kanject.Cli.Templates@1.5.0
 - pkg:nuget/Kanject.Cli.Templates@1.5.1
 - pkg:nuget/Kanject.Cli.Templates@2.0.1
+- pkg:nuget/Kanject.Cli.Templates@2.3.0
+- pkg:nuget/Kanject.Cli.Templates@2.5.0
+- pkg:nuget/Kanject.Cli.Templates@2.6.1
