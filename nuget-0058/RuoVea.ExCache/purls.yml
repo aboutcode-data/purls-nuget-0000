@@ -1,4 +1,5 @@
 - pkg:nuget/RuoVea.ExCache@10.0.0
+- pkg:nuget/RuoVea.ExCache@2.0.0.1
 - pkg:nuget/RuoVea.ExCache@5.0.0
 - pkg:nuget/RuoVea.ExCache@5.0.1
 - pkg:nuget/RuoVea.ExCache@5.0.2
