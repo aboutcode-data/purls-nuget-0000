@@ -40,3 +40,5 @@
 - pkg:nuget/BitcoinCashClient@3.0.6
 - pkg:nuget/BitcoinCashClient@3.0.7
 - pkg:nuget/BitcoinCashClient@3.0.8
+- pkg:nuget/BitcoinCashClient@4.1.0
+- pkg:nuget/BitcoinCashClient@4.1.1
