@@ -1,3 +1,4 @@
+- pkg:nuget/RuoVea.OmiApi.User@10.0.1.9
 - pkg:nuget/RuoVea.OmiApi.User@6.0.0
 - pkg:nuget/RuoVea.OmiApi.User@6.0.0.1
 - pkg:nuget/RuoVea.OmiApi.User@6.0.0.2
@@ -58,3 +59,4 @@
 - pkg:nuget/RuoVea.OmiApi.User@8.0.1.4
 - pkg:nuget/RuoVea.OmiApi.User@8.0.1.5
 - pkg:nuget/RuoVea.OmiApi.User@8.0.1.6
+- pkg:nuget/RuoVea.OmiApi.User@8.0.2.11
