@@ -3,6 +3,7 @@
 - pkg:nuget/NewHeap.Platform.Common.Test@23.0.1
 - pkg:nuget/NewHeap.Platform.Common.Test@34.0.0
 - pkg:nuget/NewHeap.Platform.Common.Test@37.0.0
+- pkg:nuget/NewHeap.Platform.Common.Test@39.3.1
 - pkg:nuget/NewHeap.Platform.Common.Test@4.0.0
 - pkg:nuget/NewHeap.Platform.Common.Test@4.1.0
 - pkg:nuget/NewHeap.Platform.Common.Test@4.3.1
