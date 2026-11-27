@@ -1,2 +1,3 @@
 - pkg:nuget/WuzApiClient.Common@1.0.0-preview.18
 - pkg:nuget/WuzApiClient.Common@1.0.0-preview.19
+- pkg:nuget/WuzApiClient.Common@1.3.0
