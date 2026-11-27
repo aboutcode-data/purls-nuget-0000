@@ -1,3 +1,10 @@
+- pkg:nuget/Soenneker.JavaScript.Formatter@11.0.166
+- pkg:nuget/Soenneker.JavaScript.Formatter@11.0.170
+- pkg:nuget/Soenneker.JavaScript.Formatter@11.0.172
+- pkg:nuget/Soenneker.JavaScript.Formatter@11.0.174
+- pkg:nuget/Soenneker.JavaScript.Formatter@11.0.178
+- pkg:nuget/Soenneker.JavaScript.Formatter@11.0.179
+- pkg:nuget/Soenneker.JavaScript.Formatter@11.0.184
 - pkg:nuget/Soenneker.JavaScript.Formatter@4.0.1
 - pkg:nuget/Soenneker.JavaScript.Formatter@4.0.117
 - pkg:nuget/Soenneker.JavaScript.Formatter@4.0.122
