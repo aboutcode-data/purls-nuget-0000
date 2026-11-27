@@ -7,3 +7,5 @@
 - pkg:nuget/OnBarcode.Crystal.Reports.Blazor@10.0.0.24
 - pkg:nuget/OnBarcode.Crystal.Reports.Blazor@10.0.0.27
 - pkg:nuget/OnBarcode.Crystal.Reports.Blazor@10.0.0.45
+- pkg:nuget/OnBarcode.Crystal.Reports.Blazor@10.0.0.53
+- pkg:nuget/OnBarcode.Crystal.Reports.Blazor@10.0.0.55
