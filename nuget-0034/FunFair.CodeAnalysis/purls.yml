@@ -1995,6 +1995,9 @@
 - pkg:nuget/FunFair.CodeAnalysis@7.2.33.2731-redundant-null
 - pkg:nuget/FunFair.CodeAnalysis@7.2.33.2740-prohibited-meth
 - pkg:nuget/FunFair.CodeAnalysis@7.2.33.2751-partial-types-r
+- pkg:nuget/FunFair.CodeAnalysis@7.2.33.2753-main
+- pkg:nuget/FunFair.CodeAnalysis@7.2.33.2754-ffs0041-console
+- pkg:nuget/FunFair.CodeAnalysis@7.2.33.2755-ffs0041-console
 - pkg:nuget/FunFair.CodeAnalysis@7.2.4.2104-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.4.2112-main
 - pkg:nuget/FunFair.CodeAnalysis@7.2.6.2131-benchmark-basel
