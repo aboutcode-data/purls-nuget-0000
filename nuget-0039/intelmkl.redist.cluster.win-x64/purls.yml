@@ -27,3 +27,4 @@
 - pkg:nuget/intelmkl.redist.cluster.win-x64@2025.0.1.5
 - pkg:nuget/intelmkl.redist.cluster.win-x64@2025.1.0.798
 - pkg:nuget/intelmkl.redist.cluster.win-x64@2025.2.0.627
+- pkg:nuget/intelmkl.redist.cluster.win-x64@2026.2.2.6
