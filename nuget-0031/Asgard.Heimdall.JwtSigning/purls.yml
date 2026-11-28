@@ -1,1 +1,6 @@
 - pkg:nuget/Asgard.Heimdall.JwtSigning@0.1.0
+- pkg:nuget/Asgard.Heimdall.JwtSigning@5.11.0
+- pkg:nuget/Asgard.Heimdall.JwtSigning@5.12.1
+- pkg:nuget/Asgard.Heimdall.JwtSigning@5.5.2
+- pkg:nuget/Asgard.Heimdall.JwtSigning@5.9.0
+- pkg:nuget/Asgard.Heimdall.JwtSigning@5.9.4
