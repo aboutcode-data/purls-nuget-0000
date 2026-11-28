@@ -10,3 +10,6 @@
 - pkg:nuget/DHI.DFS@22.0.3
 - pkg:nuget/DHI.DFS@22.1.0
 - pkg:nuget/DHI.DFS@23.0.3
+- pkg:nuget/DHI.DFS@24.1.0
+- pkg:nuget/DHI.DFS@24.1.2
+- pkg:nuget/DHI.DFS@25.0.3
