@@ -32,3 +32,5 @@
 - pkg:nuget/BB84.EntityFrameworkCore.Repositories.Abstractions@4.3.327
 - pkg:nuget/BB84.EntityFrameworkCore.Repositories.Abstractions@4.4.724
 - pkg:nuget/BB84.EntityFrameworkCore.Repositories.Abstractions@4.5.725
+- pkg:nuget/BB84.EntityFrameworkCore.Repositories.Abstractions@5.0.1027
+- pkg:nuget/BB84.EntityFrameworkCore.Repositories.Abstractions@5.0.1125
