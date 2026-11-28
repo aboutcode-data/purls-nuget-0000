@@ -8,6 +8,7 @@
 - pkg:nuget/Soenneker.ElevenLabs.OpenApiClient@11.0.155
 - pkg:nuget/Soenneker.ElevenLabs.OpenApiClient@11.0.158
 - pkg:nuget/Soenneker.ElevenLabs.OpenApiClient@11.0.159
+- pkg:nuget/Soenneker.ElevenLabs.OpenApiClient@11.0.162
 - pkg:nuget/Soenneker.ElevenLabs.OpenApiClient@4.0.106
 - pkg:nuget/Soenneker.ElevenLabs.OpenApiClient@4.0.119
 - pkg:nuget/Soenneker.ElevenLabs.OpenApiClient@4.0.14
