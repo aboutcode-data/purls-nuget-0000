@@ -1,0 +1,6 @@
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Mosquitto@13.5.1-beta.763
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Mosquitto@13.5.1-beta.895
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Mosquitto@13.6.1-beta.935
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Mosquitto@17.0.0
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Mosquitto@17.0.0-beta.1052
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Mosquitto@17.0.0-beta.1075
