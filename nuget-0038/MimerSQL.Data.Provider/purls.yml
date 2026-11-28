@@ -12,3 +12,4 @@
 - pkg:nuget/MimerSQL.Data.Provider@11.0.415
 - pkg:nuget/MimerSQL.Data.Provider@11.0.415-xmldoc
 - pkg:nuget/MimerSQL.Data.Provider@11.0.515
+- pkg:nuget/MimerSQL.Data.Provider@11.1.0.1-beta
