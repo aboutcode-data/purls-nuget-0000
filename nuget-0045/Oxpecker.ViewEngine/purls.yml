@@ -25,3 +25,4 @@
 - pkg:nuget/Oxpecker.ViewEngine@1.0.1
 - pkg:nuget/Oxpecker.ViewEngine@1.1.0
 - pkg:nuget/Oxpecker.ViewEngine@2.0.1
+- pkg:nuget/Oxpecker.ViewEngine@3.0.0
