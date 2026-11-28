@@ -13,3 +13,6 @@
 - pkg:nuget/NuExt.System.Data@0.3.2
 - pkg:nuget/NuExt.System.Data@0.3.3
 - pkg:nuget/NuExt.System.Data@0.5.2
+- pkg:nuget/NuExt.System.Data@0.8.1
+- pkg:nuget/NuExt.System.Data@0.8.8
+- pkg:nuget/NuExt.System.Data@0.9.3
