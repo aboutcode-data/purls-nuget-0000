@@ -2,3 +2,6 @@
 - pkg:nuget/Skyline.DataMiner.Intelligence.Schema@4.0.2
 - pkg:nuget/Skyline.DataMiner.Intelligence.Schema@4.2.0
 - pkg:nuget/Skyline.DataMiner.Intelligence.Schema@4.2.1
+- pkg:nuget/Skyline.DataMiner.Intelligence.Schema@4.3.0
+- pkg:nuget/Skyline.DataMiner.Intelligence.Schema@4.3.11
+- pkg:nuget/Skyline.DataMiner.Intelligence.Schema@4.3.9
