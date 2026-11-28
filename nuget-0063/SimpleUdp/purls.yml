@@ -13,3 +13,4 @@
 - pkg:nuget/SimpleUdp@2.0.0
 - pkg:nuget/SimpleUdp@2.0.1
 - pkg:nuget/SimpleUdp@2.0.2
+- pkg:nuget/SimpleUdp@3.3.2
