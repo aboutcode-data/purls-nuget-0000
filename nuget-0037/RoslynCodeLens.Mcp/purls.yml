@@ -19,6 +19,8 @@
 - pkg:nuget/RoslynCodeLens.Mcp@2.2.2-ci.523
 - pkg:nuget/RoslynCodeLens.Mcp@2.2.2-ci.525
 - pkg:nuget/RoslynCodeLens.Mcp@2.2.2-ci.527
+- pkg:nuget/RoslynCodeLens.Mcp@2.20.1
+- pkg:nuget/RoslynCodeLens.Mcp@2.20.3
 - pkg:nuget/RoslynCodeLens.Mcp@2.3.1-ci.546
 - pkg:nuget/RoslynCodeLens.Mcp@2.4.0
 - pkg:nuget/RoslynCodeLens.Mcp@2.4.0-ci.549
